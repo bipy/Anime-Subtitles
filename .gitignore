@@ -4,3 +4,5 @@
 !.gitignore
 !*.ass
 !*.srt
+!*.ssa
+!*.sup
