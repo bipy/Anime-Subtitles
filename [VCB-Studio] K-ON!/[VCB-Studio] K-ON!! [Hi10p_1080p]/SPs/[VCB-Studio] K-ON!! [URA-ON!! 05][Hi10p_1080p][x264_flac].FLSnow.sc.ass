@@ -1,0 +1,81 @@
+﻿[Script Info]
+; Sub by Flsnow
+; 片源：lippi henry
+; 翻译：小白
+; 时轴：zwc
+; 特效：cookie
+; 后期：ssnake ccdeblade
+; BD:ccdeblade reekilynn
+; http://bbs.flsnow.net
+Original Script: 雪飘轻音部
+Synch Point:0
+ScriptType: v4.00+
+Collisions:Normal
+PlayResX: 1920
+PlayResY: 1080
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,SimHei,68,&H00FFFFFF,&HF0000000,&H00ED2AAC,&H78E645B0,-1,0,0,0,100,100,3,0,1,3.15,1.8,2,45,45,15,1
+Style: Title,华康娃娃体W5,75,&H00000000,&HF0000000,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,5,45,45,15,1
+Style: Text,黑体,38,&H00000000,&H00FAFAFA,&H00FAFAFA,&H00FAFAFA,-1,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.98,Title,,0000,0000,0000,,{\pos(960,720)\b1\bord1.5\c&HD48844&}MC{\c&H2D1CD2&}争霸赛
+Dialogue: 0,0:00:04.98,0:00:09.98,Title,,0000,0000,0000,,{\b1\bord1.5\pos(642,471)\c&H5020C9&}其一
+Dialogue: 0,0:00:04.98,0:00:09.98,Title,,0000,0000,0000,,{\b1\bord1.5\pos(1062,828)\c&HBC8357&}提案
+Dialogue: 0,0:00:10.42,0:00:12.14,Default,,0000,0000,0000,,这次的学园祭live！
+Dialogue: 0,0:00:12.67,0:00:13.50,Default,,0000,0000,0000,,live？
+Dialogue: 0,0:00:15.83,0:00:17.80,Default,,0000,0000,0000,,用MC（喊麦）炒热气氛吧！
+Dialogue: 0,0:00:19.80,0:00:21.74,Default,,0000,0000,0000,,不要用演奏吗
+Dialogue: 0,0:00:21.14,0:00:23.13,Default,,0000,0000,0000,,{\an8}演奏当然也很重要
+Dialogue: 0,0:00:24.35,0:00:26.58,Default,,0000,0000,0000,,但我偷偷调查的结果
+Dialogue: 0,0:00:26.81,0:00:28.61,Default,,0000,0000,0000,,对轻音部呼声最高的
+Dialogue: 0,0:00:29.40,0:00:30.40,Default,,0000,0000,0000,,是搞笑！
+Dialogue: 0,0:00:31.46,0:00:33.12,Default,,0000,0000,0000,,你对谁调查的
+Dialogue: 0,0:00:34.01,0:00:38.44,Default,,0000,0000,0000,,所以 决定最搞笑的成员担当MC
+Dialogue: 0,0:00:40.61,0:00:43.66,Default,,0000,0000,0000,,那么 第一届MC争霸赛开始
+Dialogue: 0,0:00:49.30,0:00:51.85,Default,,0000,0000,0000,,哎 从我开始吗
+Dialogue: 0,0:00:57.55,0:01:02.57,Default,,0000,0000,0000,,大家 欢迎来到放学后tea time的live
+Dialogue: 0,0:01:03.60,0:01:07.33,Default,,0000,0000,0000,,写作live 读作Christmas Eve
+Dialogue: 0,0:01:07.72,0:01:08.63,Default,,0000,0000,0000,,其共同点呢
+Dialogue: 0,0:01:09.71,0:01:11.79,Default,,0000,0000,0000,,都很热烈
+Dialogue: 0,0:01:15.88,0:01:17.48,Default,,0000,0000,0000,,降温了呢
+Dialogue: 0,0:01:17.87,0:01:20.21,Default,,0000,0000,0000,,段子还欠点火候呢
+Dialogue: 0,0:01:26.06,0:01:31.07,Title,,0000,0000,0000,,{\pos(960,720)\b1\bord1.5\c&HD48844&}MC{\c&H2D1CD2&}争霸赛
+Dialogue: 0,0:01:31.07,0:01:36.07,Title,,0000,0000,0000,,{\b1\bord1.5\c&H5020C9&\pos(564,468)}其二
+Dialogue: 0,0:01:31.07,0:01:36.07,Title,,0000,0000,0000,,{\b1\bord1.5\pos(1062,828)\c&HC98551&}就这样
+Dialogue: 0,0:01:38.83,0:01:42.35,Default,,0000,0000,0000,,大家 放学后tea time的live…
+Dialogue: 0,0:01:48.20,0:01:49.97,Default,,0000,0000,0000,,别再给我来了！
+Dialogue: 0,0:01:54.91,0:01:57.40,Default,,0000,0000,0000,,虽然很有意外性
+Dialogue: 0,0:01:57.92,0:02:00.03,Default,,0000,0000,0000,,赶回去怎么行…
+Dialogue: 0,0:02:06.10,0:02:11.11,Title,,0000,0000,0000,,{\pos(960,720)\b1\bord1.5\c&HD48844&}MC{\c&H2D1CD2&}争霸赛
+Dialogue: 0,0:02:11.11,0:02:16.11,Title,,0000,0000,0000,,{\b1\bord1.5\c&H5020C9&\pos(642,471)}其三
+Dialogue: 0,0:02:11.11,0:02:16.11,Title,,0000,0000,0000,,{\b1\bord1.5\pos(1062,828)\c&HC98551&}自爆攻击
+Dialogue: 0,0:02:26.63,0:02:27.24,Default,,0000,0000,0000,,K
+Dialogue: 0,0:02:27.72,0:02:28.33,Default,,0000,0000,0000,,O
+Dialogue: 0,0:02:28.75,0:02:29.29,Default,,0000,0000,0000,,N
+Dialogue: 0,0:02:29.86,0:02:30.82,Default,,0000,0000,0000,,噗
+Dialogue: 0,0:02:35.18,0:02:38.19,Default,,0000,0000,0000,,呃 有点不好评论
+Dialogue: 0,0:02:43.14,0:02:48.14,Title,,0000,0000,0000,,{\pos(960,720)\b1\bord1.5\c&HD48844&}MC{\c&H2D1CD2&}争霸赛
+Dialogue: 0,0:02:48.14,0:02:53.14,Title,,0000,0000,0000,,{\b1\bord1.5\c&H5020C9&\pos(505.5,462)}其四
+Dialogue: 0,0:02:48.14,0:02:53.14,Title,,0000,0000,0000,,{\b1\bord1.5\pos(1062,828)\c&HC98551&}主角总是最后登场
+Dialogue: 0,0:02:55.92,0:02:59.57,Default,,0000,0000,0000,,大家好 我们是放学后tea time
+Dialogue: 0,0:02:59.79,0:03:03.49,Default,,0000,0000,0000,,我想 所谓MC 试麦的时候
+Dialogue: 0,0:03:05.19,0:03:07.78,Default,,0000,0000,0000,,会咚咚敲麦克吧
+Dialogue: 0,0:03:08.04,0:03:10.29,Default,,0000,0000,0000,,我还以为是那个略称呢
+Dialogue: 0,0:03:10.62,0:03:13.03,Default,,0000,0000,0000,,麦克（MIC）con con的MC
+Dialogue: 0,0:03:15.36,0:03:16.91,Default,,0000,0000,0000,,但人家说不是
+Dialogue: 0,0:03:17.24,0:03:20.66,Default,,0000,0000,0000,,就以为是漫谈（相声） comic（滑稽）的MC
+Dialogue: 0,0:03:20.88,0:03:22.58,Default,,0000,0000,0000,,人家说也不对
+Dialogue: 0,0:03:22.97,0:03:27.31,Default,,0000,0000,0000,,就以为是master of seremony（典礼大师）简称MC
+Dialogue: 0,0:03:27.57,0:03:29.62,Default,,0000,0000,0000,,好厉害 大师哦
+Dialogue: 0,0:03:29.74,0:03:30.71,Default,,0000,0000,0000,,是典礼的哦
+Dialogue: 0,0:03:33.80,0:03:35.08,Default,,0000,0000,0000,,这份游刃有余的感觉
+Dialogue: 0,0:03:35.36,0:03:37.76,Default,,0000,0000,0000,,正是典礼大师
+Dialogue: 0,0:03:37.95,0:03:40.44,Default,,0000,0000,0000,,MC之王决定了！
+Dialogue: 0,0:03:41.11,0:03:44.05,Default,,0000,0000,0000,,搞这个有意义吗

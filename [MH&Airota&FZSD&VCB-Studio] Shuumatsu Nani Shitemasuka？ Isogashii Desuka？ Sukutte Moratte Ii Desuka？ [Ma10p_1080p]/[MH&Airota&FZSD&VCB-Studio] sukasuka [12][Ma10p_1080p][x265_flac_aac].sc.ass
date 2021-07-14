@@ -1,0 +1,423 @@
+﻿[Script Info]
+Title: [Sukasuka][12]
+Original Script: Airota&MakariHoshiyume&FZSD
+Synch Point: 0
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正准圆_GBK,48,&H00FFF9FD,&HF0FFFFFF,&H00ED7533,&H30FFFFFF,-1,0,0,0,100,100,0,0,1,1.5,0,2,10,10,13,1
+Style: Comment,方正准圆_GBK,40,&H00FFF9FD,&HF0FFFFFF,&H00ED7533,&H30FFFFFF,-1,0,0,0,100,100,0,0,1,1.5,0,8,10,10,10,1
+Style: Staff,方正准圆_GBK,33,&H20FFFFFF,&HF0000000,&H20000000,&H000F0F0F,-1,0,0,0,100,100,0,0,1,1.5,0,2,30,30,10,1
+Style: Title,方正准雅宋_GBK,50,&H00FFFFFF,&HF0000000,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,2,1,7,30,30,10,1
+Style: OPJP,Reishoreiryu,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,1.5,0,8,55,10,10,128
+Style: OPCN,方正隶变_GBK,46,&H00FFFFFF,&HF0FFFFFF,&H00000000,&HF0FFFFFF,-1,0,0,0,100,100,0,0,1,1.5,0,2,10,10,7,1
+Style: EDCN,方正准雅宋_GBK,38,&H00F5F8F7,&H00000000,&H6427100F,&H64000000,-1,0,0,0,100,100,0,0,1,1,0.7,2,0,0,5,1
+Style: CQEG,Reishoreiryu,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,1.5,0,8,55,10,10,128
+Style: CQCN,方正隶变_GBK,46,&H00FFFFFF,&HF0FFFFFF,&H00000000,&HF0FFFFFF,-1,0,0,0,100,100,0,0,1,1.5,0,2,10,10,7,1
+Style: EDCN,方正准雅宋_GBK,38,&H00F5F8F7,&H00000000,&H6427100F,&H64000000,-1,0,0,0,100,100,0,0,1,1,0.7,2,0,0,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,——Staff——
+Dialogue: 0,0:00:05.00,0:00:09.88,Staff,,0,0,0,,{\fad(200,200)\an8}本字幕由  千夏字幕组&茉语星梦&风之圣殿字幕组  联合制作\N仅供交流试看之用 擅自传播造成法律责任 本字幕组概不负责
+Dialogue: 0,0:00:09.92,0:00:14.88,Staff,,0,0,0,,{\fad(200,200)\an8}翻译:小小达ckling  傻瓜三世   校对:傻瓜三世   时轴:雪兰アニメ   后期:小圣
+Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,——OP——
+Dialogue: 0,0:01:32.51,0:01:42.36,OPJP,,0,0,0,,{\fad(200,200)\blur3}どうしたら あなたに愛を刻めるんだろう？
+Dialogue: 0,0:01:51.91,0:01:55.54,OPJP,,0,0,0,,{\fad(200,200)\blur3}知らない気持ちばかり 覚えたよ
+Dialogue: 0,0:01:55.54,0:01:58.75,OPJP,,0,0,0,,{\fad(200,200)\blur3}忘れかたも教えて
+Dialogue: 0,0:01:58.79,0:02:04.96,OPJP,,0,0,0,,{\fad(200,200)\blur3}言葉だけじゃなくてさ 震える指の温度から
+Dialogue: 0,0:02:05.09,0:02:11.55,OPJP,,0,0,0,,{\fad(200,200)\blur3}それは誰の希望? 私から溢れ出した願いの雫（DROP）
+Dialogue: 0,0:02:11.55,0:02:15.10,OPJP,,0,0,0,,{\fad(200,200)\blur3}消えても 消えても 生まれてくるけど
+Dialogue: 0,0:02:15.22,0:02:18.10,OPJP,,0,0,0,,{\fad(200,200)\blur3}答えなき酷い未来
+Dialogue: 0,0:02:18.52,0:02:24.23,OPJP,,0,0,0,,{\fad(200,200)\blur3}何回目の明日が来るのか わからない夜なら
+Dialogue: 0,0:02:24.23,0:02:28.86,OPJP,,0,0,0,,{\fad(200,200)\blur3}名前を呼ばれたい だって胸が痛い
+Dialogue: 0,0:02:28.86,0:02:32.82,OPJP,,0,0,0,,{\fad(200,200)\blur3}痛くて張り裂けそうだ
+Dialogue: 0,0:02:33.28,0:02:40.50,OPJP,,0,0,0,,{\fad(200,200)\blur3}どうしたら あなたに愛を刻めるんだろう？
+Dialogue: 0,0:02:40.66,0:02:46.38,OPJP,,0,0,0,,{\fad(200,200)\blur3}私がいつか 空に溶け去る前に
+Dialogue: 0,0:02:46.38,0:02:53.93,OPJP,,0,0,0,,{\fad(200,200)\blur3}強い想いで いまを守りたくなった
+Dialogue: 0,0:02:53.93,0:03:00.81,OPJP,,0,0,0,,{\fad(200,200)\blur3}理由は あなたをもっと見ていたいから…
+Dialogue: 0,0:01:32.51,0:01:42.36,OPCN,,0,0,0,,{\fad(200,200)\blur3}如何才能在你心中  铭刻下我的爱意
+Dialogue: 0,0:01:51.91,0:01:55.54,OPCN,,0,0,0,,{\fad(200,200)\blur3}是你  让我体会到无数不曾知晓的情感
+Dialogue: 0,0:01:55.54,0:01:58.75,OPCN,,0,0,0,,{\fad(200,200)\blur3}告诉我该如何忘记吧
+Dialogue: 0,0:01:58.79,0:02:04.96,OPCN,,0,0,0,,{\fad(200,200)\blur3}不要只是开口  用你颤抖的手指的温度告诉我吧
+Dialogue: 0,0:02:05.09,0:02:11.55,OPCN,,0,0,0,,{\fad(200,200)\blur3}又是谁的希望  让我眼眶中的泪水决堤
+Dialogue: 0,0:02:11.55,0:02:15.10,OPCN,,0,0,0,,{\fad(200,200)\blur3}即便滑落脸庞  消失无踪  又会聚满眼眶
+Dialogue: 0,0:02:15.22,0:02:18.10,OPCN,,0,0,0,,{\fad(200,200)\blur3}悲惨的未来里  我寻觅不到答案
+Dialogue: 0,0:02:18.52,0:02:24.23,OPCN,,0,0,0,,{\fad(200,200)\blur3}长夜漫漫  不知道要第几次迎来明天时
+Dialogue: 0,0:02:24.23,0:02:28.86,OPCN,,0,0,0,,{\fad(200,200)\blur3}总想听到你呼唤我的名字  只因揪紧的心口
+Dialogue: 0,0:02:28.86,0:02:32.82,OPCN,,0,0,0,,{\fad(200,200)\blur3}撕心裂肺的痛苦  叫我不堪忍受
+Dialogue: 0,0:02:33.28,0:02:40.50,OPCN,,0,0,0,,{\fad(200,200)\blur3}如何才能在你心中  铭刻下我的爱意
+Dialogue: 0,0:02:40.66,0:02:46.38,OPCN,,0,0,0,,{\fad(200,200)\blur3}不要等到我  化作天边星辰的那一天
+Dialogue: 0,0:02:46.38,0:02:53.93,OPCN,,0,0,0,,{\fad(200,200)\blur3}强烈的思念  催促我守护眼前的一切
+Dialogue: 0,0:02:53.93,0:03:00.81,OPCN,,0,0,0,,{\fad(200,200)\blur3}只因为还想多见到你  哪怕一分一秒
+Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,——IN1——
+Dialogue: 0,0:14:59.67,0:15:07.43,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}The life,it's not for comparing things
+Dialogue: 0,0:15:07.47,0:15:14.40,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}So I hold both of light and shadow.
+Dialogue: 0,0:15:15.61,0:15:22.82,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}The rays of stars will bring me to you
+Dialogue: 0,0:15:22.82,0:15:32.17,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Through the dark nights, I see the way to be shined.
+Dialogue: 0,0:15:37.00,0:15:44.55,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}I don't know what's right for our lives.
+Dialogue: 0,0:15:44.84,0:15:51.89,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}But I know the truth of my love.
+Dialogue: 0,0:15:52.98,0:16:00.36,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}The way,if it's all predetermined.
+Dialogue: 0,0:16:00.78,0:16:07.78,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}And the way I should go all my life.
+Dialogue: 0,0:16:08.66,0:16:16.08,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}I swear to go whatever will be.
+Dialogue: 0,0:16:16.50,0:16:23.84,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Thus the grace I would had will always in my heart.
+Dialogue: 0,0:16:24.34,0:16:36.44,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Thus the grace I would had will always in my heart.
+Dialogue: 0,0:14:59.67,0:15:07.43,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}生命只有一次  往往没有最好的选择
+Dialogue: 0,0:15:07.47,0:15:14.40,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}所以我一手握住光明  一手拥抱黑暗
+Dialogue: 0,0:15:15.61,0:15:22.82,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}天边星辰的光芒  会带我来到你身边
+Dialogue: 0,0:15:22.82,0:15:32.17,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}穿过重重黑夜  我踏向那一瞬的绚烂
+Dialogue: 0,0:15:37.00,0:15:44.55,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}我不知道  我们的一生该如何奉献
+Dialogue: 0,0:15:44.84,0:15:51.89,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}但我知道  自己的爱意真挚而无瑕
+Dialogue: 0,0:15:52.98,0:16:00.36,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}这条道路  是我命中注定的坎坷
+Dialogue: 0,0:16:00.78,0:16:07.78,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}这条道路  是我一生必经的征程
+Dialogue: 0,0:16:08.66,0:16:16.08,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}向天起誓  我将踏上旅途远走高飞
+Dialogue: 0,0:16:16.50,0:16:23.84,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}我所有过的恩典  将永远留在心中
+Dialogue: 0,0:16:24.34,0:16:36.44,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}我所有过的恩典  将永远留在心中
+Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,——IN2——
+Dialogue: 0,0:17:02.86,0:17:10.16,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Are you going to Scarborough Fair?
+Dialogue: 0,0:17:10.16,0:17:17.46,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Parsley, sage, rosemary, and thyme.
+Dialogue: 0,0:17:17.58,0:17:24.72,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Remember me to one who lives there,
+Dialogue: 0,0:17:25.34,0:17:32.14,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}He was once a true love of mine.
+Dialogue: 0,0:17:35.39,0:17:42.78,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Tell him to make me a cambric shirt.
+Dialogue: 0,0:17:42.94,0:17:49.91,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Parsley, sage, rosemary, and thyme.
+Dialogue: 0,0:17:51.83,0:17:59.33,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Without no seams nor needlework.
+Dialogue: 0,0:17:59.46,0:18:06.59,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Then he'll be a true love of mine.
+Dialogue: 0,0:18:35.83,0:18:42.67,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Tell him to find me an acre of land.
+Dialogue: 0,0:18:42.67,0:18:50.26,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Parsley, sage, rosemary, and thyme.
+Dialogue: 0,0:18:50.26,0:18:57.43,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Between the salt water and the sea strand.
+Dialogue: 0,0:18:57.68,0:19:05.57,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Then he'll be a true love of mine.
+Dialogue: 0,0:19:06.32,0:19:14.33,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Are you going to Scarborough Fair?
+Dialogue: 0,0:17:02.86,0:17:10.16,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}您要去斯卡波罗集市吗?
+Dialogue: 0,0:17:10.16,0:17:17.46,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}香芹  鼠尾草  迷迭香和百里香
+Dialogue: 0,0:17:17.58,0:17:24.72,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}代我向那儿的一位先生问好
+Dialogue: 0,0:17:25.34,0:17:32.14,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}他曾经是我的爱人
+Dialogue: 0,0:17:35.39,0:17:42.78,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}叫他替我做件麻布衣衫
+Dialogue: 0,0:17:42.94,0:17:49.91,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}香芹  鼠尾草  迷迭香和百里香
+Dialogue: 0,0:17:51.83,0:17:59.33,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}上面不用缝口  也不用针线
+Dialogue: 0,0:17:59.46,0:18:06.59,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}他就会是我真正的爱人
+Dialogue: 0,0:18:35.83,0:18:42.67,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}叫他替我找一块地
+Dialogue: 0,0:18:42.67,0:18:50.26,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}香芹  鼠尾草  迷迭香和百里香
+Dialogue: 0,0:18:50.26,0:18:57.43,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}就在沙滩和大海之间
+Dialogue: 0,0:18:57.68,0:19:05.57,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}他就会是我真正的爱人
+Dialogue: 0,0:19:06.32,0:19:14.33,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}您要去斯卡波罗集市吗?
+Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,——IN3——
+Dialogue: 0,0:20:37.55,0:20:42.12,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}To the point of access you, I'll always be ahead
+Dialogue: 0,0:20:42.75,0:20:47.59,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}If you go without your joy, I'll chase you with my hands
+Dialogue: 0,0:20:47.92,0:20:52.05,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Though the window you have been, you've always been in love
+Dialogue: 0,0:20:53.03,0:20:58.68,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}If you go without no tears sad
+Dialogue: 0,0:21:00.74,0:21:07.52,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Why we're born to this life
+Dialogue: 0,0:21:07.87,0:21:12.29,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}When the dawn is close inside
+Dialogue: 0,0:21:12.29,0:21:17.80,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}we never say good-bye and never see again
+Dialogue: 0,0:21:18.26,0:21:22.25,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}so that mourning I'll live with
+Dialogue: 0,0:21:22.45,0:21:27.41,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}As ever, been my love, you've ever been the one
+Dialogue: 0,0:21:27.45,0:21:33.00,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}I'll love you more
+Dialogue: 0,0:21:39.49,0:21:44.13,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}To avoid a joy that something gives you in your time
+Dialogue: 0,0:21:44.79,0:21:49.69,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}If you lived, if you decided to compromise your dreams
+Dialogue: 0,0:21:49.89,0:21:54.27,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}To the wind blows you have been, I'll always send you love
+Dialogue: 0,0:21:54.74,0:22:00.80,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Even if I cannot reach it you at last..
+Dialogue: 0,0:22:01.16,0:22:09.40,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}Why we're come to this life
+Dialogue: 0,0:22:09.87,0:22:14.11,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}When we've done it all, Besides,
+Dialogue: 0,0:22:14.28,0:22:19.57,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}we've ever given all each other heart and faith
+Dialogue: 0,0:22:20.14,0:22:24.14,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}All the morning we will see
+Dialogue: 0,0:22:24.35,0:22:30.57,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}As ever, be my love, you'll ever be the one forevermore
+Dialogue: 0,0:22:30.57,0:22:34.66,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}When the dawn is close inside
+Dialogue: 0,0:22:34.88,0:22:40.30,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}we never say good-bye and never see again
+Dialogue: 0,0:22:40.62,0:22:44.86,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}so that mourning I'll live with
+Dialogue: 0,0:22:45.05,0:22:49.88,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}As ever, been my love, you've ever been the one
+Dialogue: 0,0:22:50.14,0:22:56.12,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}I'll love you more
+Dialogue: 0,0:20:37.55,0:20:42.12,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}为了离你更近  我总是昂首阔步
+Dialogue: 0,0:20:42.75,0:20:47.59,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}在你你心灰意冷时  我会牵起你的手
+Dialogue: 0,0:20:47.92,0:20:52.05,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}即使你总在窗边  总在恋爱
+Dialogue: 0,0:20:53.03,0:20:58.68,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}如果不会伤心的流泪
+Dialogue: 0,0:21:00.74,0:21:07.52,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}我们为何来到这世上
+Dialogue: 0,0:21:07.87,0:21:12.29,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}暮光西沉  夜幕降临
+Dialogue: 0,0:21:12.29,0:21:17.80,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}没有告别  不会再见
+Dialogue: 0,0:21:18.26,0:21:22.25,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}唯有残生相思入骨
+Dialogue: 0,0:21:22.45,0:21:27.41,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}我的爱一如既往  至死不渝
+Dialogue: 0,0:21:27.45,0:21:33.00,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}更加爱你
+Dialogue: 0,0:21:39.49,0:21:44.13,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}在你的生命中对欢愉视而不见
+Dialogue: 0,0:21:44.79,0:21:49.69,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}如果你还紧握生命  如果你向梦想妥协
+Dialogue: 0,0:21:49.89,0:21:54.27,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}就像拂过你的微风  我的爱也随你而去
+Dialogue: 0,0:21:54.74,0:22:00.80,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}即使我和你  遥不可及
+Dialogue: 0,0:22:01.16,0:22:09.40,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}我们为何来到这世上
+Dialogue: 0,0:22:09.87,0:22:14.11,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}当一切都已结束
+Dialogue: 0,0:22:14.28,0:22:19.57,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}我们将自己的真心与信仰交付彼此
+Dialogue: 0,0:22:20.14,0:22:24.14,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}每个清晨我们都会知道
+Dialogue: 0,0:22:24.35,0:22:30.57,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}我的爱一如既往  至死不渝
+Dialogue: 0,0:22:30.57,0:22:34.66,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}暮光西沉  夜幕降临
+Dialogue: 0,0:22:34.88,0:22:40.30,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}没有告别  不会再见
+Dialogue: 0,0:22:40.62,0:22:44.86,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}唯有残生相思入骨
+Dialogue: 0,0:22:45.05,0:22:49.88,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}我的爱一如既往  至死不渝
+Dialogue: 0,0:22:50.14,0:22:56.12,CQCN,,0,0,0,,{\fad(150,150)\blur3\an9\fs40}更加爱你
+Comment: 0,0:00:00.00,0:00:00.00,Comment,,0,0,0,,——IN4——
+Dialogue: 0,0:25:43.31,0:25:50.86,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}The way,if it's all predetermined,
+Dialogue: 0,0:25:51.16,0:25:58.52,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}And the way I should go all my life.
+Dialogue: 0,0:25:58.99,0:26:06.55,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}I swear to go whatever will be.
+Dialogue: 0,0:26:06.73,0:26:15.69,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}'cause there'll be something to see and to find.
+Dialogue: 0,0:26:16.78,0:26:24.01,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}I don't know the meaning of life,
+Dialogue: 0,0:26:24.53,0:26:32.12,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}But I know what's truly precious
+Dialogue: 0,0:26:32.58,0:26:40.18,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}The way,it leads me to be in love,
+Dialogue: 0,0:26:40.49,0:26:50.24,CQEG,,0,0,0,,{\fad(150,150)\blur3\an9\fs34}No fear,I can find me always in my heart.
+Dialogue: 0,0:25:43.31,0:25:50.86,CQCN,,0,0,0,,{\fad(150,150)\blur3\an1\fs40}这条道路  是我命中注定的坎坷
+Dialogue: 0,0:25:51.16,0:25:58.52,CQCN,,0,0,0,,{\fad(150,150)\blur3\an1\fs40}这条道路  是我一生必经的征程
+Dialogue: 0,0:25:58.99,0:26:06.55,CQCN,,0,0,0,,{\fad(150,150)\blur3\an1\fs40}向天起誓  我将踏上旅途远走高飞
+Dialogue: 0,0:26:06.73,0:26:15.69,CQCN,,0,0,0,,{\fad(150,150)\blur3\an1\fs40}无论何方  都有值得我寻觅的存在
+Dialogue: 0,0:26:16.78,0:26:24.01,CQCN,,0,0,0,,{\fad(150,150)\blur3\an1\fs40}我不知道  生命的意义缘来何方
+Dialogue: 0,0:26:24.53,0:26:32.12,CQCN,,0,0,0,,{\fad(150,150)\blur3\an1\fs40}但我知道  什么值得我用心珍惜
+Dialogue: 0,0:26:32.58,0:26:40.18,CQCN,,0,0,0,,{\fad(150,150)\blur3\an1\fs40}这条道路  领我遇上了真命天子
+Dialogue: 0,0:26:40.49,0:26:50.24,CQCN,,0,0,0,,{\fad(150,150)\blur3\an1\fs40}再无恐惧  真实的我已常驻心间
+Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,,——ED——
+Dialogue: 0,0:24:30.74,0:24:33.49,EDCN,,0,0,0,,{\be10\pos(625,715)}「告诉我 我是谁？」
+Dialogue: 0,0:24:33.49,0:24:38.78,EDCN,,0,0,0,,{\fad(0,84)\be10}你只露出了温柔的微笑
+Dialogue: 0,0:24:39.41,0:24:47.59,EDCN,,0,0,0,,{\be10}我想 其实并不需要什么答案
+Dialogue: 0,0:24:47.59,0:24:49.96,EDCN,,0,0,0,,{\be10}那朦胧的
+Dialogue: 0,0:24:49.96,0:24:55.34,EDCN,,0,0,0,,{\be10}幸福的触感 是那么的柔软
+Dialogue: 0,0:24:55.34,0:24:59.72,EDCN,,0,0,0,,{\be10}对明天的一份挂念 就这样
+Dialogue: 0,0:24:59.72,0:25:04.60,EDCN,,0,0,0,,{\be10}飘上了蓝天 消失在视线中
+Dialogue: 0,0:25:04.60,0:25:10.44,EDCN,,0,0,0,,{\be10}澄澈的心 知道了何谓喜欢
+Dialogue: 0,0:25:10.44,0:25:14.36,EDCN,,0,0,0,,{\be10}最终 也领会了何谓寂寞
+Dialogue: 0,0:25:14.36,0:25:21.45,EDCN,,0,0,0,,{\be10}一声再见 将我们紧紧连系
+Dialogue: 0,0:25:21.45,0:25:26.12,EDCN,,0,0,0,,{\be10}啊 我要回到有你等候的地方
+Dialogue: 0,0:25:26.12,0:25:30.80,EDCN,,0,0,0,,{\be10}对你的喜欢 竟使我泫然欲泣
+Dialogue: 0,0:25:30.80,0:25:34.80,EDCN,,0,0,0,,{\be10}你轻轻告诉我
+Dialogue: 0,0:25:34.80,0:25:38.80,EDCN,,0,0,0,,{\fad(0,1134)\be10}欢迎回家
+Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,,——Title——
+Dialogue: 0,0:09:41.01,0:09:45.02,Title,,0,0,0,,{\fs45\shad0\bord0\1vc(&HBAB248&,&HBAB248&,&HE93625&,&HE93625&)\b1\pos(168,5)\3c&HB11715&}世界上最幸福的女孩
+Dialogue: 0,0:09:41.01,0:09:45.02,Title,,0,0,0,,{\fs45\shad0\bord0\1vc(&HBAB248&,&HBAB248&,&HE93625&,&HE93625&)\b1\pos(975,578)}-珂朵莉-
+Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,——Text——
+Dialogue: 0,0:00:23.91,0:00:28.04,Default,,0,0,0,,哟…恐怕是好久不见了吧
+Dialogue: 0,0:00:30.76,0:00:33.59,Default,,0,0,0,,对不起  因为太久不见
+Dialogue: 0,0:00:34.26,0:00:36.43,Default,,0,0,0,,已经对不上你们的名字和长相了
+Dialogue: 0,0:00:51.11,0:00:53.40,Default,,0,0,0,,你是想去战斗的吧
+Dialogue: 0,0:00:54.28,0:00:58.37,Default,,0,0,0,,是的  我曾相信这样就能救人
+Dialogue: 0,0:00:59.58,0:01:01.79,Default,,0,0,0,,就能保护宝贵的东西了
+Dialogue: 0,0:01:03.29,0:01:06.17,Default,,0,0,0,,但那只是我一厢情愿而已
+Dialogue: 0,0:01:07.54,0:01:09.17,Default,,0,0,0,,我什么都保护不了
+Dialogue: 0,0:01:10.38,0:01:13.71,Default,,0,0,0,,攥在手中的东西已经全都散落
+Dialogue: 0,0:01:14.76,0:01:19.05,Default,,0,0,0,,明明知道现在再做什么也无济于事
+Dialogue: 0,0:01:21.56,0:01:25.35,Default,,0,0,0,,即使如此  我能做的也只有战斗
+Dialogue: 0,0:01:27.48,0:01:29.61,Default,,0,0,0,,我这到底是在搞什么啊
+Dialogue: 0,0:03:09.33,0:03:12.12,Default,,0,0,0,,喂  稳定住飞船啊
+Dialogue: 0,0:03:12.33,0:03:14.59,Default,,0,0,0,,我已经尽全力操控了
+Dialogue: 0,0:03:14.88,0:03:16.63,Default,,0,0,0,,通告全体舰内人员
+Dialogue: 0,0:03:17.13,0:03:19.97,Default,,0,0,0,,以保护舰桥和咒燃炉为最优先要务
+Dialogue: 0,0:03:20.34,0:03:22.26,Default,,0,0,0,,不然飞船会坠落的
+Dialogue: 0,0:03:22.72,0:03:24.35,Default,,0,0,0,,都给我咬紧牙加把劲
+Dialogue: 0,0:03:24.35,0:03:25.93,Default,,0,0,0,,就算你这么说…
+Dialogue: 0,0:03:39.94,0:03:41.24,Default,,0,0,0,,多谢了  小姑娘
+Dialogue: 0,0:03:43.78,0:03:44.66,Default,,0,0,0,,请往后撤
+Dialogue: 0,0:03:45.28,0:03:47.70,Default,,0,0,0,,喂  你这身体没问题吧
+Dialogue: 0,0:03:47.95,0:03:48.95,Default,,0,0,0,,我们也一起战斗
+Dialogue: 0,0:03:48.95,0:03:49.79,Default,,0,0,0,,快后撤
+Dialogue: 0,0:03:50.66,0:03:52.25,Default,,0,0,0,,这是我的职责
+Dialogue: 0,0:04:06.64,0:04:09.01,Default,,0,0,0,,真是的  杀都杀不完
+Dialogue: 0,0:04:13.39,0:04:16.23,Default,,0,0,0,,但是剑的状态是从未有过的好
+Dialogue: 0,0:04:16.65,0:04:19.44,Default,,0,0,0,,那个技官真的是名好手
+Dialogue: 0,0:04:20.73,0:04:22.03,Default,,0,0,0,,身体也很敏捷
+Dialogue: 0,0:04:22.49,0:04:24.11,Default,,0,0,0,,只要有我和希斯特里亚在…
+Dialogue: 0,0:04:25.99,0:04:26.57,Default,,0,0,0,,糟了
+Dialogue: 0,0:04:57.23,0:04:57.86,Default,,0,0,0,,你还好吧
+Dialogue: 0,0:04:58.69,0:05:00.65,Default,,0,0,0,,你刚才做了什么
+Dialogue: 0,0:05:01.40,0:05:02.82,Default,,0,0,0,,战况如何
+Dialogue: 0,0:05:03.78,0:05:06.24,Default,,0,0,0,,诺夫特和奈芙莲也没事吗
+Dialogue: 0,0:05:07.57,0:05:11.33,Default,,0,0,0,,我刚才还看到诺夫特的  她还在战斗吧
+Dialogue: 0,0:05:12.37,0:05:14.12,Default,,0,0,0,,虽然没有见到奈芙莲
+Dialogue: 0,0:05:14.58,0:05:18.17,Default,,0,0,0,,她应该在船舱里保护大家吧
+Dialogue: 0,0:05:29.51,0:05:30.89,Default,,0,0,0,,你这伤口是怎么弄的
+Dialogue: 0,0:05:31.47,0:05:32.68,Default,,0,0,0,,你到底做了什么
+Dialogue: 0,0:05:34.60,0:05:36.02,Default,,0,0,0,,我去战斗了啊
+Dialogue: 0,0:05:38.02,0:05:40.48,Default,,0,0,0,,现在也是  过去也是
+Dialogue: 0,0:05:42.02,0:05:47.91,Default,,0,0,0,,我能做到的事情  终究只有这个
+Dialogue: 0,0:06:11.39,0:06:14.18,Default,,0,0,0,,结果连你也死了啊
+Dialogue: 0,0:06:15.31,0:06:19.23,Default,,0,0,0,,虽然我还是理解不了保命要紧的意思
+Dialogue: 0,0:06:20.60,0:06:22.48,Default,,0,0,0,,但我们…
+Dialogue: 0,0:06:24.53,0:06:27.07,Default,,0,0,0,,希望兰和莲都还平安无事吧
+Dialogue: 0,0:06:37.29,0:06:38.96,Default,,0,0,0,,我这个样子多久了
+Dialogue: 0,0:06:39.54,0:06:42.92,Default,,0,0,0,,差不多两三分钟吧
+Dialogue: 0,0:06:43.38,0:06:44.25,Default,,0,0,0,,这样啊
+Dialogue: 0,0:06:47.30,0:06:50.72,Default,,0,0,0,,受了这么重的伤再乱动  完全是鲁莽之举
+Dialogue: 0,0:06:51.51,0:06:53.26,Default,,0,0,0,,你在担心我吗
+Dialogue: 0,0:06:53.76,0:06:58.35,Default,,0,0,0,,你把我的朋友当作自杀的借口  会让我感觉不好受的
+Dialogue: 0,0:06:59.35,0:07:01.56,Default,,0,0,0,,的确如此
+Dialogue: 0,0:07:03.56,0:07:05.36,Default,,0,0,0,,你很厉害
+Dialogue: 0,0:07:06.23,0:07:08.40,Default,,0,0,0,,不用剑就能和第六兽战斗抗衡
+Dialogue: 0,0:07:09.03,0:07:09.74,Default,,0,0,0,,或许吧
+Dialogue: 0,0:07:10.65,0:07:14.66,Default,,0,0,0,,人类都像你那样强的离谱吗
+Dialogue: 0,0:07:16.03,0:07:19.62,Default,,0,0,0,,我呢  以前是个勇者
+Dialogue: 0,0:07:20.75,0:07:24.75,Default,,0,0,0,,就是打倒敌人  拯救人类  万里挑一的战士
+Dialogue: 0,0:07:26.21,0:07:30.22,Default,,0,0,0,,为此我不懈锻炼  学剑术  学格斗技
+Dialogue: 0,0:07:30.67,0:07:32.76,Default,,0,0,0,,连调整圣剑的技术都掌握了
+Dialogue: 0,0:07:33.97,0:07:37.72,Default,,0,0,0,,我强到了人类通过努力所能达到的极限
+Dialogue: 0,0:07:39.85,0:07:40.93,Default,,0,0,0,,但还是不够
+Dialogue: 0,0:07:42.14,0:07:46.15,Default,,0,0,0,,凭我的那点强大  不足以拯救任何一个人
+Dialogue: 0,0:07:47.94,0:07:53.41,Default,,0,0,0,,无论是爱尔  莉莉娅  还是珂朵莉
+Dialogue: 0,0:07:56.07,0:07:59.70,Default,,0,0,0,,赢下战斗  可不只是救人的唯一…
+Dialogue: 0,0:07:59.70,0:08:02.33,Default,,0,0,0,,你先歇一会儿吧
+Dialogue: 0,0:08:03.25,0:08:06.88,Default,,0,0,0,,你现在这样再用出魔力  无异于自杀
+Dialogue: 0,0:08:13.72,0:08:19.56,Default,,0,0,0,,但是你的出现  一定拯救了珂朵莉
+Dialogue: 0,0:08:42.04,0:08:42.41,Default,,0,0,0,,喂
+Dialogue: 0,0:08:42.79,0:08:43.29,Default,,0,0,0,,怎么了
+Dialogue: 0,0:08:44.08,0:08:45.00,Default,,0,0,0,,我有一个愿望
+Dialogue: 0,0:08:46.25,0:08:47.29,Default,,0,0,0,,最后的愿望
+Dialogue: 0,0:08:47.54,0:08:48.04,Default,,0,0,0,,我不听
+Dialogue: 0,0:08:49.09,0:08:51.55,Default,,0,0,0,,我觉得我做过约定
+Dialogue: 0,0:08:52.34,0:08:54.38,Default,,0,0,0,,约好了那个人不用再战斗的
+Dialogue: 0,0:08:55.43,0:08:58.93,Default,,0,0,0,,约好了那个人的战斗都由我继承
+Dialogue: 0,0:08:59.43,0:09:01.56,Default,,0,0,0,,不听不听我不听
+Dialogue: 0,0:09:02.10,0:09:06.19,Default,,0,0,0,,我还有话想跟他说  所以拜托你了
+Dialogue: 0,0:09:12.36,0:09:13.24,Default,,0,0,0,,无论如何都要吗
+Dialogue: 0,0:09:13.82,0:09:15.24,Default,,0,0,0,,嗯  说什么都要做
+Dialogue: 0,0:09:16.20,0:09:18.91,Default,,0,0,0,,但是这次珂朵莉会消失的
+Dialogue: 0,0:09:19.53,0:09:22.24,Default,,0,0,0,,我说的不只是回忆  就连你宝贵的感情
+Dialogue: 0,0:09:22.66,0:09:25.41,Default,,0,0,0,,都会彻底消失殆尽的
+Dialogue: 0,0:09:26.42,0:09:29.13,Default,,0,0,0,,嗯  我不愿意这样
+Dialogue: 0,0:09:29.88,0:09:34.84,Default,,0,0,0,,但比起消失  我更不愿意就这样结束
+Dialogue: 0,0:09:36.38,0:09:37.13,Default,,0,0,0,,珂朵莉
+Dialogue: 0,0:09:38.34,0:09:40.30,Default,,0,0,0,,所以拜托你
+Dialogue: 0,0:09:41.60,0:09:44.02,Default,,0,0,0,,让我再一次回到那个地方吧
+Dialogue: 0,0:10:08.58,0:10:09.12,Default,,0,0,0,,小姑娘
+Dialogue: 0,0:10:10.04,0:10:10.79,Default,,0,0,0,,可恶
+Dialogue: 0,0:10:24.56,0:10:25.10,Default,,0,0,0,,退下
+Dialogue: 0,0:10:49.29,0:10:51.88,Default,,0,0,0,,你这家伙  可恶  放开啊
+Dialogue: 0,0:10:52.13,0:10:53.09,Default,,0,0,0,,放开啊
+Dialogue: 0,0:10:53.42,0:10:56.42,Default,,0,0,0,,滚开  滚开  滚开
+Dialogue: 0,0:10:57.01,0:10:58.59,Default,,0,0,0,,给我滚远点
+Dialogue: 0,0:11:00.76,0:11:02.59,Default,,0,0,0,,主旋翼恢复操纵
+Dialogue: 0,0:11:02.72,0:11:03.89,Default,,0,0,0,,很好
+Dialogue: 0,0:11:07.56,0:11:10.02,Default,,0,0,0,,姿态控制器3号到5号没反应
+Dialogue: 0,0:11:10.35,0:11:11.52,Default,,0,0,0,,7号也坏掉了
+Dialogue: 0,0:11:11.60,0:11:14.23,Default,,0,0,0,,快快快…快想想办法
+Dialogue: 0,0:11:14.23,0:11:16.40,Default,,0,0,0,,我不是在想吗
+Dialogue: 0,0:11:16.65,0:11:20.24,Default,,0,0,0,,都听好了  我们要全力脱离这片空域
+Dialogue: 0,0:11:20.65,0:11:24.37,Default,,0,0,0,,所有人抓紧点  别滑出去了
+Dialogue: 0,0:11:35.88,0:11:41.30,Default,,0,0,0,,小姑娘  坚持住  我来救你
+Dialogue: 0,0:11:42.09,0:11:42.59,Default,,0,0,0,,不行
+Dialogue: 0,0:11:43.80,0:11:44.76,Default,,0,0,0,,不要靠近我
+Dialogue: 0,0:11:46.85,0:11:48.81,Default,,0,0,0,,门很快就要打开了
+Dialogue: 0,0:11:51.23,0:11:54.52,Default,,0,0,0,,我已经抑制不住了
+Dialogue: 0,0:11:55.36,0:11:56.73,Default,,0,0,0,,撑着  小姑娘
+Dialogue: 0,0:11:57.02,0:11:58.32,Default,,0,0,0,,你也动作快一点啊啊
+Dialogue: 0,0:11:59.86,0:12:00.36,Default,,0,0,0,,莲
+Dialogue: 0,0:12:31.52,0:12:32.18,Default,,0,0,0,,威廉?
+Dialogue: 0,0:12:32.81,0:12:35.77,Default,,0,0,0,,莲  你没事啊  太好了
+Dialogue: 0,0:12:36.48,0:12:40.32,Default,,0,0,0,,我还以为…我又是一个人都救不了了
+Dialogue: 0,0:12:42.24,0:12:44.65,Default,,0,0,0,,等下  我这就拉你上来
+Dialogue: 0,0:12:55.50,0:12:55.87,Default,,0,0,0,,喂
+Dialogue: 0,0:12:56.33,0:12:57.21,Default,,0,0,0,,闭嘴
+Dialogue: 0,0:12:57.83,0:13:01.25,Default,,0,0,0,,我透支了魔力  所以…
+Dialogue: 0,0:13:01.80,0:13:02.88,Default,,0,0,0,,总会有办法的
+Dialogue: 0,0:13:03.80,0:13:06.05,Default,,0,0,0,,恐怕门快要打开了
+Dialogue: 0,0:13:06.68,0:13:09.05,Default,,0,0,0,,那样一开  整艘飞船就会…
+Dialogue: 0,0:13:09.05,0:13:10.39,Default,,0,0,0,,我会有办法的
+Dialogue: 0,0:13:16.31,0:13:21.48,Default,,0,0,0,,威廉  救人是我们黄金妖精的使命
+Dialogue: 0,0:13:22.94,0:13:24.78,Default,,0,0,0,,莲  你在说什么?
+Dialogue: 0,0:13:25.24,0:13:30.62,Default,,0,0,0,,况且  威廉你已经拯救过我们了
+Dialogue: 0,0:13:31.62,0:13:33.54,Default,,0,0,0,,所以已经没关系了
+Dialogue: 0,0:13:34.54,0:13:37.33,Default,,0,0,0,,你在说什么?
+Dialogue: 0,0:14:04.19,0:14:05.24,Default,,0,0,0,,开什么玩笑…
+Dialogue: 0,0:14:08.49,0:14:10.32,Default,,0,0,0,,开什么玩笑
+Dialogue: 0,0:14:16.25,0:14:18.00,Default,,0,0,0,,这可真不妙
+Dialogue: 0,0:14:19.04,0:14:21.13,Default,,0,0,0,,完全动弹不了  我都笑话我自己了
+Dialogue: 0,0:14:29.93,0:14:31.93,Default,,0,0,0,,喂  笨蛋  你…
+Dialogue: 0,0:14:32.97,0:14:35.31,Default,,0,0,0,,醒过来了  就快点找个地方躲起来啊
+Dialogue: 0,0:14:36.02,0:14:37.02,Default,,0,0,0,,珂朵莉
+Dialogue: 0,0:14:54.28,0:14:56.66,Default,,0,0,0,,真是拿你没办法
+Dialogue: 0,0:14:57.79,0:15:00.37,Default,,0,0,0,,停下  珂朵莉  别去了
+Dialogue: 0,0:15:00.75,0:15:02.92,Default,,0,0,0,,我们会替你战斗的
+Dialogue: 0,0:15:03.63,0:15:07.46,Default,,0,0,0,,既然不必战斗的话  你就不要战斗了
+Dialogue: 0,0:15:08.38,0:15:12.34,Default,,0,0,0,,既然可以获得幸福  你就要抓住幸福啊
+Dialogue: 0,0:15:12.97,0:15:17.06,Default,,0,0,0,,否则我们几个认可不了啊
+Dialogue: 0,0:15:19.68,0:15:24.81,Default,,0,0,0,,抱歉  我已经无法再获得幸福了
+Dialogue: 0,0:15:26.61,0:15:28.82,Default,,0,0,0,,因为我发觉
+Dialogue: 0,0:15:30.36,0:15:36.03,Default,,0,0,0,,我早已经是幸福的人了
+Dialogue: 0,0:15:49.26,0:15:50.97,Default,,0,0,0,,燃烧殆尽的书籍
+Dialogue: 0,0:15:51.17,0:15:52.55,Default,,0,0,0,,破碎的银月
+Dialogue: 0,0:15:52.55,0:15:53.64,Default,,0,0,0,,互相残杀的公主
+Dialogue: 0,0:15:53.64,0:15:54.72,Default,,0,0,0,,死者吐露的谎言
+Dialogue: 0,0:15:54.72,0:15:55.76,Default,,0,0,0,,震颤的大铃铛
+Dialogue: 0,0:15:55.76,0:15:57.72,Default,,0,0,0,,从天而降的牛奶柱
+Dialogue: 0,0:15:56.89,0:15:58.14,Default,,0,0,0,,{\fs40}空中飞舞的缎带
+Dialogue: 0,0:15:59.47,0:16:00.02,Default,,0,0,0,,珂朵莉
+Dialogue: 0,0:16:00.77,0:16:01.52,Default,,0,0,0,,加油
+Dialogue: 0,0:16:11.61,0:16:13.24,Default,,0,0,0,,至少要救下她
+Dialogue: 0,0:16:31.38,0:16:32.09,Default,,0,0,0,,珂朵莉
+Dialogue: 0,0:17:36.95,0:17:39.78,Default,,0,0,0,,我曾经许下誓言  要永远和他在一起
+Dialogue: 0,0:17:40.53,0:17:42.66,Default,,0,0,0,,许下誓言让我无比幸福
+Dialogue: 0,0:17:44.66,0:17:47.21,Default,,0,0,0,,我曾经许下誓言  要永远和她在一起
+Dialogue: 0,0:17:48.12,0:17:50.42,Default,,0,0,0,,许下誓言让我心获平静
+Dialogue: 0,0:17:52.25,0:17:55.01,Default,,0,0,0,,我想  我是喜欢他的
+Dialogue: 0,0:17:55.84,0:17:58.43,Default,,0,0,0,,我想  我是很珍惜她的
+Dialogue: 0,0:17:59.47,0:18:02.01,Default,,0,0,0,,这个念头  让我感到幸福
+Dialogue: 0,0:18:03.39,0:18:05.85,Default,,0,0,0,,这个念头  让我感到快乐
+Dialogue: 0,0:18:07.23,0:18:09.77,Default,,0,0,0,,他曾经告诉我  他会带给我幸福
+Dialogue: 0,0:18:10.19,0:18:12.65,Default,,0,0,0,,我曾经告诉她  我会带给她幸福
+Dialogue: 0,0:18:12.98,0:18:15.32,Default,,0,0,0,,他的这句话  令我感到幸福
+Dialogue: 0,0:18:15.65,0:18:17.82,Default,,0,0,0,,我的这句话  令我内心满足
+Dialogue: 0,0:18:18.45,0:18:22.24,Default,,0,0,0,,他把这么多的幸福分给了我
+Dialogue: 0,0:18:22.49,0:18:25.50,Default,,0,0,0,,我从她那里得到了那么多
+Dialogue: 0,0:18:26.25,0:18:27.12,Default,,0,0,0,,但是我却…
+Dialogue: 0,0:18:27.83,0:18:28.79,Default,,0,0,0,,所以  我一定…
+Dialogue: 0,0:18:29.08,0:18:32.29,Default,,0,0,0,,现在  无论别人怎么说
+Dialogue: 0,0:18:32.88,0:18:34.96,Default,,0,0,0,,都是世界上最幸福的女孩
+Dialogue: 0,0:19:32.31,0:19:33.15,Default,,0,0,0,,威廉
+Dialogue: 0,0:19:35.69,0:19:36.65,Default,,0,0,0,,谢谢你
+Dialogue: 0,0:19:44.91,0:19:45.91,Default,,0,0,0,,你个笨蛋
+Dialogue: 0,0:19:56.88,0:20:00.67,Default,,0,0,0,,痛失战士  无论经历过多少次
+Dialogue: 0,0:20:01.30,0:20:03.22,Default,,0,0,0,,我都还是习惯不了
+Dialogue: 0,0:20:04.76,0:20:10.10,Default,,0,0,0,,和自己内心的战斗  才是最残酷的战场
+Dialogue: 0,0:20:11.23,0:20:13.39,Default,,0,0,0,,辛苦你们战斗到了最后一刻
+Dialogue: 0,0:20:20.94,0:20:23.11,Default,,0,0,0,,我不能接受
+Dialogue: 0,0:20:23.61,0:20:25.28,Default,,0,0,0,,都叫她别去战斗了
+Dialogue: 0,0:20:25.53,0:20:27.78,Default,,0,0,0,,都说了交给我们战斗就好
+Dialogue: 0,0:20:28.37,0:20:30.45,Default,,0,0,0,,结果全给她背负下来了
+Dialogue: 0,0:20:30.87,0:20:33.46,Default,,0,0,0,,什么叫「已经是幸福的人了」
+Dialogue: 0,0:20:33.75,0:20:36.71,Default,,0,0,0,,以为用这种话就能让我接受吗
+Dialogue: 0,0:20:37.96,0:20:40.71,Default,,0,0,0,,花落芳飞也算圆满吗?
+Dialogue: 0,0:20:41.01,0:20:43.17,Default,,0,0,0,,圆满个屁了啦  蠢蛋
+Dialogue: 0,0:20:44.97,0:20:46.84,Default,,0,0,0,,诺夫特  你太吵了
+Dialogue: 0,0:20:48.01,0:20:52.23,Default,,0,0,0,,幸福只有当事人知道  别人无从得知
+Dialogue: 0,0:20:52.85,0:20:57.48,Default,,0,0,0,,决定或者否定别人的幸福  只是自以为是而已
+Dialogue: 0,0:20:58.02,0:20:59.90,Default,,0,0,0,,对不起  我自以为是了啊!
+Dialogue: 0,0:21:02.15,0:21:07.16,Default,,0,0,0,,不过  能带给别人幸福的人
+Dialogue: 0,0:21:07.57,0:21:12.20,Default,,0,0,0,,总是那些坚持自以为是到底的人吧
+Dialogue: 0,0:21:17.00,0:21:18.42,Default,,0,0,0,,春天很快就要到了
+Dialogue: 0,0:21:25.30,0:21:27.97,Comment,,0,0,0,,还有五圈!
+Dialogue: 0,0:21:26.88,0:21:28.68,Default,,0,0,0,,汗水和毅力!
+Dialogue: 0,0:21:29.39,0:21:31.10,Default,,0,0,0,,两个人真有活力啊
+Dialogue: 0,0:21:32.18,0:21:33.14,Default,,0,0,0,,是啊
+Dialogue: 0,0:21:36.77,0:21:38.94,Default,,0,0,0,,那些孩子真努力
+Dialogue: 0,0:21:39.36,0:21:44.82,Default,,0,0,0,,是啊  但是喜欢的前辈们离开了
+Dialogue: 0,0:21:45.53,0:21:48.07,Default,,0,0,0,,导致她们干劲太足了点吧
+Dialogue: 0,0:21:50.20,0:21:53.45,Default,,0,0,0,,真怀念啊  珂朵莉以前也是这样
+Dialogue: 0,0:21:54.20,0:21:56.54,Default,,0,0,0,,姐姐一样的人离开后
+Dialogue: 0,0:21:57.21,0:22:00.92,Default,,0,0,0,,她将悲伤化作动力  刻苦努力才变强的
+Dialogue: 0,0:22:02.00,0:22:03.17,Default,,0,0,0,,年轻人啊…
+Dialogue: 0,0:22:04.42,0:22:07.51,Default,,0,0,0,,我恐怕是做不到了吧…
+Dialogue: 0,0:22:12.18,0:22:15.73,Default,,0,0,0,,对不起  能不能假装没有见到过
+Dialogue: 0,0:22:16.85,0:22:20.73,Default,,0,0,0,,最年长的我这样子的话的  就没法当榜样了
+Dialogue: 0,0:22:28.28,0:22:30.78,Default,,0,0,0,,我什么都没有见到哦
+Dialogue: 0,0:22:44.59,0:22:46.67,Default,,0,0,0,,没有反应吗
+Dialogue: 0,0:22:47.17,0:22:52.51,Default,,0,0,0,,如果他们活着  一定能被我的心跳探知术感知到
+Dialogue: 0,0:22:53.22,0:22:56.06,Default,,0,0,0,,黑玛瑙剑鬼
+Dialogue: 0,0:22:57.56,0:23:00.19,Default,,0,0,0,,有客人要找您
+Dialogue: 0,0:23:00.27,0:23:01.40,Default,,0,0,0,,我知道!
+Dialogue: 0,0:23:02.11,0:23:06.36,Default,,0,0,0,,不  你别这么害怕  抱歉抱歉
+Dialogue: 0,0:23:21.92,0:23:25.84,Default,,0,0,0,,哭声真大  肯定非常不舍前世的感情吧
+Dialogue: 0,0:23:26.34,0:23:28.30,Default,,0,0,0,,肯定是个纯真的孩子
+Dialogue: 0,0:23:28.84,0:23:31.26,Default,,0,0,0,,你是说她单纯又信念坚定?
+Dialogue: 0,0:23:31.80,0:23:32.84,Default,,0,0,0,,可以这么说吧
+Dialogue: 0,0:23:33.59,0:23:36.18,Default,,0,0,0,,晚上好  心情如何
+Dialogue: 0,0:23:38.18,0:23:38.98,Default,,0,0,0,,她都没听我的话
+Dialogue: 0,0:23:40.10,0:23:41.19,Default,,0,0,0,,给我抱一下
+Dialogue: 0,0:23:50.61,0:23:52.70,Default,,0,0,0,,你看  累了就安静了
+Dialogue: 0,0:23:53.41,0:23:54.62,Default,,0,0,0,,太粗鲁啦
+Dialogue: 0,0:23:59.04,0:24:00.33,Default,,0,0,0,,欢迎你  小不点
+Dialogue: 0,0:24:01.08,0:24:05.79,Default,,0,0,0,,这个行将终结  匆忙纷扰  毫无希望的末世
+Dialogue: 0,0:24:06.88,0:24:07.80,Default,,0,0,0,,欢迎你的到来
+Comment: 0,0:00:01.02,0:00:01.02,Comment,,0,0,0,,

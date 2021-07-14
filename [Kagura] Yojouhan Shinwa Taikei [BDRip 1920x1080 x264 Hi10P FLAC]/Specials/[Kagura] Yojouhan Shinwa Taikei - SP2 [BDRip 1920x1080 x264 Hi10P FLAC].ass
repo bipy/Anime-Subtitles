@@ -1,0 +1,179 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 四叠半神话大系 特典2 「地面潜航艇 向女浴室进发」 闺房调查团桃色探索
+Original Script: Airu Sub / Koei Sub / Airota
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,文泉驿微米黑,58,&H00FFFFFF,&HF0000000,&H00480509,&HF0000000,-1,0,0,0,100,100,0,0,1,2,1,2,30,30,33,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.68,0:00:04.26,Default,NTP,0,0,0,,整个京都的男子的裤子和内裤全消失了
+Dialogue: 0,0:00:04.37,0:00:05.77,Default,NTP,0,0,0,,所有人都乱成一团
+Dialogue: 0,0:00:06.23,0:00:08.46,Default,NTP,0,0,0,,我当然也一样 无法走出家门一步
+Dialogue: 0,0:00:08.62,0:00:11.65,Default,NTP,0,0,0,,因为这有够糗的 我可丢不起这个人
+Dialogue: 0,0:00:12.47,0:00:12.88,Default,NTP,0,0,0,,讨厌
+Dialogue: 0,0:00:13.64,0:00:15.19,Default,NTP,0,0,0,,已经没有裤子和内裤了
+Dialogue: 0,0:00:15.55,0:00:17.08,Default,NTP,0,0,0,,这究竟发生什么事了？
+Dialogue: 0,0:00:18.21,0:00:20.77,Default,NTP,0,0,0,,睡觉的时候穿在身上的裤子和内裤就没了
+Dialogue: 0,0:00:21.07,0:00:22.33,Default,NTP,0,0,0,,这样都无法出门了
+Dialogue: 0,0:00:23.34,0:00:26.66,Default,NTP,0,0,0,,以脱人裤子为乐的某个男人现在正卧床不起
+Dialogue: 0,0:00:27.11,0:00:28.43,Default,NTP,0,0,0,,我去探望他一下
+Dialogue: 0,0:00:31.68,0:00:32.62,Default,NTP,0,0,0,,没买到
+Dialogue: 0,0:00:33.04,0:00:35.25,Default,NTP,0,0,0,,{\an8}讨厌 真恶心
+Dialogue: 0,0:00:34.82,0:00:35.77,Default,NTP,0,0,0,,终于到这个时刻了
+Dialogue: 0,0:00:35.93,0:00:39.41,Default,NTP,0,0,0,,也许翻遍整个京都连一条裤子一条内裤都没有
+Dialogue: 0,0:00:40.31,0:00:44.08,Default,NTP,0,0,0,,那个谁 你有个叫明石的后辈吧
+Dialogue: 0,0:00:44.42,0:00:45.22,Default,NTP,0,0,0,,知道她的住址吗？
+Dialogue: 0,0:00:45.78,0:00:47.12,Default,NTP,0,0,0,,我有点事情找她
+Dialogue: 0,0:00:49.03,0:00:50.73,Default,NTP,0,0,0,,嘛嘛 不会让你吃亏的
+Dialogue: 0,0:00:55.11,0:00:56.54,Default,NTP,0,0,0,,疼…
+Dialogue: 0,0:00:58.67,0:00:59.53,Default,NTP,0,0,0,,你们干什么
+Dialogue: 0,0:00:59.88,0:01:02.21,Default,NTP,0,0,0,,我们不是什么可疑人士 冷静点
+Dialogue: 0,0:01:02.59,0:01:05.16,Default,NTP,0,0,0,,我们只是想知道明石的住址而已
+Dialogue: 0,0:01:05.34,0:01:06.28,Default,NTP,0,0,0,,突然间被人绑架
+Dialogue: 0,0:01:06.30,0:01:08.45,Default,NTP,0,0,0,,还被问学妹的住址 谁会说啊
+Dialogue: 0,0:01:08.61,0:01:09.94,Default,NTP,0,0,0,,嘛 别这样说
+Dialogue: 0,0:01:10.18,0:01:10.93,Default,NTP,0,0,0,,这是什么东西
+Dialogue: 0,0:01:11.17,0:01:13.10,Default,NTP,0,0,0,,还有 你的说明也太简要了吧
+Dialogue: 0,0:01:13.34,0:01:14.94,Default,NTP,0,0,0,,谁会把一个少女的住址告诉你啊
+Dialogue: 0,0:01:16.64,0:01:18.13,Default,NTP,0,0,0,,你真是个好汉呢
+Dialogue: 0,0:01:18.49,0:01:21.42,Default,NTP,0,0,0,,我们只是对这位纯情可爱的女生…
+Dialogue: 0,0:01:21.93,0:01:27.16,Default,NTP,0,0,0,,总之 我们这潜航艇可以无声无息地到达一个地方然后离去
+Dialogue: 0,0:01:27.37,0:01:29.01,Default,NTP,0,0,0,,这样的话自然而然就…
+Dialogue: 0,0:01:29.36,0:01:30.53,Default,NTP,0,0,0,,偷窥？那是犯罪！
+Dialogue: 0,0:01:30.81,0:01:32.19,Default,NTP,0,0,0,,幸亏我没告诉你
+Dialogue: 0,0:01:32.46,0:01:33.62,Default,NTP,0,0,0,,你果然知道啊
+Dialogue: 0,0:01:33.89,0:01:35.51,Default,NTP,0,0,0,,我真的不知道
+Dialogue: 0,0:01:36.50,0:01:39.44,Default,NTP,0,0,0,,难得李白卧床 我们能有效利用这艘艇
+Dialogue: 0,0:01:39.80,0:01:40.79,Default,NTP,0,0,0,,却到此为止了
+Dialogue: 0,0:01:42.23,0:01:44.16,Default,NTP,0,0,0,,裤子和内裤我全烧了
+Dialogue: 0,0:01:45.60,0:01:48.21,Default,NTP,0,0,0,,在苏格兰 人们不穿内裤 也不穿裤子
+Dialogue: 0,0:01:48.52,0:01:50.51,Default,NTP,0,0,0,,古代的日本也只有和服和兜裆布而已
+Dialogue: 0,0:01:50.65,0:01:55.39,Default,NTP,0,0,0,,居然把原本可以说是男性散热器的部位包裹起来
+Dialogue: 0,0:01:55.83,0:01:57.95,Default,NTP,0,0,0,,就在这时候 我找到了一本有趣的书
+Dialogue: 0,0:01:58.34,0:02:01.39,Default,NTP,0,0,0,,书上写着白色的纤维和羊齿捻成的刷帚
+Dialogue: 0,0:02:01.59,0:02:04.08,Default,NTP,0,0,0,,会产生一种叫范德华力的效果
+Dialogue: 0,0:02:01.59,0:02:04.08,Default,NTP,0,0,0,,{\an8}（化学中分子间的吸引力。详情请google）
+Dialogue: 0,0:02:04.35,0:02:07.14,Default,NTP,0,0,0,,把它应用到动力炉 形态就能透明化
+Dialogue: 0,0:02:07.33,0:02:10.67,Default,NTP,0,0,0,,并且能够潜航于物质的原子间隙中
+Dialogue: 0,0:02:10.92,0:02:12.71,Default,NTP,0,0,0,,这上面记载了它的设计图
+Dialogue: 0,0:02:12.88,0:02:14.75,Default,NTP,0,0,0,,是旧书市开市前淘到的吗
+Dialogue: 0,0:02:15.01,0:02:17.93,Default,NTP,0,0,0,,等市场开了就淘不到好书了
+Dialogue: 0,0:02:18.23,0:02:19.51,Default,NTP,0,0,0,,神明会发怒的哦
+Dialogue: 0,0:02:20.28,0:02:21.90,Default,NTP,0,0,0,,不知道为什么这本书上写的东西
+Dialogue: 0,0:02:22.04,0:02:23.40,Default,NTP,0,0,0,,无法记忆 也无法抄写
+Dialogue: 0,0:02:23.50,0:02:24.32,Default,NTP,0,0,0,,似乎有什么机关
+Dialogue: 0,0:02:24.62,0:02:26.34,Default,NTP,0,0,0,,无法复制 也无法拍照
+Dialogue: 0,0:02:26.53,0:02:28.79,Default,NTP,0,0,0,,我只好一边看一边制作出来
+Dialogue: 0,0:02:29.17,0:02:31.27,Default,NTP,0,0,0,,原来如此 于是你就决定了？
+Dialogue: 0,0:02:31.51,0:02:34.20,Default,NTP,0,0,0,,我要创造一个通风的露老二的世界
+Dialogue: 0,0:02:34.45,0:02:37.12,Default,NTP,0,0,0,,那可真是个有趣却又鸡婆的事呢
+Dialogue: 0,0:02:39.00,0:02:43.62,Default,NTP,0,0,0,,不行了 拿到他的内裤后似乎感染了什么病毒
+Dialogue: 0,0:02:43.97,0:02:48.08,Default,NTP,0,0,0,,那个传说在跟邻国的女友重逢之前都不换内裤的他？
+Dialogue: 0,0:02:48.25,0:02:49.73,Default,NTP,0,0,0,,虽然他当时激烈地反抗
+Dialogue: 0,0:02:49.88,0:02:52.02,Default,NTP,0,0,0,,但似乎被我们夺去后 他就见到女友了
+Dialogue: 0,0:02:52.23,0:02:54.68,Default,NTP,0,0,0,,这也算是我实现了他的愿望
+Dialogue: 0,0:02:54.69,0:02:56.19,Default,NTP,0,0,0,,这想法真自私呢
+Dialogue: 0,0:02:56.59,0:02:59.58,Default,NTP,0,0,0,,如果他郁郁不乐的能量产生神秘能量
+Dialogue: 0,0:02:59.65,0:03:01.28,Default,NTP,0,0,0,,也不是什么不可思议的事情
+Dialogue: 0,0:03:01.77,0:03:03.33,Default,NTP,0,0,0,,那么 潜航艇呢？
+Dialogue: 0,0:03:03.65,0:03:06.69,Default,NTP,0,0,0,,闺房调查团的家伙擅自开走也就算了
+Dialogue: 0,0:03:06.79,0:03:08.70,Default,NTP,0,0,0,,还嚷嚷着要有效利用什么的
+Dialogue: 0,0:03:09.82,0:03:11.15,Default,NTP,0,0,0,,保重身体
+Dialogue: 0,0:03:09.74,0:03:11.66,Default,NTP,0,0,0,,{\an8}慰问品
+Dialogue: 0,0:03:12.35,0:03:14.68,Default,NTP,0,0,0,,偷走裤子和内裤的也是你们吗 死变态！
+Dialogue: 0,0:03:14.91,0:03:16.28,Default,NTP,0,0,0,,别说这种奇怪的话
+Dialogue: 0,0:03:16.45,0:03:18.04,Default,NTP,0,0,0,,那是李白让我们做的
+Dialogue: 0,0:03:18.30,0:03:19.51,Default,NTP,0,0,0,,我对这个事没兴趣
+Dialogue: 0,0:03:19.63,0:03:21.46,Default,NTP,0,0,0,,是吧 所以还是告诉我明石的住址吧
+Dialogue: 0,0:03:21.67,0:03:24.64,Default,NTP,0,0,0,,即使对我们 明石同学也坚决不肯说出她的住址
+Dialogue: 0,0:03:25.00,0:03:27.71,Default,NTP,0,0,0,,肯定是以前曾经被你这样的跟踪狂盯上过
+Dialogue: 0,0:03:28.66,0:03:30.38,Default,NTP,0,0,0,,明石被声纳探测到了
+Dialogue: 0,0:03:30.64,0:03:31.75,Default,NTP,0,0,0,,噢 成功了吗
+Dialogue: 0,0:03:31.92,0:03:32.95,Default,NTP,0,0,0,,这次可不能错过了
+Dialogue: 0,0:03:35.69,0:03:36.28,Default,NTP,0,0,0,,喂 住手！
+Dialogue: 0,0:03:36.71,0:03:37.41,Default,NTP,0,0,0,,你已经没用了
+Dialogue: 0,0:03:41.26,0:03:41.89,Default,NTP,0,0,0,,明石同学
+Dialogue: 0,0:03:42.51,0:03:43.09,Default,NTP,0,0,0,,快追
+Dialogue: 0,0:03:46.02,0:03:47.29,Default,NTP,0,0,0,,不见了
+Dialogue: 0,0:03:47.80,0:03:48.55,Default,NTP,0,0,0,,就在附近
+Dialogue: 0,0:03:48.78,0:03:49.46,Default,NTP,0,0,0,,在哪 在哪里
+Dialogue: 0,0:03:50.03,0:03:50.96,Default,NTP,0,0,0,,哪里 哪里啊
+Dialogue: 0,0:03:54.23,0:03:54.63,Default,NTP,0,0,0,,怎么回事
+Dialogue: 0,0:03:55.46,0:03:55.98,Default,NTP,0,0,0,,是鱼叉
+Dialogue: 0,0:04:02.75,0:04:03.89,Default,NTP,0,0,0,,闺房调查团？
+Dialogue: 0,0:04:04.64,0:04:07.73,Default,NTP,0,0,0,,是一群以收集春宫图和秘宝为嗜好的男子组成的同好会
+Dialogue: 0,0:04:08.12,0:04:09.65,Default,NTP,0,0,0,,引蛇出洞就可以了吧
+Dialogue: 0,0:04:11.55,0:04:14.20,Default,NTP,0,0,0,,明石和羽贯你俩八点钟到樱浴室去
+Dialogue: 0,0:04:14.46,0:04:15.32,Default,NTP,0,0,0,,我们也会去
+Dialogue: 0,0:04:15.50,0:04:18.76,Default,NTP,0,0,0,,{\an7}To 樋口师傅：
+Dialogue: 0,0:04:15.50,0:04:18.76,Default,NTP,0,0,0,,{\an7}我出了汗\N去樱浴场洗个澡
+Dialogue: 0,0:04:15.50,0:04:18.76,Default,NTP,0,0,0,,{\an7}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h明石
+Dialogue: 0,0:04:20.70,0:04:21.29,Default,NTP,0,0,0,,欢迎光临
+Dialogue: 0,0:04:21.75,0:04:22.70,Default,NTP,0,0,0,,男浴室往那边走
+Dialogue: 0,0:04:23.06,0:04:24.78,Default,NTP,0,0,0,,我们有很重要的事情 是案件
+Dialogue: 0,0:04:24.99,0:04:27.67,Default,NTP,0,0,0,,没有比男人闯入女浴室更严重的案件了吧
+Dialogue: 0,0:04:27.95,0:04:30.10,Default,NTP,0,0,0,,怎么办 这道理我们虽然明白
+Dialogue: 0,0:04:31.39,0:04:33.94,Default,NTP,0,0,0,,我可以进女浴室哦 我还小
+Dialogue: 0,0:04:34.26,0:04:35.31,Default,NTP,0,0,0,,明明马上就会大！
+Dialogue: 0,0:04:35.90,0:04:37.36,Default,NTP,0,0,0,,来澡堂居然也不叫上我
+Dialogue: 0,0:04:37.74,0:04:39.08,Default,NTP,0,0,0,,你们肯定需要我帮助吧
+Dialogue: 0,0:04:39.33,0:04:42.00,Default,NTP,0,0,0,,看上去是你需要女浴室才对吧
+Dialogue: 0,0:04:42.26,0:04:44.26,Default,NTP,0,0,0,,谁叫你这家伙喜欢脱啊
+Dialogue: 0,0:04:44.56,0:04:46.05,Default,NTP,0,0,0,,把那本旧书还回来
+Dialogue: 0,0:04:46.24,0:04:48.29,Default,NTP,0,0,0,,旧书需要正当的邂逅
+Dialogue: 0,0:04:49.07,0:04:49.52,Default,NTP,0,0,0,,可以哦
+Dialogue: 0,0:04:49.86,0:04:50.69,Default,NTP,0,0,0,,你们在说什么？
+Dialogue: 0,0:04:51.18,0:04:53.62,Default,NTP,0,0,0,,李白非法弄到了一本旧书
+Dialogue: 0,0:04:53.64,0:04:54.65,Default,NTP,0,0,0,,于是神明震怒了
+Dialogue: 0,0:04:55.04,0:04:55.61,Default,NTP,0,0,0,,神明？
+Dialogue: 0,0:04:55.93,0:04:57.48,Default,NTP,0,0,0,,旧书市的神明
+Dialogue: 0,0:04:57.67,0:04:58.62,Default,NTP,0,0,0,,男人去那边
+Dialogue: 0,0:05:00.60,0:05:02.17,Default,NTP,0,0,0,,羽贯 有事随时叫我啊
+Dialogue: 0,0:05:02.44,0:05:03.55,Default,NTP,0,0,0,,知道了
+Dialogue: 0,0:05:03.94,0:05:05.34,Default,NTP,0,0,0,,我的肌肉怎样
+Dialogue: 0,0:05:07.40,0:05:08.76,Default,NTP,0,0,0,,啊 龙神大人
+Dialogue: 0,0:05:10.20,0:05:11.86,Default,NTP,0,0,0,,南无南无南无
+Dialogue: 0,0:05:12.39,0:05:12.92,Default,NTP,0,0,0,,谢谢
+Dialogue: 0,0:05:13.42,0:05:14.65,Default,NTP,0,0,0,,快点进去吧
+Dialogue: 0,0:05:15.83,0:05:16.32,Default,NTP,0,0,0,,是蛾
+Dialogue: 0,0:05:16.32,0:05:16.75,Default,NTP,0,0,0,,蛾！？
+Dialogue: 0,0:05:29.43,0:05:29.99,Default,NTP,0,0,0,,来了
+Dialogue: 0,0:05:30.08,0:05:31.39,Default,NTP,0,0,0,,等他们进了浴池再动手
+Dialogue: 0,0:05:37.68,0:05:38.22,Default,NTP,0,0,0,,羽贯小姐！
+Dialogue: 0,0:05:38.28,0:05:38.76,Default,NTP,0,0,0,,好
+Dialogue: 0,0:05:42.01,0:05:43.18,Default,NTP,0,0,0,,可能不行啊
+Dialogue: 0,0:05:43.18,0:05:43.82,Default,NTP,0,0,0,,请坚持住
+Dialogue: 0,0:05:47.81,0:05:49.42,Default,NTP,0,0,0,,{\an8}（电疗浴池）
+Dialogue: 0,0:05:54.04,0:05:55.46,Default,NTP,0,0,0,,嘎 色狼
+Dialogue: 0,0:05:56.54,0:05:57.43,Default,NTP,0,0,0,,羽贯没事吧
+Dialogue: 0,0:05:57.86,0:05:58.52,Default,NTP,0,0,0,,明石同学
+Dialogue: 0,0:05:58.68,0:06:00.23,Default,NTP,0,0,0,,我们就什么都做不了吗
+Dialogue: 0,0:06:00.58,0:06:03.12,Default,NTP,0,0,0,,无念无想便能穿墙而过
+Dialogue: 0,0:06:03.12,0:06:03.65,Default,NTP,0,0,0,,走吧
+Dialogue: 0,0:06:11.23,0:06:13.97,Default,NTP,0,0,0,,太劲爆了 羽贯围着一条浴巾就激烈对决啊
+Dialogue: 0,0:06:14.26,0:06:16.17,Default,NTP,0,0,0,,我把录像一帧帧放过去都没看到啊
+Dialogue: 0,0:06:16.46,0:06:17.85,Default,NTP,0,0,0,,明石可是一丝不挂的哦
+Dialogue: 0,0:06:18.14,0:06:19.24,Default,NTP,0,0,0,,难以置信啊
+Dialogue: 0,0:06:19.50,0:06:21.20,Default,NTP,0,0,0,,香织小姐可帅了
+Dialogue: 0,0:06:22.37,0:06:25.04,Default,NTP,0,0,0,,多亏城崎造船 我得到生命了
+Dialogue: 0,0:06:25.44,0:06:27.16,Default,NTP,0,0,0,,我将在浴室战斗（冷笑话）
+Dialogue: 0,0:06:29.23,0:06:30.30,Default,NTP,0,0,0,,难以置信啊
+

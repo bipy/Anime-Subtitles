@@ -1,0 +1,59 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,腾祥嘉丽中圆GB18030,62,&H00FFFFFF,&H0000FFFF,&H0049377C,&H40C0C0C0,-1,0,0,0,100,100,0,0,1,2,0,2,22,22,23,1
+Style: Default - top,腾祥嘉丽中圆GB18030,56,&H00FFFFFF,&H0000FFFF,&H0049377C,&H40C0C0C0,-1,0,0,0,100,100,0,0,1,2,0,8,22,22,35,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.06,0:00:08.06,Default,NTP,0,0,0,,续·特里斯特因 爱之剧场
+Dialogue: 0,0:00:08.84,0:00:15.10,Default,NTP,0,0,0,,『蝴蝶伯爵夫人的优雅一日』第2章
+Dialogue: 0,0:00:17.24,0:00:22.86,Default,NTP,0,0,0,,原本只是一名园丁的我 成为蝴蝶夫人的骑士已有数月
+Dialogue: 0,0:00:24.31,0:00:29.35,Default,NTP,0,0,0,,某天 我收到伯爵夫人让我夜里前往她寝室的邀请
+Dialogue: 0,0:00:33.59,0:00:35.98,Default,NTP,0,0,0,,夫人 打扰您了
+Dialogue: 0,0:00:37.59,0:00:39.09,Default,NTP,0,0,0,,过来
+Dialogue: 0,0:00:40.84,0:00:41.31,Default,NTP,0,0,0,,是
+Dialogue: 0,0:00:42.46,0:00:45.77,Default,NTP,0,0,0,,请对您的忠实奴仆下达任何命令吧
+Dialogue: 0,0:00:46.28,0:00:47.25,Default,NTP,0,0,0,,很好
+Dialogue: 0,0:00:48.39,0:00:50.92,Default,NTP,0,0,0,,那么 我的骑士啊
+Dialogue: 0,0:00:53.19,0:01:04.70,Default,NTP,0,0,0,,用...用你所期望的方法来侍奉我吧
+Dialogue: 0,0:01:05.44,0:01:13.57,Default,NTP,0,0,0,,来...来让我爽歪歪吧
+Dialogue: 0,0:01:14.34,0:01:15.40,Default,NTP,0,0,0,,喂 露易丝
+Dialogue: 0,0:01:16.16,0:01:18.52,Default,NTP,0,0,0,,你把台词念得含糊不清 这戏就搞砸了啊
+Dialogue: 0,0:01:19.42,0:01:20.64,Default,NTP,0,0,0,,好了 继续吧
+Dialogue: 0,0:01:23.41,0:01:25.91,Default,NTP,0,0,0,,我明白了 夫人
+Dialogue: 0,0:01:27.56,0:01:28.11,Default,NTP,0,0,0,,那么...
+Dialogue: 0,0:01:29.25,0:01:31.06,Default,NTP,0,0,0,,喂 真的可以吗
+Dialogue: 0,0:01:31.77,0:01:34.74,Default,NTP,0,0,0,,没...没问题
+Dialogue: 0,0:01:35.14,0:01:35.62,Default,NTP,0,0,0,,来吧
+Dialogue: 0,0:01:36.18,0:01:41.99,Default,NTP,0,0,0,,来...来侍奉...我...我的胸部吧
+Dialogue: 0,0:01:45.69,0:01:46.48,Default,NTP,0,0,0,,我明白了
+Dialogue: 0,0:01:47.14,0:01:49.72,Default,NTP,0,0,0,,那么夫人 我便恭敬地...
+Dialogue: 0,0:01:49.96,0:01:50.43,Default,NTP,0,0,0,,等等
+Dialogue: 0,0:01:51.07,0:01:51.46,Default,NTP,0,0,0,,哎？
+Dialogue: 0,0:01:52.36,0:01:54.42,Default,NTP,0,0,0,,温柔点啊
+Dialogue: 0,0:01:58.02,0:01:58.43,Default,NTP,0,0,0,,露易丝
+Dialogue: 0,0:01:59.74,0:02:04.40,Default,NTP,0,0,0,,笨蛋 不是露易丝是夫人吧？
+Dialogue: 0,0:02:05.54,0:02:08.33,Default,NTP,0,0,0,,无所谓了 我上了
+Dialogue: 0,0:02:10.37,0:02:10.99,Default,NTP,0,0,0,,是我丈夫
+Dialogue: 0,0:02:12.17,0:02:13.67,Default,NTP,0,0,0,,他不是今晚不回来吗...
+Dialogue: 0,0:02:22.59,0:02:24.23,Default,NTP,0,0,0,,夫人 不要紧吗
+Dialogue: 0,0:02:25.89,0:02:26.81,Default,NTP,0,0,0,,您的腿受伤了
+Dialogue: 0,0:02:27.23,0:02:28.34,Default,NTP,0,0,0,,我不行了
+Dialogue: 0,0:02:29.21,0:02:32.87,Default,NTP,0,0,0,,请不要放弃 我来背您
+Dialogue: 0,0:02:32.99,0:02:33.60,Default,NTP,0,0,0,,没用的
+Dialogue: 0,0:02:34.40,0:02:35.77,Default,NTP,0,0,0,,我的丈夫嫉妒心极强
+Dialogue: 0,0:02:36.49,0:02:40.17,Default,NTP,0,0,0,,即使逃到天涯海角也一定会被他找到的
+Dialogue: 0,0:02:41.34,0:02:44.26,Default,NTP,0,0,0,,不过 只有你一个人的话就能逃掉
+Dialogue: 0,0:02:44.71,0:02:46.18,Default,NTP,0,0,0,,不要管我 你先逃吧
+Dialogue: 0,0:02:46.42,0:02:48.81,Default,NTP,0,0,0,,我怎能做出这种事情...
+Dialogue: 0,0:02:49.59,0:02:55.16,Default,NTP,0,0,0,,我是你的主人 这是我对你最后的命令
+Dialogue: 0,0:02:55.71,0:02:56.79,Default,NTP,0,0,0,,所以你要听话
+Dialogue: 0,0:02:58.34,0:03:02.60,Default,NTP,0,0,0,,夫人...我明白了
+Dialogue: 0,0:03:03.61,0:03:09.70,Default,NTP,0,0,0,,那么 作为夫人的骑士我也要尽到最后的责任

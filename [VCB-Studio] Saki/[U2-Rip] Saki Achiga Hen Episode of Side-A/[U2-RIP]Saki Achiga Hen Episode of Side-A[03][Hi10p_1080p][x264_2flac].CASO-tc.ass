@@ -1,0 +1,478 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 咲-Saki- 阿知贺篇 episode of side-A
+Original Script: 华盟字幕社
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Reverse
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: zhengwen,FZZhunYuan-M02,49,&H00FFFFFF,&HFF000000,&H20000000,&H00666666,0,0,0,0,100,105,0,0,1,5,0,2,55,55,22,134
+Style: zhushi,FZZhunYuan-M02,44,&H00FFFFFF,&HFF000000,&H20000000,&H00666666,0,0,0,0,100,105,0,0,1,5,0,8,55,55,22,134
+Style: title,FZZhunYuan-M02,44,&H00FFFFFF,&HFF000000,&H20000000,&H00666666,0,0,0,0,100,105,0,0,1,5,0,3,55,55,22,134
+Style: opj,MS Gothic,36,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,100,100,1,0,1,5,0,8,55,55,22,128
+Style: opc,方正黑体_GBK,42,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,100,100,1,0,1,5,0,2,55,55,20,134
+Style: edj,MS Gothic,36,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,100,100,1,0,1,5,0,8,36,36,13,128
+Style: edc,方正黑体_GBK,42,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,100,100,1,0,1,5,0,2,38,38,11,134
+Style: staff,FZZhunYuan-M02,36,&H00FFFFFF,&HFF000000,&H20000000,&H00666666,0,0,0,0,100,105,0,0,1,5,0,8,55,55,22,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:15.70,0:00:16.65,zhengwen,NTP,0,0,0,,早上好
+Dialogue: 0,0:00:16.91,0:00:17.90,zhengwen,NTP,0,0,0,,早上好  小穩
+Dialogue: 0,0:00:18.11,0:00:18.82,zhengwen,NTP,0,0,0,,早上好
+Dialogue: 0,0:00:19.25,0:00:20.13,zhengwen,NTP,0,0,0,,早上好
+Dialogue: 0,0:00:20.35,0:00:21.84,zhengwen,NTP,0,0,0,,好…好冷
+Dialogue: 0,0:00:22.05,0:00:24.05,zhengwen,NTP,0,0,0,,咦？天氣很好很暖和啊
+Dialogue: 0,0:00:24.39,0:00:25.73,zhengwen,NTP,0,0,0,,姐姐加油
+Dialogue: 0,0:00:26.01,0:00:27.19,zhengwen,NTP,0,0,0,,大家都到齊了呢
+Dialogue: 0,0:00:28.01,0:00:29.24,zhengwen,NTP,0,0,0,,那麼  出發了哦
+Dialogue: 0,0:00:29.78,0:00:30.43,zhengwen,NTP,0,0,0,,是！
+Dialogue: 0,0:00:00.00,0:00:00.00,zhengwen,NTP,0,0,0,,====================================
+Dialogue: 0,0:00:55.70,0:00:58.36,opj,NTP,0,0,0,,{\fad(200,200)\be2}輝いてここ一番
+Dialogue: 0,0:00:58.52,0:01:01.88,opj,NTP,0,0,0,,{\fad(200,200)\be2}自分の直感を信じて
+Dialogue: 0,0:01:02.07,0:01:04.54,opj,NTP,0,0,0,,{\fad(200,200)\be2}受け取った　MIRACLE RUSH
+Dialogue: 0,0:01:04.61,0:01:09.66,opj,NTP,0,0,0,,{\fad(200,200)\be2}いま最高の奇跡に乗り込め
+Dialogue: 0,0:01:13.64,0:01:16.60,opj,NTP,0,0,0,,{\fad(200,200)\be2}冗談じゃない、わかるでしょ（you know?）
+Dialogue: 0,0:01:16.67,0:01:19.50,opj,NTP,0,0,0,,{\fad(200,200)\be2}油断できないこの事情（good luck）
+Dialogue: 0,0:01:19.57,0:01:24.99,opj,NTP,0,0,0,,{\fad(200,200)\be2}究極の選択は永遠のトラウマ
+Dialogue: 0,0:01:25.13,0:01:28.02,opj,NTP,0,0,0,,{\fad(200,200)\be2}勝ち負けじゃないキレイゴト（I know）
+Dialogue: 0,0:01:28.09,0:01:30.82,opj,NTP,0,0,0,,{\fad(200,200)\be2}励ましてくれてアリガト（thank you）
+Dialogue: 0,0:01:30.90,0:01:33.45,opj,NTP,0,0,0,,{\fad(200,200)\be2}最後には自分なんだ
+Dialogue: 0,0:01:33.52,0:01:35.35,opj,NTP,0,0,0,,{\fad(200,200)\be2}覚悟決めなくちゃ
+Dialogue: 0,0:01:35.42,0:01:38.49,opj,NTP,0,0,0,,{\fad(200,200)\be2}気になるサジェスチョン
+Dialogue: 0,0:01:38.57,0:01:44.42,opj,NTP,0,0,0,,{\fad(200,200)\be2}理屈は時々無力でジレンマ…
+Dialogue: 0,0:01:44.53,0:01:49.50,opj,NTP,0,0,0,,{\fad(200,200)\be2}流されてみてもいいのかも？
+Dialogue: 0,0:01:49.90,0:01:52.69,opj,NTP,0,0,0,,{\fad(200,200)\be2}運命が回りだす
+Dialogue: 0,0:01:52.80,0:01:56.23,opj,NTP,0,0,0,,{\fad(200,200)\be2}出たトコ勝負ではじめるの
+Dialogue: 0,0:01:56.40,0:02:01.27,opj,NTP,0,0,0,,{\fad(200,200)\be2}心の準備のアルナシは　待ってくれない
+Dialogue: 0,0:02:01.39,0:02:04.14,opj,NTP,0,0,0,,{\fad(200,200)\be2}輝いてここ一番
+Dialogue: 0,0:02:04.25,0:02:07.64,opj,NTP,0,0,0,,{\fad(200,200)\be2}自分の直感を信じて
+Dialogue: 0,0:02:07.79,0:02:10.23,opj,NTP,0,0,0,,{\fad(200,200)\be2}受け取った　MIRACLE RUSH
+Dialogue: 0,0:02:10.31,0:02:15.59,opj,NTP,0,0,0,,{\fad(200,200)\be2}いま最高の奇跡に乗り込め
+Dialogue: 0,0:00:55.70,0:00:58.36,opc,NTP,0,0,0,,{\fad(200,200)\be2}絢爛舞台上　最耀眼綻放
+Dialogue: 0,0:00:58.52,0:01:01.88,opc,NTP,0,0,0,,{\fad(200,200)\be2}遵循手中直覺揭開勝負
+Dialogue: 0,0:01:02.07,0:01:04.54,opc,NTP,0,0,0,,{\fad(200,200)\be2}預感的降臨　MIRACLE RUSH
+Dialogue: 0,0:01:04.61,0:01:09.66,opc,NTP,0,0,0,,{\fad(200,200)\be2}指間的期望　將會創造奇跡詩章
+Dialogue: 0,0:01:13.64,0:01:16.60,opc,NTP,0,0,0,,{\fad(200,200)\be2}這可不是開玩笑　你是否知道（you know?）
+Dialogue: 0,0:01:16.67,0:01:19.50,opc,NTP,0,0,0,,{\fad(200,200)\be2}粗心大意做不到　這樣的事要（good luck）
+Dialogue: 0,0:01:19.57,0:01:24.99,opc,NTP,0,0,0,,{\fad(200,200)\be2}獨自篤定下最後的決算　無奈卻成永久心瘡
+Dialogue: 0,0:01:25.13,0:01:28.02,opc,NTP,0,0,0,,{\fad(200,200)\be2}負勝定論勿多念　不過是虛言（I know）
+Dialogue: 0,0:01:28.09,0:01:30.82,opc,NTP,0,0,0,,{\fad(200,200)\be2}鼓勵話語的激勉　想說聲謝謝（thank you）
+Dialogue: 0,0:01:30.90,0:01:33.45,opc,NTP,0,0,0,,{\fad(200,200)\be2}物語的終焉　自我的決斷
+Dialogue: 0,0:01:33.52,0:01:35.35,opc,NTP,0,0,0,,{\fad(200,200)\be2}鼓起勇氣定下覺悟
+Dialogue: 0,0:01:35.42,0:01:38.49,opc,NTP,0,0,0,,{\fad(200,200)\be2}始終在意suggestion
+Dialogue: 0,0:01:38.57,0:01:44.42,opc,NTP,0,0,0,,{\fad(200,200)\be2}只因道理時時常常也敗下陣　舉步維艱…
+Dialogue: 0,0:01:44.53,0:01:49.50,opc,NTP,0,0,0,,{\fad(200,200)\be2}若能嘗試著隨遇而安也夠圓滿？
+Dialogue: 0,0:01:49.90,0:01:52.69,opc,NTP,0,0,0,,{\fad(200,200)\be2}命運的刻漏　傾瀉下輪迴
+Dialogue: 0,0:01:52.80,0:01:56.23,opc,NTP,0,0,0,,{\fad(200,200)\be2}聽憑指尖第六感開始勝負吧
+Dialogue: 0,0:01:56.40,0:02:01.27,opc,NTP,0,0,0,,{\fad(200,200)\be2}即便這份心情中仍駐有迷茫　亦已不再遲疑
+Dialogue: 0,0:02:01.39,0:02:04.14,opc,NTP,0,0,0,,{\fad(200,200)\be2}絢爛舞台上　最耀眼綻放
+Dialogue: 0,0:02:04.25,0:02:07.64,opc,NTP,0,0,0,,{\fad(200,200)\be2}遵循手中直覺揭開勝負
+Dialogue: 0,0:02:07.79,0:02:10.23,opc,NTP,0,0,0,,{\fad(200,200)\be2}預感的降臨　MIRACLE RUSH
+Dialogue: 0,0:02:10.31,0:02:15.59,opc,NTP,0,0,0,,{\fad(200,200)\be2}指間的期望　將會創造奇跡詩章
+Dialogue: 0,0:00:11.80,0:00:11.80,zhengwen,NTP,0,0,0,,====================================
+Dialogue: 0,0:02:19.90,0:02:21.80,staff,NTP,0,0,0,,{\fad(500,500)}本字幕僅供交流試看之用，如您喜歡本作品，請支持正版。\N若因私自散佈傳播造成法律及相關一切問題，華盟字幕社概不負責。
+Dialogue: 0,0:02:19.90,0:02:21.80,staff,NTP,0,0,0,,{\fad(200,200)}翻譯：羊羹、提燈娃娃；校對：阿維豆奶；歌詞：羊羹、阿維豆奶；\N後期：zipwinmax；術語協力：五點子；監製：千葉命；鳴謝：百度天才麻將少女吧。
+Dialogue: 0,0:02:21.02,0:02:25.37,title,NTP,0,0,0,,{\fad(500,500)\be2\fs36.364\pos(252.727,440)}第 3 局
+Dialogue: 0,0:02:21.02,0:02:25.37,title,NTP,0,0,0,,{\fad(500,500)\be2\pos(303.636,494.545)}『接 觸』
+Dialogue: 0,0:00:00.00,0:00:00.00,zhengwen,NTP,0,0,0,,====================================
+Dialogue: 0,0:02:25.89,0:02:27.88,zhengwen,NTP,0,0,0,,那就是縣預選賽的會場嗎
+Dialogue: 0,0:02:28.32,0:02:29.83,zhengwen,NTP,0,0,0,,令人懷念啊
+Dialogue: 0,0:02:31.45,0:02:32.49,zhengwen,NTP,0,0,0,,好緊張
+Dialogue: 0,0:02:32.82,0:02:34.46,zhengwen,NTP,0,0,0,,沒關係的哦  姐姐
+Dialogue: 0,0:02:34.71,0:02:37.91,zhengwen,NTP,0,0,0,,大家都已經有能和晴繪抗衡的實力了
+Dialogue: 0,0:02:38.33,0:02:42.32,zhengwen,NTP,0,0,0,,確實  已經和我以前的隊友差不多強了
+Dialogue: 0,0:02:42.82,0:02:43.49,zhengwen,NTP,0,0,0,,但是
+Dialogue: 0,0:02:44.66,0:02:47.62,zhengwen,NTP,0,0,0,,你們的隊伍中可沒有名為赤土的選手哦
+Dialogue: 0,0:02:48.84,0:02:50.04,zhengwen,NTP,0,0,0,,真煩…
+Dialogue: 0,0:02:55.79,0:02:57.13,zhengwen,NTP,0,0,0,,好多人啊
+Dialogue: 0,0:02:57.37,0:03:00.59,zhengwen,NTP,0,0,0,,哇  這些人都是對手嗎
+Dialogue: 0,0:03:00.96,0:03:04.71,zhengwen,NTP,0,0,0,,奈良比起其它的縣已經很少了
+Dialogue: 0,0:03:05.04,0:03:08.26,zhengwen,NTP,0,0,0,,在隔壁的大阪  即使已經分成了南北兩區
+Dialogue: 0,0:03:08.48,0:03:10.20,zhengwen,NTP,0,0,0,,戰況還是非常激烈啊
+Dialogue: 0,0:03:10.52,0:03:12.25,zhengwen,NTP,0,0,0,,看那裏  淘汰賽表
+Dialogue: 0,0:03:15.80,0:03:17.79,zhengwen,NTP,0,0,0,,於是  我們阿知賀呢？
+Dialogue: 0,0:03:22.64,0:03:24.51,zhengwen,NTP,0,0,0,,初戰的對手就是…
+Dialogue: 0,0:03:28.01,0:03:29.22,zhengwen,NTP,0,0,0,,晚成高中
+Dialogue: 0,0:03:35.75,0:03:37.40,zhengwen,NTP,0,0,0,,學姐  請加油
+Dialogue: 0,0:03:45.51,0:03:46.21,zhengwen,NTP,0,0,0,,憧
+Dialogue: 0,0:03:46.40,0:03:47.33,zhengwen,NTP,0,0,0,,沒關係
+Dialogue: 0,0:03:48.06,0:03:49.40,zhengwen,NTP,0,0,0,,反正是要碰上的對手
+Dialogue: 0,0:03:49.97,0:03:50.61,zhengwen,NTP,0,0,0,,嗯
+Dialogue: 0,0:03:50.88,0:03:53.20,zhengwen,NTP,0,0,0,,要進軍全國的話  不管怎樣都會碰上的
+Dialogue: 0,0:03:53.49,0:03:54.47,zhengwen,NTP,0,0,0,,嗯？
+Dialogue: 0,0:03:55.06,0:03:55.95,zhengwen,NTP,0,0,0,,是啊
+Dialogue: 0,0:03:56.27,0:03:59.44,zhengwen,NTP,0,0,0,,明明要進軍全國的  怎能在這裏退縮
+Dialogue: 0,0:03:59.81,0:04:01.10,zhengwen,NTP,0,0,0,,要堅定信心！
+Dialogue: 0,0:04:01.49,0:04:04.49,zhengwen,NTP,0,0,0,,我們要與和在全國大賽會師
+Dialogue: 0,0:04:05.38,0:04:06.29,zhengwen,NTP,0,0,0,,好的
+Dialogue: 0,0:04:06.62,0:04:08.26,zhengwen,NTP,0,0,0,,打倒晚成！
+Dialogue: 0,0:04:09.33,0:04:12.44,zhengwen,NTP,0,0,0,,那麼  到底哪所高中會取得進軍全國大賽的資格呢？
+Dialogue: 0,0:04:12.85,0:04:17.78,zhengwen,NTP,0,0,0,,史上連續9年制霸的晚成高中是否能在縣預賽達成10連霸呢
+Dialogue: 0,0:04:18.09,0:04:20.26,zhengwen,NTP,0,0,0,,還是說會出現新的黑馬呢？
+Dialogue: 0,0:04:23.09,0:04:24.28,zhengwen,NTP,0,0,0,,縣預賽一回戰
+Dialogue: 0,0:04:24.46,0:04:28.47,zhengwen,NTP,0,0,0,,晚成的對手是  荒牧  阿知賀女子  春日野
+Dialogue: 0,0:04:32.25,0:04:34.59,zhengwen,NTP,0,0,0,,縣預賽一回戰  開始
+Dialogue: 0,0:04:39.72,0:04:40.54,zhengwen,NTP,0,0,0,,學姐
+Dialogue: 0,0:04:40.68,0:04:41.95,zhengwen,NTP,0,0,0,,加油
+Dialogue: 0,0:05:07.81,0:05:09.65,zhengwen,NTP,0,0,0,,寶牌筋牌的三面聽
+Dialogue: 0,0:05:07.81,0:05:09.65,zhushi,NTP,0,0,0,,{\an8}筋牌：指1-4-7、2-5-8及3-6-9這三組同紋路牌，一般用於防守上\N三面聽：聽三種類的牌,例如這裏是聽3筒，6筒和9筒
+Dialogue: 0,0:05:10.70,0:05:11.84,zhengwen,NTP,0,0,0,,讓你們見識一下
+Dialogue: 0,0:05:12.11,0:05:12.89,zhengwen,NTP,0,0,0,,立直
+Dialogue: 0,0:05:13.57,0:05:15.13,zhengwen,NTP,0,0,0,,王者的打法
+Dialogue: 0,0:05:21.38,0:05:22.06,zhengwen,NTP,0,0,0,,自摸
+Dialogue: 0,0:05:23.70,0:05:25.82,zhengwen,NTP,0,0,0,,7張寶牌  每人8000點
+Dialogue: 0,0:05:26.02,0:05:26.61,zhengwen,NTP,0,0,0,,哎？
+Dialogue: 0,0:05:26.72,0:05:28.24,zhengwen,NTP,0,0,0,,阿知賀女子  松實玄
+Dialogue: 0,0:05:28.63,0:05:32.00,zhengwen,NTP,0,0,0,,在首戰第一局  憑借7張寶牌自摸達成莊家倍滿
+Dialogue: 0,0:05:28.63,0:05:32.00,zhushi,NTP,0,0,0,,{\an8}親倍：莊家倍滿的簡稱，自摸每人收8000，點和為24000
+Dialogue: 0,0:05:34.82,0:05:36.68,zhengwen,NTP,0,0,0,,學…姐…
+Dialogue: 0,0:05:41.46,0:05:42.14,zhengwen,NTP,0,0,0,,點和
+Dialogue: 0,0:05:46.48,0:05:47.37,zhengwen,NTP,0,0,0,,自摸
+Dialogue: 0,0:05:51.02,0:05:51.71,zhengwen,NTP,0,0,0,,點和
+Dialogue: 0,0:05:55.24,0:05:56.80,zhengwen,NTP,0,0,0,,大將戰最後一局
+Dialogue: 0,0:05:57.06,0:05:59.13,zhengwen,NTP,0,0,0,,佔據首位的是阿知賀女子
+Dialogue: 0,0:05:59.92,0:06:02.42,zhengwen,NTP,0,0,0,,先鋒松實玄所創造的高點數優勢
+Dialogue: 0,0:06:02.64,0:06:04.79,zhengwen,NTP,0,0,0,,由阿知賀的各位選手們完美地保持著
+Dialogue: 0,0:06:04.94,0:06:06.11,zhengwen,NTP,0,0,0,,並一直走到了這一步
+Dialogue: 0,0:06:06.68,0:06:10.28,zhengwen,NTP,0,0,0,,晚成的選手雖然在拚命追趕…
+Dialogue: 0,0:06:10.60,0:06:11.23,zhengwen,NTP,0,0,0,,點和
+Dialogue: 0,0:06:11.64,0:06:12.88,zhengwen,NTP,0,0,0,,2600點
+Dialogue: 0,0:06:13.03,0:06:13.75,zhengwen,NTP,0,0,0,,勝負已定
+Dialogue: 0,0:06:17.26,0:06:19.77,zhengwen,NTP,0,0,0,,阿知賀女子  突破一回戰
+Dialogue: 0,0:06:20.27,0:06:23.52,zhengwen,NTP,0,0,0,,終結了冠軍候補晚成高中的10連霸
+Dialogue: 0,0:06:24.26,0:06:26.55,zhengwen,NTP,0,0,0,,怎…怎麼可能
+Dialogue: 0,0:06:36.34,0:06:38.84,zhengwen,NTP,0,0,0,,就這麼一口氣取得冠軍吧
+Dialogue: 0,0:06:39.02,0:06:40.42,zhengwen,NTP,0,0,0,,當然如此
+Dialogue: 0,0:06:41.95,0:06:42.68,zhengwen,NTP,0,0,0,,嗯
+Dialogue: 0,0:06:43.64,0:06:44.48,zhengwen,NTP,0,0,0,,嗯
+Dialogue: 0,0:06:45.13,0:06:46.69,zhengwen,NTP,0,0,0,,向著全國出發
+Dialogue: 0,0:06:49.22,0:06:50.67,zhengwen,NTP,0,0,0,,向著和等待著的地方出發！
+Dialogue: 0,0:07:11.50,0:07:14.31,zhengwen,NTP,0,0,0,,怎麼說呢  總之我們做到了吧
+Dialogue: 0,0:07:14.73,0:07:16.89,zhengwen,NTP,0,0,0,,嗯  雖然很不容易
+Dialogue: 0,0:07:21.23,0:07:22.77,zhengwen,NTP,0,0,0,,看了新聞嗎？
+Dialogue: 0,0:07:24.22,0:07:25.87,zhengwen,NTP,0,0,0,,嗯  在網上看了
+Dialogue: 0,0:07:26.67,0:07:28.10,zhengwen,NTP,0,0,0,,長野的優勝學校是…
+Dialogue: 0,0:07:28.59,0:07:29.59,zhengwen,NTP,0,0,0,,清澄！
+Dialogue: 0,0:07:30.19,0:07:31.63,zhengwen,NTP,0,0,0,,和所在的學校！
+Dialogue: 0,0:07:31.84,0:07:34.45,zhengwen,NTP,0,0,0,,小和果然晉級了啊
+Dialogue: 0,0:07:34.70,0:07:36.72,zhengwen,NTP,0,0,0,,雖然是所沒聽說過的學校呢
+Dialogue: 0,0:07:37.28,0:07:38.15,zhengwen,NTP,0,0,0,,是嗎
+Dialogue: 0,0:07:38.39,0:07:41.09,zhengwen,NTP,0,0,0,,長野出名的學校是風越之類的
+Dialogue: 0,0:07:41.52,0:07:46.85,zhengwen,NTP,0,0,0,,而且去年出戰全國大賽的也應該是相當強的學校
+Dialogue: 0,0:07:46.99,0:07:50.07,zhengwen,NTP,0,0,0,,但是  這下終於能在全國舞台上相遇了
+Dialogue: 0,0:07:50.54,0:07:51.19,zhengwen,NTP,0,0,0,,嗯
+Dialogue: 0,0:07:51.67,0:07:53.72,zhengwen,NTP,0,0,0,,哦——！
+Dialogue: 0,0:07:53.83,0:07:56.37,zhengwen,NTP,0,0,0,,話說  宥姐和灼同學呢
+Dialogue: 0,0:07:56.79,0:07:59.06,zhengwen,NTP,0,0,0,,小灼和赤土老師去買東西了
+Dialogue: 0,0:07:59.42,0:08:03.60,zhengwen,NTP,0,0,0,,姐姐自從在電視出鏡以後就被她的同學圍得水洩不通
+Dialogue: 0,0:08:04.02,0:08:06.11,zhengwen,NTP,0,0,0,,我說…不去幫幫她嗎
+Dialogue: 0,0:08:06.35,0:08:08.43,zhengwen,NTP,0,0,0,,被那麼多人擠在一起應該很暖和吧
+Dialogue: 0,0:08:08.68,0:08:10.02,zhengwen,NTP,0,0,0,,我想她會很高興的吧
+Dialogue: 0,0:08:10.26,0:08:11.29,zhengwen,NTP,0,0,0,,是這樣的話就好了
+Dialogue: 0,0:08:11.67,0:08:12.35,zhengwen,NTP,0,0,0,,啊
+Dialogue: 0,0:08:13.23,0:08:14.59,zhengwen,NTP,0,0,0,,大家都到齊了啊
+Dialogue: 0,0:08:17.04,0:08:18.35,zhengwen,NTP,0,0,0,,說曹操曹操就到
+Dialogue: 0,0:08:18.71,0:08:20.64,zhengwen,NTP,0,0,0,,好的  雖然有點突然
+Dialogue: 0,0:08:20.87,0:08:22.82,zhengwen,NTP,0,0,0,,現在就開始全國大賽的準備會議吧
+Dialogue: 0,0:08:23.08,0:08:24.03,zhengwen,NTP,0,0,0,,哦～
+Dialogue: 0,0:08:24.47,0:08:25.85,zhengwen,NTP,0,0,0,,哦…
+Dialogue: 0,0:08:27.35,0:08:28.38,zhengwen,NTP,0,0,0,,合宿？
+Dialogue: 0,0:08:28.63,0:08:32.04,zhengwen,NTP,0,0,0,,雖說是合宿  更像是每週末的遠征吧
+Dialogue: 0,0:08:32.50,0:08:33.60,zhengwen,NTP,0,0,0,,每周都遠征？
+Dialogue: 0,0:08:34.06,0:08:36.68,zhengwen,NTP,0,0,0,,以前我出戰全國大賽的時候
+Dialogue: 0,0:08:37.02,0:08:40.38,zhengwen,NTP,0,0,0,,成為縣代表後就不能進行練習比賽了
+Dialogue: 0,0:08:41.13,0:08:42.41,zhengwen,NTP,0,0,0,,與小學生也是嗎？
+Dialogue: 0,0:08:42.78,0:08:45.64,zhengwen,NTP,0,0,0,,是的  但現在已經更改了規定
+Dialogue: 0,0:08:45.94,0:08:48.99,zhengwen,NTP,0,0,0,,只要不是同為縣代表就可以進行比賽
+Dialogue: 0,0:08:49.41,0:08:50.23,zhengwen,NTP,0,0,0,,哎～
+Dialogue: 0,0:08:50.86,0:08:51.99,zhengwen,NTP,0,0,0,,就是說
+Dialogue: 0,0:08:53.81,0:08:57.43,zhengwen,NTP,0,0,0,,和各縣的第二名學校比賽是可以的
+Dialogue: 0,0:08:57.99,0:09:00.61,zhengwen,NTP,0,0,0,,現在距高中聯賽還有7個週末
+Dialogue: 0,0:09:00.87,0:09:04.74,zhengwen,NTP,0,0,0,,每週三天兩晚  目標是打敗全國各縣的第二
+Dialogue: 0,0:09:05.11,0:09:05.97,zhengwen,NTP,0,0,0,,好厲害
+Dialogue: 0,0:09:06.24,0:09:07.42,zhengwen,NTP,0,0,0,,哇…
+Dialogue: 0,0:09:07.78,0:09:09.17,zhengwen,NTP,0,0,0,,我們可以做到嗎？
+Dialogue: 0,0:09:09.59,0:09:11.58,zhengwen,NTP,0,0,0,,因為獲得了全國出場的機會
+Dialogue: 0,0:09:11.79,0:09:15.17,zhengwen,NTP,0,0,0,,不僅麻將部後援會復活了  部費也增加了
+Dialogue: 0,0:09:15.44,0:09:17.19,zhengwen,NTP,0,0,0,,活動費應該是足夠的
+Dialogue: 0,0:09:17.64,0:09:21.10,zhengwen,NTP,0,0,0,,之後就是向各人的父母獲取許可了
+Dialogue: 0,0:09:21.45,0:09:23.34,zhengwen,NTP,0,0,0,,我們家應該沒問題
+Dialogue: 0,0:09:23.65,0:09:24.30,zhengwen,NTP,0,0,0,,我也是
+Dialogue: 0,0:09:24.54,0:09:25.15,zhengwen,NTP,0,0,0,,哎…
+Dialogue: 0,0:09:25.29,0:09:26.07,zhengwen,NTP,0,0,0,,我也應該沒問題
+Dialogue: 0,0:09:26.24,0:09:30.86,zhengwen,NTP,0,0,0,,好的  那麼就趕快決定對手以及申請對戰吧…
+Dialogue: 0,0:09:31.01,0:09:31.64,zhengwen,NTP,0,0,0,,長野
+Dialogue: 0,0:09:31.89,0:09:32.57,zhengwen,NTP,0,0,0,,嗯？
+Dialogue: 0,0:09:32.76,0:09:34.30,zhengwen,NTP,0,0,0,,我想和長野的第二名比賽
+Dialogue: 0,0:09:34.64,0:09:35.63,zhengwen,NTP,0,0,0,,長野？
+Dialogue: 0,0:09:35.81,0:09:36.69,zhengwen,NTP,0,0,0,,啊  好啊
+Dialogue: 0,0:09:36.90,0:09:39.49,zhengwen,NTP,0,0,0,,就首先去申請那裏嗎
+Dialogue: 0,0:09:40.70,0:09:41.74,zhengwen,NTP,0,0,0,,是這所啊
+Dialogue: 0,0:09:49.90,0:09:51.52,zhengwen,NTP,0,0,0,,哦…哦！
+Dialogue: 0,0:09:51.64,0:09:52.72,zhengwen,NTP,0,0,0,,是山啊！
+Dialogue: 0,0:09:52.90,0:09:53.97,zhengwen,NTP,0,0,0,,好壯觀啊
+Dialogue: 0,0:09:54.53,0:09:56.20,zhengwen,NTP,0,0,0,,我們那裏不也有山嗎
+Dialogue: 0,0:09:57.71,0:10:02.67,zhengwen,NTP,0,0,0,,縣預選賽之前  我以為你們的夢想是絕對無法實現的
+Dialogue: 0,0:10:03.60,0:10:04.87,zhengwen,NTP,0,0,0,,不是我們這裏的問題
+Dialogue: 0,0:10:05.30,0:10:07.36,zhengwen,NTP,0,0,0,,對戰晚成我們是有勝算的
+Dialogue: 0,0:10:07.76,0:10:12.43,zhengwen,NTP,0,0,0,,但是  我不認為和的學校能夠從長野晉級
+Dialogue: 0,0:10:13.12,0:10:15.43,zhengwen,NTP,0,0,0,,因為  在去年的高中聯賽上
+Dialogue: 0,0:10:15.87,0:10:18.85,zhengwen,NTP,0,0,0,,我一直關注著長野的代表隊…
+Dialogue: 0,0:10:39.27,0:10:40.45,zhengwen,NTP,0,0,0,,哇…
+Dialogue: 0,0:10:40.79,0:10:42.22,zhengwen,NTP,0,0,0,,這是哪裏的迎賓館嗎
+Dialogue: 0,0:10:43.00,0:10:45.46,zhengwen,NTP,0,0,0,,這就是長野的第二名學校…
+Dialogue: 0,0:10:46.28,0:10:47.44,zhengwen,NTP,0,0,0,,就是這裏
+Dialogue: 0,0:10:49.13,0:10:50.00,zhengwen,NTP,0,0,0,,請進
+Dialogue: 0,0:10:58.75,0:11:00.37,zhengwen,NTP,0,0,0,,恭候多時了
+Dialogue: 0,0:11:00.89,0:11:02.77,zhengwen,NTP,0,0,0,,這幫傢伙就是奈良的代表？
+Dialogue: 0,0:11:03.11,0:11:05.71,zhengwen,NTP,0,0,0,,說「這幫傢伙」很失禮哦  純君
+Dialogue: 0,0:11:06.15,0:11:06.98,zhengwen,NTP,0,0,0,,請多多指教
+Dialogue: 0,0:11:08.22,0:11:09.35,zhengwen,NTP,0,0,0,,這是…
+Dialogue: 0,0:11:14.55,0:11:15.26,zhengwen,NTP,0,0,0,,嗯？
+Dialogue: 0,0:11:18.73,0:11:20.25,zhengwen,NTP,0,0,0,,遠道而來辛苦了
+Dialogue: 0,0:11:23.11,0:11:27.36,zhengwen,NTP,0,0,0,,這就是  長野的第二名…
+Dialogue: 0,0:11:28.09,0:11:29.69,zhengwen,NTP,0,0,0,,龍門淵高中！
+Dialogue: 0,0:00:00.00,0:00:00.00,zhengwen,NTP,0,0,0,,====================================
+Dialogue: 0,0:11:39.78,0:11:42.54,zhengwen,NTP,0,0,0,,哇  又是衣的勝利哦
+Dialogue: 0,0:11:47.35,0:11:48.67,zhengwen,NTP,0,0,0,,贏不了…
+Dialogue: 0,0:11:49.17,0:11:51.85,zhengwen,NTP,0,0,0,,這是她第三次用海底贏牌了…
+Dialogue: 0,0:11:49.17,0:11:51.85,zhushi,NTP,0,0,0,,{\an8}海底：海底撈月的簡稱，以最後一張可摸牌來自摸
+Dialogue: 0,0:11:52.15,0:11:52.83,zhengwen,NTP,0,0,0,,異常…
+Dialogue: 0,0:11:53.69,0:11:58.63,zhengwen,NTP,0,0,0,,龍門淵的天江衣  如我所料是全國級別的怪物
+Dialogue: 0,0:11:59.68,0:12:02.88,zhengwen,NTP,0,0,0,,再這麼下去  會不會變得像以前的我一樣…
+Dialogue: 0,0:12:03.49,0:12:04.80,zhengwen,NTP,0,0,0,,應該讓她別打了嗎
+Dialogue: 0,0:12:06.04,0:12:06.87,zhengwen,NTP,0,0,0,,天江同學！
+Dialogue: 0,0:12:06.99,0:12:07.51,zhengwen,NTP,0,0,0,,哎？
+Dialogue: 0,0:12:07.63,0:12:08.94,zhengwen,NTP,0,0,0,,你真的好強啊
+Dialogue: 0,0:12:09.16,0:12:11.17,zhengwen,NTP,0,0,0,,和…那個…清澄她們
+Dialogue: 0,0:12:11.31,0:12:13.09,zhengwen,NTP,0,0,0,,真的打敗了天江同學你嗎
+Dialogue: 0,0:12:14.55,0:12:17.71,zhengwen,NTP,0,0,0,,不  讓衣蒙羞的並非小禾
+Dialogue: 0,0:12:18.22,0:12:19.95,zhengwen,NTP,0,0,0,,是清澄的嶺上使
+Dialogue: 0,0:12:18.22,0:12:19.95,zhushi,NTP,0,0,0,,{\an8}嶺上：嶺上開花的簡稱，以杠牌後的補牌來自摸
+Dialogue: 0,0:12:20.85,0:12:24.97,zhengwen,NTP,0,0,0,,而且  現在的衣連一半的實力都沒發揮出來
+Dialogue: 0,0:12:25.25,0:12:27.56,zhengwen,NTP,0,0,0,,因為是只有殘月的傍晚呢
+Dialogue: 0,0:12:27.87,0:12:29.38,zhengwen,NTP,0,0,0,,嶺上使？
+Dialogue: 0,0:12:29.54,0:12:30.43,zhengwen,NTP,0,0,0,,月？
+Dialogue: 0,0:12:31.83,0:12:33.98,zhengwen,NTP,0,0,0,,雖然完全不知道在說什麼
+Dialogue: 0,0:12:34.49,0:12:36.27,zhengwen,NTP,0,0,0,,請再跟我一決勝負！
+Dialogue: 0,0:12:36.78,0:12:37.73,zhengwen,NTP,0,0,0,,可以嗎
+Dialogue: 0,0:12:37.90,0:12:38.50,zhengwen,NTP,0,0,0,,是！
+Dialogue: 0,0:12:38.66,0:12:40.87,zhengwen,NTP,0,0,0,,啊  還有我也來
+Dialogue: 0,0:12:41.09,0:12:44.12,zhengwen,NTP,0,0,0,,哦  你也願意跟衣一起玩嗎
+Dialogue: 0,0:12:44.37,0:12:45.29,zhengwen,NTP,0,0,0,,我們也來
+Dialogue: 0,0:12:46.38,0:12:47.00,zhengwen,NTP,0,0,0,,嗯
+Dialogue: 0,0:12:51.08,0:12:52.03,zhengwen,NTP,0,0,0,,我也參加
+Dialogue: 0,0:12:52.36,0:12:53.49,zhengwen,NTP,0,0,0,,那麼就稍微…
+Dialogue: 0,0:12:53.68,0:12:55.29,zhengwen,NTP,0,0,0,,讓我們也來當下你們的對手吧
+Dialogue: 0,0:12:57.96,0:12:58.97,zhengwen,NTP,0,0,0,,我也…
+Dialogue: 0,0:13:00.58,0:13:03.95,zhengwen,NTP,0,0,0,,那麼我去準備晚膳了
+Dialogue: 0,0:13:05.36,0:13:07.32,zhengwen,NTP,0,0,0,,那就開始吧
+Dialogue: 0,0:13:07.50,0:13:08.74,zhengwen,NTP,0,0,0,,快來玩吧
+Dialogue: 0,0:13:09.17,0:13:09.86,zhengwen,NTP,0,0,0,,嗯！
+Dialogue: 0,0:13:10.37,0:13:11.97,zhengwen,NTP,0,0,0,,這回可不會輸了！
+Dialogue: 0,0:13:13.65,0:13:15.28,zhengwen,NTP,0,0,0,,啊…
+Dialogue: 0,0:13:16.70,0:13:17.62,zhengwen,NTP,0,0,0,,什麼嘛
+Dialogue: 0,0:13:18.17,0:13:20.99,zhengwen,NTP,0,0,0,,還是有比我厲害的地方的嘛
+Dialogue: 0,0:13:21.20,0:13:22.70,zhengwen,NTP,0,0,0,,請多多指教！
+Dialogue: 0,0:13:34.03,0:13:37.26,zhengwen,NTP,0,0,0,,很好  除了龍門淵其餘全勝嘛
+Dialogue: 0,0:13:37.44,0:13:39.12,zhengwen,NTP,0,0,0,,打得還真不錯
+Dialogue: 0,0:13:39.31,0:13:43.68,zhengwen,NTP,0,0,0,,但是誰也贏不了北大阪三箇牧的那個人呢
+Dialogue: 0,0:13:43.93,0:13:44.89,zhengwen,NTP,0,0,0,,她啊
+Dialogue: 0,0:13:45.47,0:13:48.84,zhengwen,NTP,0,0,0,,荒川憩在去年的個人賽排名全國第二
+Dialogue: 0,0:13:49.26,0:13:53.41,zhengwen,NTP,0,0,0,,如果你們全都能打敗她的話  那我們就能輕鬆拿下全國冠軍了
+Dialogue: 0,0:13:53.94,0:13:58.76,zhengwen,NTP,0,0,0,,反過來說  如果贏不了的話就拿不到全國冠軍嗎
+Dialogue: 0,0:13:59.13,0:14:00.24,zhengwen,NTP,0,0,0,,綜合實力！
+Dialogue: 0,0:14:00.53,0:14:05.55,zhengwen,NTP,0,0,0,,三箇牧在北大阪排名第二  就是因為綜合實力不如千里山啊
+Dialogue: 0,0:14:05.86,0:14:06.59,zhengwen,NTP,0,0,0,,所以說
+Dialogue: 0,0:14:08.69,0:14:10.68,zhengwen,NTP,0,0,0,,我們也靠綜合實力來贏就好
+Dialogue: 0,0:14:11.05,0:14:13.33,zhengwen,NTP,0,0,0,,為此  後天開始的暑假
+Dialogue: 0,0:14:13.67,0:14:16.30,zhengwen,NTP,0,0,0,,先用十天的合宿提升大家的水平
+Dialogue: 0,0:14:16.64,0:14:19.37,zhengwen,NTP,0,0,0,,然後在各自家裏休息幾天
+Dialogue: 0,0:14:19.73,0:14:23.75,zhengwen,NTP,0,0,0,,就向全國大賽的舉辦地——東京進發！
+Dialogue: 0,0:14:22.28,0:14:23.75,zhushi,NTP,0,0,0,,（目標是全國冠軍！）
+Dialogue: 0,0:15:31.89,0:15:33.00,zhengwen,NTP,0,0,0,,一路走好
+Dialogue: 0,0:15:33.36,0:15:36.22,zhengwen,NTP,0,0,0,,加油
+Dialogue: 0,0:15:31.89,0:15:36.22,zhushi,NTP,0,0,0,,（目標是全國制霸！！）
+Dialogue: 0,0:15:36.39,0:15:37.29,zhengwen,NTP,0,0,0,,加油
+Dialogue: 0,0:15:37.43,0:15:38.45,zhengwen,NTP,0,0,0,,加油
+Dialogue: 0,0:15:44.10,0:15:44.68,zhengwen,NTP,0,0,0,,憧
+Dialogue: 0,0:15:44.93,0:15:45.72,zhengwen,NTP,0,0,0,,嗯？
+Dialogue: 0,0:15:47.57,0:15:48.48,zhengwen,NTP,0,0,0,,初瀨…
+Dialogue: 0,0:15:49.86,0:15:50.76,zhengwen,NTP,0,0,0,,怎麼了？
+Dialogue: 0,0:15:53.45,0:15:56.28,zhengwen,NTP,0,0,0,,繭子  比以前又多了
+Dialogue: 0,0:15:56.48,0:16:01.15,zhengwen,NTP,0,0,0,,啊  那個…最近似乎好了很多…
+Dialogue: 0,0:16:03.22,0:16:06.13,zhengwen,NTP,0,0,0,,憧你們比起縣大賽的時候又強了不少呢
+Dialogue: 0,0:16:06.54,0:16:08.03,zhengwen,NTP,0,0,0,,為了在全國大賽獲勝
+Dialogue: 0,0:16:10.17,0:16:11.07,zhengwen,NTP,0,0,0,,當然！
+Dialogue: 0,0:16:13.07,0:16:15.47,zhengwen,NTP,0,0,0,,因為我們有著在全國大賽上非做不可的事呢
+Dialogue: 0,0:16:16.24,0:16:17.62,zhengwen,NTP,0,0,0,,差不多該出發了
+Dialogue: 0,0:16:18.06,0:16:19.11,zhengwen,NTP,0,0,0,,是！
+Dialogue: 0,0:16:21.02,0:16:22.57,zhengwen,NTP,0,0,0,,加油  憧
+Dialogue: 0,0:16:22.90,0:16:23.81,zhengwen,NTP,0,0,0,,初瀨也是
+Dialogue: 0,0:16:24.17,0:16:26.77,zhengwen,NTP,0,0,0,,嗯  明年我會贏下來的！
+Dialogue: 0,0:16:27.18,0:16:28.08,zhengwen,NTP,0,0,0,,很好！
+Dialogue: 0,0:16:30.20,0:16:32.34,zhengwen,NTP,0,0,0,,加油
+Dialogue: 0,0:16:32.46,0:16:34.75,zhengwen,NTP,0,0,0,,小憧再見！大家再見！
+Dialogue: 0,0:16:35.00,0:16:36.22,zhengwen,NTP,0,0,0,,哦！
+Dialogue: 0,0:16:37.96,0:16:39.87,zhengwen,NTP,0,0,0,,不回應大家的期待可不行呢
+Dialogue: 0,0:16:41.23,0:16:41.96,zhengwen,NTP,0,0,0,,是！
+Dialogue: 0,0:16:51.41,0:16:52.85,zhengwen,NTP,0,0,0,,中途休息！
+Dialogue: 0,0:16:53.05,0:16:56.04,zhengwen,NTP,0,0,0,,在車上坐久了真是累啊
+Dialogue: 0,0:16:56.42,0:16:58.18,zhengwen,NTP,0,0,0,,還要多久才到東京？
+Dialogue: 0,0:16:58.43,0:17:00.04,zhengwen,NTP,0,0,0,,據說還要三個小時
+Dialogue: 0,0:17:00.30,0:17:02.51,zhengwen,NTP,0,0,0,,哦～好遠！
+Dialogue: 0,0:17:02.73,0:17:03.63,zhengwen,NTP,0,0,0,,宥姐呢？
+Dialogue: 0,0:17:03.83,0:17:04.87,zhengwen,NTP,0,0,0,,還在睡
+Dialogue: 0,0:17:05.16,0:17:07.33,zhengwen,NTP,0,0,0,,我們去便利店  要買些什麼嗎
+Dialogue: 0,0:17:07.69,0:17:10.02,zhengwen,NTP,0,0,0,,只要有喝的就行  別的就隨意了
+Dialogue: 0,0:17:10.22,0:17:12.80,zhengwen,NTP,0,0,0,,OK  那暫時就自由活動
+Dialogue: 0,0:17:13.11,0:17:13.88,zhengwen,NTP,0,0,0,,是
+Dialogue: 0,0:17:21.45,0:17:22.77,zhengwen,NTP,0,0,0,,好熱
+Dialogue: 0,0:17:23.03,0:17:25.24,zhengwen,NTP,0,0,0,,天稍微有些陰真是太好了
+Dialogue: 0,0:17:25.37,0:17:28.79,zhengwen,NTP,0,0,0,,如果是晴天的話超熱的  會熱死人的啦
+Dialogue: 0,0:17:30.11,0:17:30.80,zhengwen,NTP,0,0,0,,咦
+Dialogue: 0,0:17:31.48,0:17:32.89,zhengwen,NTP,0,0,0,,有個穿校服的孩子
+Dialogue: 0,0:17:33.31,0:17:34.90,zhengwen,NTP,0,0,0,,跟我們一樣呢
+Dialogue: 0,0:17:44.03,0:17:44.66,zhengwen,NTP,0,0,0,,哎？
+Dialogue: 0,0:17:45.26,0:17:46.52,zhengwen,NTP,0,0,0,,啊…倒下了？
+Dialogue: 0,0:17:46.72,0:17:47.67,zhengwen,NTP,0,0,0,,中暑？
+Dialogue: 0,0:17:50.11,0:17:51.56,zhengwen,NTP,0,0,0,,沒事吧
+Dialogue: 0,0:17:51.91,0:17:52.59,zhengwen,NTP,0,0,0,,憐
+Dialogue: 0,0:17:52.70,0:17:53.35,zhengwen,NTP,0,0,0,,哎？
+Dialogue: 0,0:17:53.57,0:17:54.46,zhengwen,NTP,0,0,0,,沒事吧
+Dialogue: 0,0:17:54.57,0:17:55.26,zhengwen,NTP,0,0,0,,哦
+Dialogue: 0,0:17:55.43,0:17:57.50,zhengwen,NTP,0,0,0,,嗯…龍華…
+Dialogue: 0,0:17:57.94,0:18:00.13,zhengwen,NTP,0,0,0,,又麻煩你了
+Dialogue: 0,0:18:03.48,0:18:04.08,zhengwen,NTP,0,0,0,,啊？
+Dialogue: 0,0:18:16.30,0:18:17.19,zhengwen,NTP,0,0,0,,好吃
+Dialogue: 0,0:18:17.48,0:18:18.21,zhengwen,NTP,0,0,0,,嗯
+Dialogue: 0,0:18:18.36,0:18:19.77,zhengwen,NTP,0,0,0,,身體已經沒事了嗎
+Dialogue: 0,0:18:20.12,0:18:22.37,zhengwen,NTP,0,0,0,,啊  抱歉讓你們受驚了
+Dialogue: 0,0:18:22.68,0:18:24.76,zhengwen,NTP,0,0,0,,我稍微有些病弱
+Dialogue: 0,0:18:24.96,0:18:26.34,zhengwen,NTP,0,0,0,,別說得那麼哀怨
+Dialogue: 0,0:18:26.78,0:18:29.35,zhengwen,NTP,0,0,0,,說起來  你們為什麼穿著校服呢
+Dialogue: 0,0:18:29.67,0:18:32.92,zhengwen,NTP,0,0,0,,這個啊  因為是在學校社團的活動中啊
+Dialogue: 0,0:18:33.21,0:18:34.63,zhengwen,NTP,0,0,0,,哎  難道說…
+Dialogue: 0,0:18:34.94,0:18:36.32,zhengwen,NTP,0,0,0,,憐！
+Dialogue: 0,0:18:37.25,0:18:39.85,zhengwen,NTP,0,0,0,,巴士就快開了！
+Dialogue: 0,0:18:40.13,0:18:42.47,zhengwen,NTP,0,0,0,,學姐  請快點
+Dialogue: 0,0:18:42.70,0:18:43.61,zhengwen,NTP,0,0,0,,該走了
+Dialogue: 0,0:18:45.04,0:18:46.12,zhengwen,NTP,0,0,0,,很高興認識你們
+Dialogue: 0,0:18:46.31,0:18:47.10,zhengwen,NTP,0,0,0,,再會
+Dialogue: 0,0:18:48.41,0:18:50.31,zhengwen,NTP,0,0,0,,巴士快開啦
+Dialogue: 0,0:18:50.45,0:18:53.56,zhengwen,NTP,0,0,0,,江口學姐  你不害臊嗎  請稍微安靜一點
+Dialogue: 0,0:18:53.69,0:18:54.82,zhengwen,NTP,0,0,0,,你們在這裏啊
+Dialogue: 0,0:18:55.77,0:18:56.66,zhengwen,NTP,0,0,0,,赤土老師
+Dialogue: 0,0:18:56.87,0:18:57.58,zhengwen,NTP,0,0,0,,啊
+Dialogue: 0,0:18:57.95,0:18:59.94,zhengwen,NTP,0,0,0,,那不是千里山嗎
+Dialogue: 0,0:19:00.21,0:19:01.25,zhengwen,NTP,0,0,0,,千里山？
+Dialogue: 0,0:19:01.63,0:19:06.35,zhengwen,NTP,0,0,0,,那邊  有四輛巴士  有好多穿著那種校服的學生
+Dialogue: 0,0:19:06.94,0:19:08.69,zhengwen,NTP,0,0,0,,全國排名第二
+Dialogue: 0,0:19:09.46,0:19:11.30,zhengwen,NTP,0,0,0,,高中聯賽第四種子隊…
+Dialogue: 0,0:19:12.19,0:19:13.59,zhengwen,NTP,0,0,0,,千里山女子
+Dialogue: 0,0:19:14.00,0:19:15.71,zhengwen,NTP,0,0,0,,關西最強的高中！
+Dialogue: 0,0:19:30.37,0:19:32.10,zhengwen,NTP,0,0,0,,唔呵～
+Dialogue: 0,0:19:32.29,0:19:34.90,zhengwen,NTP,0,0,0,,我訂了三間雙人套房
+Dialogue: 0,0:19:35.04,0:19:36.60,zhengwen,NTP,0,0,0,,哇  奢侈
+Dialogue: 0,0:19:36.83,0:19:38.98,zhengwen,NTP,0,0,0,,分完房間就趕緊好好休息吧
+Dialogue: 0,0:19:43.67,0:19:47.14,zhengwen,NTP,0,0,0,,終於到了東京呢…全國大賽
+Dialogue: 0,0:19:47.34,0:19:48.18,zhengwen,NTP,0,0,0,,嗯
+Dialogue: 0,0:19:48.68,0:19:50.43,zhengwen,NTP,0,0,0,,不去跟小和見面嗎
+Dialogue: 0,0:19:51.14,0:19:54.43,zhengwen,NTP,0,0,0,,不  她不先來見我們  我們就不去找她
+Dialogue: 0,0:19:55.65,0:19:58.96,zhengwen,NTP,0,0,0,,總之  想要先跟清澄來一戰呢
+Dialogue: 0,0:20:16.08,0:20:18.19,zhengwen,NTP,0,0,0,,那麼  灼  拜託你抽籤了呢
+Dialogue: 0,0:20:18.47,0:20:19.13,zhengwen,NTP,0,0,0,,是
+Dialogue: 0,0:20:19.39,0:20:20.48,zhengwen,NTP,0,0,0,,狠狠地上啊！
+Dialogue: 0,0:20:20.72,0:20:22.08,zhengwen,NTP,0,0,0,,小灼  Fight！
+Dialogue: 0,0:20:22.28,0:20:23.49,zhengwen,NTP,0,0,0,,加油！
+Dialogue: 0,0:20:23.84,0:20:26.22,zhengwen,NTP,0,0,0,,只是抽個簽而已  真是小題大做
+Dialogue: 0,0:20:26.76,0:20:30.17,zhengwen,NTP,0,0,0,,說起來  為什麼選小灼做部長呢？
+Dialogue: 0,0:20:30.35,0:20:33.69,zhengwen,NTP,0,0,0,,哦  作為唯一的三年級部員感到不滿嗎
+Dialogue: 0,0:20:33.94,0:20:37.23,zhengwen,NTP,0,0,0,,不…讓我上台抽籤什麼的太為難了
+Dialogue: 0,0:20:37.42,0:20:38.81,zhengwen,NTP,0,0,0,,現在這樣倒不如說是很樂意
+Dialogue: 0,0:20:39.09,0:20:40.46,zhengwen,NTP,0,0,0,,這就是答案了
+Dialogue: 0,0:20:40.71,0:20:43.85,zhengwen,NTP,0,0,0,,隊裏最穩重的就是灼了呢
+Dialogue: 0,0:20:44.12,0:20:45.65,zhengwen,NTP,0,0,0,,完全同意…
+Dialogue: 0,0:20:50.32,0:20:53.94,zhengwen,NTP,0,0,0,,那個…如果碰巧跟和見面了怎麼辦？
+Dialogue: 0,0:20:54.12,0:20:55.98,zhengwen,NTP,0,0,0,,那就沒辦法了吧
+Dialogue: 0,0:20:57.77,0:20:59.29,zhengwen,NTP,0,0,0,,說不定會遇見啊…
+Dialogue: 0,0:20:59.44,0:21:01.36,zhengwen,NTP,0,0,0,,其實你是想早點見面的吧
+Dialogue: 0,0:21:05.26,0:21:05.82,zhengwen,NTP,0,0,0,,啊
+Dialogue: 0,0:21:11.31,0:21:13.37,zhengwen,NTP,0,0,0,,什…什麼
+Dialogue: 0,0:21:17.72,0:21:19.90,zhengwen,NTP,0,0,0,,那  那校服…
+Dialogue: 0,0:21:20.35,0:21:21.21,zhengwen,NTP,0,0,0,,是清澄！
+Dialogue: 0,0:21:21.34,0:21:21.92,zhengwen,NTP,0,0,0,,啊
+Dialogue: 0,0:21:37.49,0:21:40.58,zhengwen,NTP,0,0,0,,不  讓衣蒙羞的並非小禾
+Dialogue: 0,0:21:40.93,0:21:42.65,zhengwen,NTP,0,0,0,,是清澄的嶺上使
+Dialogue: 0,0:21:43.27,0:21:44.19,zhengwen,NTP,0,0,0,,跟我同齡…
+Dialogue: 0,0:21:44.46,0:21:46.22,zhengwen,NTP,0,0,0,,名字叫什麼來著…
+Dialogue: 0,0:21:46.74,0:21:47.65,zhengwen,NTP,0,0,0,,好像是…
+Dialogue: 0,0:21:47.82,0:21:48.52,zhengwen,NTP,0,0,0,,咲
+Dialogue: 0,0:21:50.55,0:21:51.63,zhengwen,NTP,0,0,0,,宮永咲！
+Dialogue: 0,0:21:54.93,0:21:55.85,zhengwen,NTP,0,0,0,,是我…
+Dialogue: 0,0:21:56.89,0:21:58.77,zhengwen,NTP,0,0,0,,是我必須打倒的對手！
+Dialogue: 0,0:00:00.00,0:00:00.00,zhengwen,NTP,0,0,0,,====================================
+Dialogue: 0,0:21:59.92,0:22:00.97,edj,NTP,0,0,0,,{\fad(200,200)\be2}Image...
+Dialogue: 0,0:22:00.98,0:22:05.15,edj,NTP,0,0,0,,{\fad(200,200)\be2}加速して行く未来に
+Dialogue: 0,0:22:05.25,0:22:11.65,edj,NTP,0,0,0,,{\fad(200,200)\be2}描いてく奇跡の形
+Dialogue: 0,0:22:11.79,0:22:16.85,edj,NTP,0,0,0,,{\fad(200,200)\be2}君と手を繋いでるのに
+Dialogue: 0,0:22:16.93,0:22:23.42,edj,NTP,0,0,0,,{\fad(200,200)\be2}諦めるなんてありえないよ
+Dialogue: 0,0:22:23.57,0:22:28.65,edj,NTP,0,0,0,,{\fad(200,200)\be2}手のひらには　戦いあって
+Dialogue: 0,0:22:28.78,0:22:34.53,edj,NTP,0,0,0,,{\fad(200,200)\be2}積み重なった傷跡
+Dialogue: 0,0:22:34.64,0:22:37.71,edj,NTP,0,0,0,,{\fad(200,200)\be2}さぁ、いこう？旅をしよう
+Dialogue: 0,0:22:37.81,0:22:46.13,edj,NTP,0,0,0,,{\fad(200,200)\be2}銀河が残してきた記憶に新たなる一手
+Dialogue: 0,0:22:46.38,0:22:52.87,edj,NTP,0,0,0,,{\fad(200,200)\be2}こぼれ響く音がリズムになって　夢咲かせようと
+Dialogue: 0,0:22:52.97,0:22:58.47,edj,NTP,0,0,0,,{\fad(200,200)\be2}フィールドを歌うわ　so futuristic player
+Dialogue: 0,0:22:58.54,0:23:01.63,edj,NTP,0,0,0,,{\fad(200,200)\be2}重なる想い　次の笑顔へ
+Dialogue: 0,0:23:01.71,0:23:04.55,edj,NTP,0,0,0,,{\fad(200,200)\be2}そう、確かな勝利へ
+Dialogue: 0,0:23:04.62,0:23:07.63,edj,NTP,0,0,0,,{\fad(200,200)\be2}エールになるように　指を絡めるの
+Dialogue: 0,0:23:07.71,0:23:14.65,edj,NTP,0,0,0,,{\fad(200,200)\be2}辿りついて　Over future
+Dialogue: 0,0:21:59.92,0:22:00.97,edc,NTP,0,0,0,,{\fad(200,200)\be2}Image...
+Dialogue: 0,0:22:00.98,0:22:05.15,edc,NTP,0,0,0,,{\fad(200,200)\be2}寄宿在加速的未來中
+Dialogue: 0,0:22:05.25,0:22:11.65,edc,NTP,0,0,0,,{\fad(200,200)\be2}描繪出奇跡的形狀
+Dialogue: 0,0:22:11.79,0:22:16.85,edc,NTP,0,0,0,,{\fad(200,200)\be2}雖然與你兩手相牽
+Dialogue: 0,0:22:16.93,0:22:23.42,edc,NTP,0,0,0,,{\fad(200,200)\be2}也絕對無法放棄
+Dialogue: 0,0:22:23.57,0:22:28.65,edc,NTP,0,0,0,,{\fad(200,200)\be2}手心之中　奏響戰鬥的樂章
+Dialogue: 0,0:22:28.78,0:22:34.53,edc,NTP,0,0,0,,{\fad(200,200)\be2}喚醒經久積累的傷痕
+Dialogue: 0,0:22:34.64,0:22:37.71,edc,NTP,0,0,0,,{\fad(200,200)\be2}那麼　出發前行吧？開始一段旅程
+Dialogue: 0,0:22:37.81,0:22:46.13,edc,NTP,0,0,0,,{\fad(200,200)\be2}為銀河之中殘留的記憶刻下嶄新的一式
+Dialogue: 0,0:22:46.38,0:22:52.87,edc,NTP,0,0,0,,{\fad(200,200)\be2}飄零的音聲交集成旋律　由我們來尋找夢想
+Dialogue: 0,0:22:52.97,0:22:58.47,edc,NTP,0,0,0,,{\fad(200,200)\be2}唱響起原野之歌　so futuristic player
+Dialogue: 0,0:22:58.54,0:23:01.63,edc,NTP,0,0,0,,{\fad(200,200)\be2}重疊的思緒　匯作下次的笑容
+Dialogue: 0,0:23:01.71,0:23:04.55,edc,NTP,0,0,0,,{\fad(200,200)\be2}是的　指引著那必然的勝利
+Dialogue: 0,0:23:04.62,0:23:07.63,edc,NTP,0,0,0,,{\fad(200,200)\be2}十指緊扣　彼此聲援
+Dialogue: 0,0:23:07.71,0:23:14.65,edc,NTP,0,0,0,,{\fad(200,200)\be2}終將抵達那　Over future
+Dialogue: 0,0:00:00.00,0:00:00.00,zhengwen,NTP,0,0,0,,====================================
+Dialogue: 0,0:23:34.59,0:23:39.98,zhengwen,NTP,0,0,0,,21世紀  世界上的麻將競技人口超過了數億
+Dialogue: 0,0:23:40.24,0:23:44.22,zhengwen,NTP,0,0,0,,專業的麻將選手受到人們的關注
+Dialogue: 0,0:23:44.90,0:23:49.51,zhengwen,NTP,0,0,0,,在高中也每年都舉辦大規模的全國麻將大賽
+Dialogue: 0,0:23:49.79,0:23:53.74,zhengwen,NTP,0,0,0,,在那裏  為了留下能夠進軍職業選手的戰績
+Dialogue: 0,0:23:54.09,0:23:57.61,zhengwen,NTP,0,0,0,,高中麻將部員們相互爭霸
+Dialogue: 0,0:23:58.29,0:24:03.26,zhengwen,NTP,0,0,0,,這就是向著頂點進軍的少女們的軌跡！
+Dialogue: 0,0:00:00.00,0:00:00.00,zhengwen,NTP,0,0,0,,====================================
+Dialogue: 0,0:24:06.96,0:24:08.38,zhengwen,NTP,0,0,0,,東京！
+Dialogue: 0,0:24:08.55,0:24:09.42,zhengwen,NTP,0,0,0,,吶吶  我們去哪裏玩？
+Dialogue: 0,0:24:09.59,0:24:11.26,zhengwen,NTP,0,0,0,,把高中聯賽忘了可不行…
+Dialogue: 0,0:24:11.47,0:24:12.84,zhengwen,NTP,0,0,0,,但是我想去原宿看看
+Dialogue: 0,0:24:12.97,0:24:13.89,zhengwen,NTP,0,0,0,,我想去秋葉原
+Dialogue: 0,0:24:14.05,0:24:16.26,zhengwen,NTP,0,0,0,,我想去野上看貓熊呢
+Dialogue: 0,0:24:14.05,0:24:16.26,zhushi,NTP,0,0,0,,{\an9}（将日文「上野」和「熊猫」(パンダ)倒置而成）
+Dialogue: 0,0:24:16.43,0:24:18.89,zhengwen,NTP,0,0,0,,真不錯呢  不過你是哪裏的業內人士來著…
+Dialogue: 0,0:24:04.96,0:24:19.89,title,NTP,0,0,0,,{\fad(0,0)\be2\pos(312.727,67.273)}下 回 預 告
+Dialogue: 0,0:24:04.96,0:24:19.89,title,NTP,0,0,0,,{\fad(0,0)\be2\pos(1100,589.091)}『全 國』
+

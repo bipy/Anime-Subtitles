@@ -1,0 +1,65 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,腾祥嘉丽中圆GB18030,62,&H00FFFFFF,&H0000FFFF,&H0049377C,&H40C0C0C0,-1,0,0,0,100,100,0,0,1,2,0,2,22,22,23,1
+Style: Default - top,腾祥嘉丽中圆GB18030,56,&H00FFFFFF,&H0000FFFF,&H0049377C,&H40C0C0C0,-1,0,0,0,100,100,0,0,1,2,0,8,22,22,35,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.13,0:00:07.69,Default,NTP,0,0,0,,续·特里斯特因 爱之剧场
+Dialogue: 0,0:00:08.35,0:00:13.79,Default,NTP,0,0,0,,『蝴蝶伯爵夫人的优雅一日』第1章
+Dialogue: 0,0:00:15.79,0:00:20.78,Default,NTP,0,0,0,,我是高贵动人的蝴蝶伯爵夫人
+Dialogue: 0,0:00:21.86,0:00:27.07,Default,NTP,0,0,0,,某夜 一名青年园丁将我从暴徒手中救下
+Dialogue: 0,0:00:27.55,0:00:30.80,Default,NTP,0,0,0,,我便将他任命为自己的骑士
+Dialogue: 0,0:00:33.88,0:00:35.87,Default,NTP,0,0,0,,感觉真无聊啊
+Dialogue: 0,0:00:37.09,0:00:40.50,Default,NTP,0,0,0,,喂 站在那边的我的骑士
+Dialogue: 0,0:00:40.94,0:00:43.19,Default,NTP,0,0,0,,您有何事？夫人
+Dialogue: 0,0:00:43.71,0:00:45.89,Default,NTP,0,0,0,,做点什么有趣的事情吧
+Dialogue: 0,0:00:46.12,0:00:46.46,Default,NTP,0,0,0,,哎？
+Dialogue: 0,0:00:47.36,0:00:51.06,Default,NTP,0,0,0,,那个...那么 我便献上一曲
+Dialogue: 0,0:00:52.11,0:00:56.96,Default,NTP,0,0,0,,露 露 露易丝 是个废人
+Dialogue: 0,0:00:57.53,0:01:02.64,Default,NTP,0,0,0,,是个玩不转魔法的魔法使
+Dialogue: 0,0:01:04.03,0:01:05.23,Default,NTP,0,0,0,,无聊
+Dialogue: 0,0:01:05.44,0:01:06.22,Default,NTP,0,0,0,,抱歉
+Dialogue: 0,0:01:07.09,0:01:07.78,Default,NTP,0,0,0,,对了
+Dialogue: 0,0:01:13.34,0:01:17.82,Default,NTP,0,0,0,,帽子被风吹走了 怎么会这样
+Dialogue: 0,0:01:18.12,0:01:20.09,Default,NTP,0,0,0,,掉到了湖中央
+Dialogue: 0,0:01:20.51,0:01:22.40,Default,NTP,0,0,0,,很明显你是故意的...
+Dialogue: 0,0:01:22.74,0:01:25.66,Default,NTP,0,0,0,,你在做什么 你是我的骑士吧
+Dialogue: 0,0:01:26.09,0:01:26.66,Default,NTP,0,0,0,,给我捡回来
+Dialogue: 0,0:01:27.36,0:01:28.88,Default,NTP,0,0,0,,啊～麻烦死了
+Dialogue: 0,0:01:29.14,0:01:30.13,Default,NTP,0,0,0,,动作快点
+Dialogue: 0,0:01:30.45,0:01:31.36,Default,NTP,0,0,0,,是是
+Dialogue: 0,0:01:37.16,0:01:39.18,Default,NTP,0,0,0,,果然很无聊
+Dialogue: 0,0:01:44.82,0:01:47.35,Default,NTP,0,0,0,,夫人 我捡回来了
+Dialogue: 0,0:01:49.27,0:01:50.81,Default,NTP,0,0,0,,喂 夫人？
+Dialogue: 0,0:01:52.50,0:01:54.23,Default,NTP,0,0,0,,这种台词 我可说不出口
+Dialogue: 0,0:01:54.46,0:01:57.58,Default,NTP,0,0,0,,你在说什么啊 我可是弄得浑身湿透啊
+Dialogue: 0,0:01:57.80,0:01:59.14,Default,NTP,0,0,0,,赶快发展剧情
+Dialogue: 0,0:02:01.50,0:02:02.39,Default,NTP,0,0,0,,喂 快点
+Dialogue: 0,0:02:03.52,0:02:04.87,Default,NTP,0,0,0,,我知道啦
+Dialogue: 0,0:02:07.96,0:02:11.69,Default,NTP,0,0,0,,你这样会感冒的 把衣服脱掉
+Dialogue: 0,0:02:12.15,0:02:20.03,Default,NTP,0,0,0,,作...作为奖励 我来替你擦身
+Dialogue: 0,0:02:20.36,0:02:21.37,Default,NTP,0,0,0,,是～
+Dialogue: 0,0:02:22.38,0:02:25.18,Default,NTP,0,0,0,,喂 露易丝 快点给我擦啊
+Dialogue: 0,0:02:25.66,0:02:27.34,Default,NTP,0,0,0,,不是露易丝 是夫人
+Dialogue: 0,0:02:27.83,0:02:30.43,Default,NTP,0,0,0,,夫人 请快点给我擦吧
+Dialogue: 0,0:02:31.02,0:02:31.97,Default,NTP,0,0,0,,喂喂 喂喂
+Dialogue: 0,0:02:32.61,0:02:33.92,Default,NTP,0,0,0,,我明白了
+Dialogue: 0,0:02:36.93,0:02:38.62,Default,NTP,0,0,0,,好疼...好疼...
+Dialogue: 0,0:02:39.34,0:02:41.10,Default,NTP,0,0,0,,喂 又是这种模式？
+Dialogue: 0,0:02:41.56,0:02:43.45,Default,NTP,0,0,0,,你这次倒是稍微温柔点啊
+Dialogue: 0,0:02:43.64,0:02:47.89,Default,NTP,0,0,0,,我做这种事情 和扮女仆时有什么区别
+Dialogue: 0,0:02:48.17,0:02:49.64,Default,NTP,0,0,0,,真是的 真是的
+Dialogue: 0,0:02:49.88,0:02:52.32,Default,NTP,0,0,0,,好疼 好疼 好疼啊露易丝
+Dialogue: 0,0:02:52.74,0:02:57.04,Default,NTP,0,0,0,,伯爵夫人发现园丁的男子汉气概 这是很重要的一幕吧
+Dialogue: 0,0:02:57.17,0:02:57.63,Default,NTP,0,0,0,,烦死了
+Dialogue: 0,0:02:58.09,0:03:01.70,Default,NTP,0,0,0,,伯爵夫人都给身为使魔的你擦身了
+Dialogue: 0,0:03:01.91,0:03:05.20,Default,NTP,0,0,0,,你就给我...心怀...感激吧
+Dialogue: 0,0:03:05.27,0:03:07.82,Default,NTP,0,0,0,,好疼 好疼 好疼...

@@ -1,0 +1,94 @@
+﻿[Script Info]
+; Sub by Flsnow
+; 片源：lippi henry
+; 翻译：小白
+; 时轴：zwc
+; 特效：cookie
+; 后期：ssnake ccdeblade
+; BD:ccdeblade reekilynn
+; http://bbs.flsnow.net
+Original Script: 雪飘轻音部
+Synch Point:0
+ScriptType: v4.00+
+Collisions:Normal
+PlayResX: 1920
+PlayResY: 1080
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,SimHei,68,&H00FFFFFF,&HF0000000,&H00ED2AAC,&H78E645B0,-1,0,0,0,100,100,3,0,1,3.15,1.8,2,45,45,15,1
+Style: Title,华康娃娃体W5,75,&H00000000,&HF0000000,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,5,45,45,15,1
+Style: Text,黑体,38,&H00000000,&H00FAFAFA,&H00FAFAFA,&H00FAFAFA,-1,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.98,Title,,0000,0000,0000,,{\b1\bord1.5\frz11.698\pos(780,468)\c&H71D566&}救救我！
+Dialogue: 0,0:00:00.00,0:00:04.98,Title,,0000,0000,0000,,{\b1\bord1.5\pos(1062,828)\c&H2623EE&}小唯超{\c&HF6A39D&}人
+Dialogue: 0,0:00:04.98,0:00:09.98,Title,,0000,0000,0000,,{\b1\bord1.5\c&HB0A013&\pos(609,537)}其一
+Dialogue: 0,0:00:04.98,0:00:09.98,Title,,0000,0000,0000,,{\b1\bord1.5\pos(993,864)\c&H3B44EC&}贴纸
+Dialogue: 0,0:00:11.74,0:00:13.24,Text,,0000,0000,0000,,{\pos(642,633)}有奖回函
+Dialogue: 0,0:00:14.01,0:00:15.71,Default,,0000,0000,0000,,揭不下来
+Dialogue: 0,0:00:16.39,0:00:17.52,Default,,0000,0000,0000,,这种时候
+Dialogue: 0,0:00:17.88,0:00:19.98,Default,,0000,0000,0000,,对了 呼唤小唯超人吧
+Dialogue: 0,0:00:27.10,0:00:28.04,Default,,0000,0000,0000,,解决了
+Dialogue: 0,0:00:28.25,0:00:29.70,Default,,0000,0000,0000,,谢谢你 小唯超人
+Dialogue: 0,0:00:30.29,0:00:33.10,Default,,0000,0000,0000,,不知为什么 这种事很在行呢
+Dialogue: 0,0:00:39.01,0:00:44.02,Title,,0000,0000,0000,,{\b1\bord1.5\frz11.698\pos(780,468)\c&H71D566&}救救我！
+Dialogue: 0,0:00:39.01,0:00:44.02,Title,,0000,0000,0000,,{\b1\bord1.5\pos(1062,828)\c&H2623EE&}小唯超{\c&HF6A39D&}人
+Dialogue: 0,0:00:44.02,0:00:49.02,Title,,0000,0000,0000,,{\b1\bord1.5\c&HB0A013&\pos(609,537)}其二
+Dialogue: 0,0:00:44.02,0:00:49.02,Title,,0000,0000,0000,,{\b1\bord1.5\pos(993,864)\c&H3B44EC&}豆沙
+Dialogue: 0,0:00:49.02,0:00:49.07,Title,,0000,0000,0000,,{\pos(879,876)\fs45\c&H453FC8&\bord1.5}鲷鱼烧
+Dialogue: 0,0:00:53.38,0:00:55.82,Default,,0000,0000,0000,,哪个是豆沙 哪个是奶油来着
+Dialogue: 0,0:00:56.28,0:00:57.54,Default,,0000,0000,0000,,这种时候
+Dialogue: 0,0:00:57.73,0:01:00.04,Default,,0000,0000,0000,,对了 呼唤小唯超人吧
+Dialogue: 0,0:01:02.21,0:01:04.11,Default,,0000,0000,0000,,从右边 豆沙 豆沙
+Dialogue: 0,0:01:04.17,0:01:06.22,Default,,0000,0000,0000,,奶油 巧克力 南瓜馅哦
+Dialogue: 0,0:01:08.40,0:01:09.64,Default,,0000,0000,0000,,真的耶
+Dialogue: 0,0:01:10.11,0:01:11.06,Default,,0000,0000,0000,,解决了
+Dialogue: 0,0:01:11.26,0:01:12.73,Default,,0000,0000,0000,,谢谢你 小唯超人
+Dialogue: 0,0:01:12.87,0:01:14.96,Default,,0000,0000,0000,,这方面记忆力好厉害
+Dialogue: 0,0:01:16.66,0:01:19.81,Default,,0000,0000,0000,,好 一二三四
+Dialogue: 0,0:01:20.05,0:01:25.06,Title,,0000,0000,0000,,{\b1\bord1.5\frz11.698\pos(780,468)\c&H71D566&}救救我！
+Dialogue: 0,0:01:20.05,0:01:25.06,Title,,0000,0000,0000,,{\b1\bord1.5\pos(1062,828)\c&H2623EE&}小唯超{\c&HF6A39D&}人
+Dialogue: 0,0:01:25.06,0:01:30.06,Title,,0000,0000,0000,,{\b1\bord1.5\c&HB0A013&\pos(636,480)}其三
+Dialogue: 0,0:01:25.06,0:01:30.06,Title,,0000,0000,0000,,{\b1\bord1.5\pos(993,864)\c&H2990F7&}不疼不疼
+Dialogue: 0,0:01:30.98,0:01:31.46,Default,,0000,0000,0000,,好疼
+Dialogue: 0,0:01:31.72,0:01:33.25,Default,,0000,0000,0000,,啊 没事吧
+Dialogue: 0,0:01:33.63,0:01:35.00,Default,,0000,0000,0000,,啊 怎么办
+Dialogue: 0,0:01:35.39,0:01:36.50,Default,,0000,0000,0000,,这种时候
+Dialogue: 0,0:01:36.68,0:01:38.79,Default,,0000,0000,0000,,对了 呼唤小唯超人吧
+Dialogue: 0,0:01:39.81,0:01:41.95,Default,,0000,0000,0000,,疼痛疼痛飞走吧
+Dialogue: 0,0:01:42.99,0:01:45.00,Default,,0000,0000,0000,,这样就没事了 一点也不疼
+Dialogue: 0,0:01:46.60,0:01:48.05,Default,,0000,0000,0000,,别让我笑了
+Dialogue: 0,0:01:48.44,0:01:49.33,Default,,0000,0000,0000,,解决了
+Dialogue: 0,0:01:50.01,0:01:51.63,Default,,0000,0000,0000,,谢谢你 小唯超人
+Dialogue: 0,0:01:51.99,0:01:54.63,Default,,0000,0000,0000,,在奇怪的地方很有用呢
+Dialogue: 0,0:01:54.63,0:01:55.98,Default,,0000,0000,0000,,这就是小唯超人！
+Dialogue: 0,0:01:58.64,0:01:59.44,Default,,0000,0000,0000,,see you
+Dialogue: 0,0:02:02.10,0:02:06.52,Title,,0000,0000,0000,,{\b1\bord1.5\pos(954,765)\c&HF2EFF9&}赠品
+Dialogue: 0,0:02:06.52,0:02:11.52,Title,,0000,0000,0000,,{\b1\bord1.5\pos(930,753)\c&H4DA0F4&}轻{\c&HC3BE4A&}音{\c&HD8829D&}部{\c&HB678F0&}说{\c&H3831ED&}唱
+Dialogue: 0,0:02:11.73,0:02:12.16,Default,,0000,0000,0000,,i！
+Dialogue: 0,0:02:12.55,0:02:14.23,Default,,0000,0000,0000,,总是在吃零食 轻音部！
+Dialogue: 0,0:02:14.34,0:02:14.66,Default,,0000,0000,0000,,ro！
+Dialogue: 0,0:02:14.66,0:02:16.51,Default,,0000,0000,0000,,摇滚的灵魂 轻音部！
+Dialogue: 0,0:02:16.51,0:02:16.86,Default,,0000,0000,0000,,ha！
+Dialogue: 0,0:02:16.86,0:02:18.91,Default,,0000,0000,0000,,想要happy 找轻音部！
+Dialogue: 0,0:02:18.91,0:02:19.15,Default,,0000,0000,0000,,ni！
+Dialogue: 0,0:02:19.15,0:02:20.99,Default,,0000,0000,0000,,让人微笑的轻音部！
+Dialogue: 0,0:02:21.07,0:02:21.38,Default,,0000,0000,0000,,ho！
+Dialogue: 0,0:02:21.38,0:02:23.83,Default,,0000,0000,0000,,能见到放松的各位 轻音部！
+Dialogue: 0,0:02:23.83,0:02:24.14,Default,,0000,0000,0000,,he！
+Dialogue: 0,0:02:24.14,0:02:26.02,Default,,0000,0000,0000,,来软趴趴吧 轻音部！
+Dialogue: 0,0:02:26.02,0:02:26.32,Default,,0000,0000,0000,,to！
+Dialogue: 0,0:02:26.32,0:02:28.12,Default,,0000,0000,0000,,能交到朋友 轻音部！
+Dialogue: 0,0:02:28.33,0:02:30.36,Default,,0000,0000,0000,,轻音部 轻音部！
+Dialogue: 0,0:02:30.46,0:02:32.38,Default,,0000,0000,0000,,大家一起加 轻音部！
+Dialogue: 0,0:02:32.48,0:02:33.85,Default,,0000,0000,0000,,耶！
+Dialogue: 0,0:02:34.28,0:02:36.63,Default,,0000,0000,0000,,怎么样 招新说唱
+Dialogue: 0,0:02:36.79,0:02:38.88,Default,,0000,0000,0000,,只需要换一下唯前辈的地方
+Dialogue: 0,0:02:39.09,0:02:39.43,Default,,0000,0000,0000,,哎？
+Dialogue: 0,0:02:42.43,0:02:49.14,Title,,0000,0000,0000,,{\c&HF4F4F4&\pos(876,738)\b1}完

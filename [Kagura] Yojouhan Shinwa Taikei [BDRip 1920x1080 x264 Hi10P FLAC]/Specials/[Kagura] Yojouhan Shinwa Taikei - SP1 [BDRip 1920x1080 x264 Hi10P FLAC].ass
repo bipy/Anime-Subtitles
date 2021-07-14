@@ -1,0 +1,139 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 四叠半神话大系 特典1 「地面潜航艇 向南极进发」
+Original Script: Airu Sub / Koei Sub / Airota
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,文泉驿微米黑,58,&H00FFFFFF,&HF0000000,&H00480509,&HF0000000,-1,0,0,0,100,100,0,0,1,2,1,2,30,30,33,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.09,0:00:04.32,Default,NTP,0,0,0,,某日某时起 海面开始上升
+Dialogue: 0,0:00:04.42,0:00:07.03,Default,NTP,0,0,0,,世界各地均被淹没
+Dialogue: 0,0:00:07.27,0:00:09.03,Default,NTP,0,0,0,,万幸 京都处在盆地里
+Dialogue: 0,0:00:09.10,0:00:11.06,Default,NTP,0,0,0,,目前还没被淹没
+Dialogue: 0,0:00:11.28,0:00:12.93,Default,NTP,0,0,0,,但若水位继续上升
+Dialogue: 0,0:00:13.05,0:00:15.07,Default,NTP,0,0,0,,海水迟早会越过山脉涌入
+Dialogue: 0,0:00:15.22,0:00:17.59,Default,NTP,0,0,0,,这京都也要沉没了吧
+Dialogue: 0,0:00:18.30,0:00:20.41,Default,NTP,0,0,0,,京都府连日连夜会议的结论是
+Dialogue: 0,0:00:20.76,0:00:25.10,Default,NTP,0,0,0,,把命运托给我修治船长和船员们
+Dialogue: 0,0:00:28.60,0:00:32.09,Default,NTP,0,0,0,,为了找出淹没的原因 拯救京都 我们出发了
+Dialogue: 0,0:00:34.85,0:00:38.64,Default,NTP,0,0,0,,我不做饭 我是驾驶员兼射鱼叉
+Dialogue: 0,0:00:39.76,0:00:41.05,Default,NTP,0,0,0,,我是翻译
+Dialogue: 0,0:00:41.55,0:00:44.83,Default,NTP,0,0,0,,只要有心 不管是谁都能交流
+Dialogue: 0,0:00:46.36,0:00:47.82,Default,NTP,0,0,0,,监视就交给我吧
+Dialogue: 0,0:00:48.26,0:00:51.01,Default,NTP,0,0,0,,各位女士 虽然我要暂时离开日本
+Dialogue: 0,0:00:51.21,0:00:53.56,Default,NTP,0,0,0,,但我肯定会回来的 See You
+Dialogue: 0,0:01:02.54,0:01:06.21,Default,NTP,0,0,0,,啊 那个 我该做什么…
+Dialogue: 0,0:01:06.96,0:01:07.89,Default,NTP,0,0,0,,洗衣服
+Dialogue: 0,0:01:08.16,0:01:09.08,Default,NTP,0,0,0,,做饭
+Dialogue: 0,0:01:09.29,0:01:10.05,Default,NTP,0,0,0,,买面包
+Dialogue: 0,0:01:11.13,0:01:11.98,Default,NTP,0,0,0,,你就…
+Dialogue: 0,0:01:12.09,0:01:12.55,Default,NTP,0,0,0,,是
+Dialogue: 0,0:01:12.63,0:01:13.72,Default,NTP,0,0,0,,发射波动炮
+Dialogue: 0,0:01:16.40,0:01:18.48,Default,NTP,0,0,0,,话说 我们正向着哪里？
+Dialogue: 0,0:01:19.63,0:01:20.52,Default,NTP,0,0,0,,南极吧
+Dialogue: 0,0:01:21.10,0:01:23.67,Default,NTP,0,0,0,,肯定是因为冰川融化造成了海面上升
+Dialogue: 0,0:01:23.94,0:01:25.84,Default,NTP,0,0,0,,会有那么多冰川一次都融化了吗
+Dialogue: 0,0:01:26.95,0:01:27.96,Default,NTP,0,0,0,,我要吃沙拉
+Dialogue: 0,0:01:28.56,0:01:31.21,Default,NTP,0,0,0,,你得顾虑我们的健康状况才行
+Dialogue: 0,0:01:31.51,0:01:33.98,Default,NTP,0,0,0,,我不喜欢吃新鲜蔬菜
+Dialogue: 0,0:01:34.32,0:01:36.17,Default,NTP,0,0,0,,前辈 请花点功夫做做
+Dialogue: 0,0:01:36.77,0:01:38.62,Default,NTP,0,0,0,,干完活当然要喝罐啤酒才行
+Dialogue: 0,0:01:41.87,0:01:43.91,Default,NTP,0,0,0,,我要鱼翅和鱼子酱
+Dialogue: 0,0:01:54.20,0:01:55.15,Default,NTP,0,0,0,,真冷
+Dialogue: 0,0:01:55.37,0:01:57.87,Default,NTP,0,0,0,,这可是冰山啊 冷是当然的
+Dialogue: 0,0:02:00.88,0:02:03.22,Default,NTP,0,0,0,,应该离南极还很远
+Dialogue: 0,0:02:05.90,0:02:08.18,Default,NTP,0,0,0,,你总是感冒啊
+Dialogue: 0,0:02:10.47,0:02:11.82,Default,NTP,0,0,0,,不用你操心
+Dialogue: 0,0:02:12.03,0:02:15.01,Default,NTP,0,0,0,,本想出售制作冰山的机器就能发财了
+Dialogue: 0,0:02:15.19,0:02:16.16,Default,NTP,0,0,0,,却没什么生意
+Dialogue: 0,0:02:18.51,0:02:19.98,Default,NTP,0,0,0,,要是夏天说不定就畅销了
+Dialogue: 0,0:02:20.48,0:02:21.90,Default,NTP,0,0,0,,买一台吧
+Dialogue: 0,0:02:23.08,0:02:24.61,Default,NTP,0,0,0,,好 来一台
+Dialogue: 0,0:02:25.21,0:02:26.73,Default,NTP,0,0,0,,足下 去付钱
+Dialogue: 0,0:02:26.94,0:02:27.92,Default,NTP,0,0,0,,唉 师傅
+Dialogue: 0,0:02:28.22,0:02:28.89,Default,NTP,0,0,0,,不 船长
+Dialogue: 0,0:02:41.68,0:02:42.41,Default,NTP,0,0,0,,晚上好
+Dialogue: 0,0:02:43.68,0:02:44.77,Default,NTP,0,0,0,,你是哪位？
+Dialogue: 0,0:02:44.98,0:02:48.45,Default,NTP,0,0,0,,我是…我是为了与你相遇而出生的
+Dialogue: 0,0:02:49.60,0:02:52.02,Default,NTP,0,0,0,,城崎先生 那不是她
+Dialogue: 0,0:02:52.46,0:02:53.79,Default,NTP,0,0,0,,我要在这里下船
+Dialogue: 0,0:02:54.13,0:02:55.13,Default,NTP,0,0,0,,天命如此
+Dialogue: 0,0:02:57.69,0:02:58.73,Default,NTP,0,0,0,,没事吧
+Dialogue: 0,0:02:59.67,0:03:01.61,Default,NTP,0,0,0,,啊 接下来的就有劳了
+Dialogue: 0,0:03:02.64,0:03:03.12,Default,NTP,0,0,0,,明白了
+Dialogue: 0,0:03:03.33,0:03:04.02,Default,NTP,0,0,0,,唉 师傅
+Dialogue: 0,0:03:04.71,0:03:05.65,Default,NTP,0,0,0,,不 船长
+Dialogue: 0,0:03:07.12,0:03:07.87,Default,NTP,0,0,0,,保重
+Dialogue: 0,0:03:13.60,0:03:15.66,Default,NTP,0,0,0,,我有些事情
+Dialogue: 0,0:03:15.84,0:03:18.18,Default,NTP,0,0,0,,前辈 接下来的事情就有劳了
+Dialogue: 0,0:03:19.23,0:03:20.76,Default,NTP,0,0,0,,诶 等等
+Dialogue: 0,0:03:25.10,0:03:25.98,Default,NTP,0,0,0,,明石同学？
+Dialogue: 0,0:03:26.80,0:03:29.12,Default,NTP,0,0,0,,这样下去 大象们会溺水的
+Dialogue: 0,0:03:29.42,0:03:31.82,Default,NTP,0,0,0,,我把它们带到冈崎动物园去（就是京都动物园）
+Dialogue: 0,0:03:33.67,0:03:34.96,Default,NTP,0,0,0,,任务怎么办？
+Dialogue: 0,0:03:35.41,0:03:36.92,Default,NTP,0,0,0,,有缘的话 我们会再见的
+Dialogue: 0,0:03:37.47,0:03:39.50,Default,NTP,0,0,0,,前辈 加油吧
+Dialogue: 0,0:03:41.49,0:03:43.37,Default,NTP,0,0,0,,每个人都有他们的使命
+Dialogue: 0,0:03:43.72,0:03:45.10,Default,NTP,0,0,0,,你要成为英雄
+Dialogue: 0,0:03:53.79,0:03:54.58,Default,NTP,0,0,0,,亏你能做出来呢
+Dialogue: 0,0:03:54.88,0:03:58.41,Default,NTP,0,0,0,,在这种地方 竟然能吃上鱼翅鱼子酱
+Dialogue: 0,0:03:58.74,0:03:59.79,Default,NTP,0,0,0,,真是很美味
+Dialogue: 0,0:04:00.04,0:04:01.01,Default,NTP,0,0,0,,伊比利亚猪肉
+Dialogue: 0,0:04:01.34,0:04:03.54,Default,NTP,0,0,0,,不过 接下来就是决战了
+Dialogue: 0,0:04:07.55,0:04:07.89,Default,NTP,0,0,0,,在那
+Dialogue: 0,0:04:08.30,0:04:10.49,Default,NTP,0,0,0,,就是那家伙在融冰
+Dialogue: 0,0:04:21.12,0:04:24.70,Default,NTP,0,0,0,,根据文献所说 那是红豆妖或者称小豆妖
+Dialogue: 0,0:04:25.10,0:04:28.09,Default,NTP,0,0,0,,不过 其实他们错了 那是小津妖
+Dialogue: 0,0:04:28.37,0:04:30.96,Default,NTP,0,0,0,,因为是关西出身 所以是等着人家吐槽吧
+Dialogue: 0,0:04:31.04,0:04:31.88,Default,NTP,0,0,0,,真的？
+Dialogue: 0,0:04:38.01,0:04:39.53,Default,NTP,0,0,0,,这样下去的话 会被捏爆的
+Dialogue: 0,0:04:40.29,0:04:43.73,Default,NTP,0,0,0,,你忘了吗 这本是地面潜航艇
+Dialogue: 0,0:04:54.54,0:04:56.28,Default,NTP,0,0,0,,足下 你期待什么
+Dialogue: 0,0:04:56.43,0:04:59.39,Default,NTP,0,0,0,,不满足 我得不到满足
+Dialogue: 0,0:04:59.79,0:05:02.74,Default,NTP,0,0,0,,那是因为其实足下你想吃的是红豆
+Dialogue: 0,0:05:02.86,0:05:03.93,Default,NTP,0,0,0,,真的吗
+Dialogue: 0,0:05:04.47,0:05:08.06,Default,NTP,0,0,0,,想吃饭的时候 吃再多的零食也不会满足吧
+Dialogue: 0,0:05:08.35,0:05:10.52,Default,NTP,0,0,0,,就算吃了满肚子的甜点也一样
+Dialogue: 0,0:05:10.79,0:05:13.28,Default,NTP,0,0,0,,不太明白你的话 不过给我点什么吧
+Dialogue: 0,0:05:13.55,0:05:14.05,Default,NTP,0,0,0,,好吧
+Dialogue: 0,0:05:16.76,0:05:18.87,Default,NTP,0,0,0,,这是红豆罐头 吃了吧
+Dialogue: 0,0:05:19.20,0:05:20.57,Default,NTP,0,0,0,,这样你就会满足了吧
+Dialogue: 0,0:05:26.69,0:05:27.44,Default,NTP,0,0,0,,再给我一些
+Dialogue: 0,0:05:29.95,0:05:31.14,Default,NTP,0,0,0,,收下这个吧
+Dialogue: 0,0:05:36.46,0:05:39.13,Default,NTP,0,0,0,,抱歉 其实我只是想让你放松警戒而已
+Dialogue: 0,0:05:45.40,0:05:46.36,Default,NTP,0,0,0,,辛苦了
+Dialogue: 0,0:05:51.78,0:05:53.25,Default,NTP,0,0,0,,嘛 这个距离差不多了
+Dialogue: 0,0:05:57.94,0:05:58.68,Default,NTP,0,0,0,,解决了
+Dialogue: 0,0:05:58.93,0:06:00.34,Default,NTP,0,0,0,,啊 解决了
+Dialogue: 0,0:06:04.93,0:06:06.85,Default,NTP,0,0,0,,是彩虹 真浪漫
+Dialogue: 0,0:06:07.06,0:06:08.72,Default,NTP,0,0,0,,这样京都就得救了吗
+Dialogue: 0,0:06:09.02,0:06:10.32,Default,NTP,0,0,0,,谁知道呢 有没有得救呢
+Dialogue: 0,0:06:10.56,0:06:12.41,Default,NTP,0,0,0,,原因真的是这个吗
+Dialogue: 0,0:06:13.02,0:06:13.71,Default,NTP,0,0,0,,谁知道呢
+Dialogue: 0,0:06:14.10,0:06:16.17,Default,NTP,0,0,0,,假如地球的冰川全部融化的话
+Dialogue: 0,0:06:16.31,0:06:18.77,Default,NTP,0,0,0,,人类说不定就会因为太炎热而无法生存了吧
+Dialogue: 0,0:06:19.40,0:06:22.05,Default,NTP,0,0,0,,我们接下去该怎么办？
+Dialogue: 0,0:06:23.46,0:06:26.63,Default,NTP,0,0,0,,也许不动的大陆本来就不存在
+Dialogue: 0,0:06:27.16,0:06:29.55,Default,NTP,0,0,0,,现在在海浪中漂浮即可
+Dialogue: 0,0:06:31.20,0:06:32.61,Default,NTP,0,0,0,,这种故事谁信啊
+Dialogue: 0,0:06:32.78,0:06:34.44,Default,NTP,0,0,0,,再说从这故事的结构来看
+Dialogue: 0,0:06:34.55,0:06:37.47,Default,NTP,0,0,0,,台词上也就是说从梦的理论上我对这个故事的结果…
+

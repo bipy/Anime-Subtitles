@@ -1,0 +1,61 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,腾祥嘉丽中圆GB18030,62,&H00FFFFFF,&H0000FFFF,&H0049377C,&H40C0C0C0,-1,0,0,0,100,100,0,0,1,2,0,2,22,22,23,1
+Style: Default - top,腾祥嘉丽中圆GB18030,56,&H00FFFFFF,&H0000FFFF,&H0049377C,&H40C0C0C0,-1,0,0,0,100,100,0,0,1,2,0,8,22,22,35,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.17,0:00:07.27,Default,NTP,0,0,0,,续·特里斯特因 爱之剧场
+Dialogue: 0,0:00:08.02,0:00:13.17,Default,NTP,0,0,0,,『蝴蝶伯爵夫人的优雅一日』序章
+Dialogue: 0,0:00:14.01,0:00:15.26,Default,NTP,0,0,0,,还要演啊
+Dialogue: 0,0:00:15.37,0:00:16.00,Default,NTP,0,0,0,,没错
+Dialogue: 0,0:00:16.52,0:00:20.16,Default,NTP,0,0,0,,想演女仆玩玩的本小姐真笨
+Dialogue: 0,0:00:20.53,0:00:23.52,Default,NTP,0,0,0,,这次要扮演一个更像我的角色
+Dialogue: 0,0:00:23.75,0:00:25.19,Default,NTP,0,0,0,,不详的预感
+Dialogue: 0,0:00:25.69,0:00:26.64,Default,NTP,0,0,0,,要开始了
+Dialogue: 0,0:00:28.96,0:00:32.14,Default,NTP,0,0,0,,我是自尊极强的伯爵夫人
+Dialogue: 0,0:00:33.08,0:00:36.87,Default,NTP,0,0,0,,因我无比高贵的气质与华丽动人的美貌
+Dialogue: 0,0:00:37.52,0:00:42.29,Default,NTP,0,0,0,,人们称呼我为『蝴蝶伯爵夫人』
+Dialogue: 0,0:00:42.94,0:00:46.00,Default,NTP,0,0,0,,可是 我的丈夫...
+Dialogue: 0,0:00:48.58,0:00:52.49,Default,NTP,0,0,0,,老公 你又要去那个女人哪儿吗
+Dialogue: 0,0:00:52.96,0:00:53.67,Default,NTP,0,0,0,,给我站住
+Dialogue: 0,0:01:00.03,0:01:01.19,Default,NTP,0,0,0,,过分的人...
+Dialogue: 0,0:01:05.05,0:01:05.59,Default,NTP,0,0,0,,夫人...
+Dialogue: 0,0:01:07.71,0:01:13.18,Default,NTP,0,0,0,,你是新来的园丁吧 你在目不转睛地看什么
+Dialogue: 0,0:01:14.16,0:01:17.90,Default,NTP,0,0,0,,那个...这是我培育的玫瑰
+Dialogue: 0,0:01:18.51,0:01:20.33,Default,NTP,0,0,0,,请您打起精神来
+Dialogue: 0,0:01:20.62,0:01:24.57,Default,NTP,0,0,0,,哼 我怎么可能从园丁手中接过这种东西
+Dialogue: 0,0:01:25.07,0:01:26.00,Default,NTP,0,0,0,,不要小看我
+Dialogue: 0,0:01:26.72,0:01:27.45,Default,NTP,0,0,0,,抱歉
+Dialogue: 0,0:01:33.55,0:01:35.61,Default,NTP,0,0,0,,你是什么人 给我住手
+Dialogue: 0,0:01:35.99,0:01:36.94,Default,NTP,0,0,0,,你这野兽
+Dialogue: 0,0:01:39.53,0:01:41.95,Default,NTP,0,0,0,,喂 放开那个人
+Dialogue: 0,0:01:48.86,0:01:50.96,Default,NTP,0,0,0,,我已经赶走了暴徒
+Dialogue: 0,0:01:51.91,0:01:54.18,Default,NTP,0,0,0,,夫人 您没受伤吧
+Dialogue: 0,0:01:55.85,0:01:57.38,Default,NTP,0,0,0,,这不是我家的园丁吗
+Dialogue: 0,0:01:58.06,0:02:00.50,Default,NTP,0,0,0,,别用你的脏手随意碰我
+Dialogue: 0,0:02:00.66,0:02:01.19,Default,NTP,0,0,0,,对不起
+Dialogue: 0,0:02:01.93,0:02:04.71,Default,NTP,0,0,0,,因我一心想着保护夫人 无意中就...
+Dialogue: 0,0:02:05.71,0:02:08.57,Default,NTP,0,0,0,,那我就先告辞了...
+Dialogue: 0,0:02:09.70,0:02:10.70,Default,NTP,0,0,0,,想要保护我？
+Dialogue: 0,0:02:11.72,0:02:12.46,Default,NTP,0,0,0,,给我等等
+Dialogue: 0,0:02:14.07,0:02:16.42,Default,NTP,0,0,0,,若你如此想要保护我的话
+Dialogue: 0,0:02:17.02,0:02:21.24,Default,NTP,0,0,0,,从今天起 你就作为骑士来侍奉我吧
+Dialogue: 0,0:02:21.76,0:02:22.36,Default,NTP,0,0,0,,啊...
+Dialogue: 0,0:02:23.76,0:02:24.33,Default,NTP,0,0,0,,喂 这个时候你应该回答
+Dialogue: 0,0:02:24.52,0:02:28.65,Default,NTP,0,0,0,,「这真是让人愧不敢当的荣耀啊 夫人」吧？
+Dialogue: 0,0:02:30.51,0:02:33.76,Default,NTP,0,0,0,,这真是让人愧不敢当的荣耀啊 夫人
+Dialogue: 0,0:02:34.94,0:02:37.30,Default,NTP,0,0,0,,这角色还真是很适合露易丝啊
+Dialogue: 0,0:02:37.45,0:02:38.10,Default,NTP,0,0,0,,没错
+Dialogue: 0,0:02:38.45,0:02:41.33,Default,NTP,0,0,0,,毕竟是高贵美丽的伯爵夫人嘛
+Dialogue: 0,0:02:41.52,0:02:43.27,Default,NTP,0,0,0,,不...我不是这个意思
+Dialogue: 0,0:02:43.59,0:02:45.70,Default,NTP,0,0,0,,蛮横且专制...
+Dialogue: 0,0:02:45.81,0:02:50.11,Default,NTP,0,0,0,,好了 演女仆时的郁闷一扫而空啦
+Dialogue: 0,0:02:50.28,0:02:51.66,Default,NTP,0,0,0,,根本就没听我说话啊...

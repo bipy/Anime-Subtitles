@@ -1,0 +1,141 @@
+﻿[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 四叠半神话大系 特典3 「恋爱与垂钓的地面潜航艇」
+Original Script: Airu Sub / Koei Sub / Airota
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 1280
+PlayResY: 720
+Timer: 100.0000
+Synch Point: 0
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,文泉驿微米黑,58,&H00FFFFFF,&HF0000000,&H00480509,&HF0000000,-1,0,0,0,100,100,0,0,1,2,1,2,30,30,33,134
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.94,0:00:03.52,Default,NTP,0,0,0,,恋爱与垂钓的地面潜航艇
+Dialogue: 0,0:00:04.14,0:00:05.97,Default,NTP,0,0,0,,我觉得小津这家伙令人讨厌
+Dialogue: 0,0:00:06.56,0:00:09.23,Default,NTP,0,0,0,,就在我要把松茸饭送进嘴的瞬间放屁
+Dialogue: 0,0:00:09.42,0:00:12.03,Default,NTP,0,0,0,,把全部芥末跟汤汁混在一起 若无其事地吃荞麦面
+Dialogue: 0,0:00:12.24,0:00:13.04,Default,NTP,0,0,0,,走夜路肯定会碰上他
+Dialogue: 0,0:00:13.31,0:00:14.85,Default,NTP,0,0,0,,往咖啡里放四颗奶球
+Dialogue: 0,0:00:15.00,0:00:17.00,Default,NTP,0,0,0,,一堆书他总是抽最底下那本买
+Dialogue: 0,0:00:17.43,0:00:18.35,Default,NTP,0,0,0,,走路摇摇晃晃的
+Dialogue: 0,0:00:18.44,0:00:20.07,Default,NTP,0,0,0,,说到底 这家伙就长着一张找抽的脸
+Dialogue: 0,0:00:21.22,0:00:22.55,Default,NTP,0,0,0,,我也讨厌出于某种企图而邀请别人
+Dialogue: 0,0:00:22.84,0:00:25.34,Default,NTP,0,0,0,,不过 这家伙究竟有没有钓过鱼呢
+Dialogue: 0,0:00:29.42,0:00:30.25,Default,NTP,0,0,0,,我到鸭川了
+Dialogue: 0,0:00:31.66,0:00:32.99,Default,NTP,0,0,0,,但是小津没来
+Dialogue: 0,0:00:46.35,0:00:49.20,Default,NTP,0,0,0,,我去见明石同学了 马上就会回来
+Dialogue: 0,0:00:49.32,0:00:51.00,Default,NTP,0,0,0,,你要在哪里见面啊！
+Dialogue: 0,0:00:52.18,0:00:52.52,Default,NTP,0,0,0,,鱼叉？
+Dialogue: 0,0:00:53.28,0:00:53.68,Default,NTP,0,0,0,,钓鱼？
+Dialogue: 0,0:00:54.25,0:00:56.93,Default,NTP,0,0,0,,就是给上钩了的鱼除下鱼钩又再放回水里去的
+Dialogue: 0,0:00:57.15,0:00:57.54,Default,NTP,0,0,0,,那种钓鱼？
+Dialogue: 0,0:00:57.89,0:01:00.17,Default,NTP,0,0,0,,那可是鱼钩啊 会刺进鱼嘴里
+Dialogue: 0,0:01:00.34,0:01:02.17,Default,NTP,0,0,0,,钓上不好好烤熟吃掉 真是不可原谅
+Dialogue: 0,0:01:02.72,0:01:04.39,Default,NTP,0,0,0,,一般人钓上来了都会吃的吧
+Dialogue: 0,0:01:05.28,0:01:05.73,Default,NTP,0,0,0,,明石同学？
+Dialogue: 0,0:01:06.42,0:01:07.71,Default,NTP,0,0,0,,啊 不 现在要去找小津
+Dialogue: 0,0:01:13.02,0:01:14.24,Default,NTP,0,0,0,,我似乎在被人追赶
+Dialogue: 0,0:01:16.71,0:01:18.47,Default,NTP,0,0,0,,感觉跟什么人对视着
+Dialogue: 0,0:01:30.86,0:01:31.84,Default,NTP,0,0,0,,进来
+Dialogue: 0,0:01:39.42,0:01:39.91,Default,NTP,0,0,0,,请问…
+Dialogue: 0,0:01:40.08,0:01:41.86,Default,NTP,0,0,0,,那是船首像 是女神像
+Dialogue: 0,0:01:42.40,0:01:44.02,Default,NTP,0,0,0,,欢迎来到地面潜航艇
+Dialogue: 0,0:01:44.07,0:01:44.89,Default,NTP,0,0,0,,地面潜航艇？
+Dialogue: 0,0:01:45.05,0:01:47.61,Default,NTP,0,0,0,,就是这支鱼叉 那就是我原本烦躁不安的原因
+Dialogue: 0,0:01:47.83,0:01:49.21,Default,NTP,0,0,0,,因为你帮我拔了出来 所以刚才就…
+Dialogue: 0,0:01:49.26,0:01:50.26,Default,NTP,0,0,0,,舰长 明石同学她…
+Dialogue: 0,0:01:50.59,0:01:53.14,Default,NTP,0,0,0,,什么 那家伙是想诱拐明石同学
+Dialogue: 0,0:01:53.34,0:01:54.23,Default,NTP,0,0,0,,怎么办啊
+Dialogue: 0,0:01:54.40,0:01:54.92,Default,NTP,0,0,0,,那家伙是…？
+Dialogue: 0,0:01:55.43,0:01:58.26,Default,NTP,0,0,0,,用那支鱼叉打败那家伙如何 舰长？
+Dialogue: 0,0:01:58.50,0:01:59.03,Default,NTP,0,0,0,,那家伙…
+Dialogue: 0,0:01:59.42,0:02:02.03,Default,NTP,0,0,0,,对啊 能拯救她的只有我
+Dialogue: 0,0:02:06.88,0:02:09.63,Default,NTP,0,0,0,,刚才这一幕你看到了吗 舰长抛弃了这艘船
+Dialogue: 0,0:02:09.88,0:02:13.15,Default,NTP,0,0,0,,您认为这种抛弃职务的人能拯救明石同学吗？
+Dialogue: 0,0:02:14.31,0:02:17.80,Default,NTP,0,0,0,,就这样让那个舰长为所欲为你也没意见吗？
+Dialogue: 0,0:02:18.17,0:02:20.32,Default,NTP,0,0,0,,能开动这艘船的只有舰长
+Dialogue: 0,0:02:20.57,0:02:22.63,Default,NTP,0,0,0,,你要怎样处置这艘没有舰长的船？
+Dialogue: 0,0:02:25.93,0:02:28.17,Default,NTP,0,0,0,,未来会因为你的决断而改变哦
+Dialogue: 0,0:02:29.71,0:02:30.17,Default,NTP,0,0,0,,未来？
+Dialogue: 0,0:02:31.78,0:02:33.13,Default,NTP,0,0,0,,为了我的未来
+Dialogue: 0,0:02:35.45,0:02:37.12,Default,NTP,0,0,0,,起锚 张帆！
+Dialogue: 0,0:02:50.82,0:02:52.57,Default,NTP,0,0,0,,绕到明石同学乘的公交车前面
+Dialogue: 0,0:02:53.86,0:02:56.91,Default,NTP,0,0,0,,好主意啊 舰长
+Dialogue: 0,0:02:57.93,0:02:58.70,Default,NTP,0,0,0,,舰长？
+Dialogue: 0,0:03:04.40,0:03:06.36,Default,NTP,0,0,0,,明石同学的行动有微妙的变化
+Dialogue: 0,0:03:06.70,0:03:07.23,Default,NTP,0,0,0,,微妙？
+Dialogue: 0,0:03:07.51,0:03:07.96,Default,NTP,0,0,0,,明石同学
+Dialogue: 0,0:03:08.42,0:03:08.99,Default,NTP,0,0,0,,啊 明石同学
+Dialogue: 0,0:03:14.75,0:03:16.92,Default,NTP,0,0,0,,我跟小津约好了去钓鱼
+Dialogue: 0,0:03:17.37,0:03:17.77,Default,NTP,0,0,0,,飞蛾！
+Dialogue: 0,0:03:34.92,0:03:37.00,Default,NTP,0,0,0,,对了 舰长 您钓鱼吗？
+Dialogue: 0,0:03:37.28,0:03:37.65,Default,NTP,0,0,0,,钓鱼？
+Dialogue: 0,0:03:40.25,0:03:41.76,Default,NTP,0,0,0,,怎么了怎么了怎么了 好吵啊
+Dialogue: 0,0:03:42.11,0:03:42.77,Default,NTP,0,0,0,,撞了
+Dialogue: 0,0:03:43.10,0:03:44.92,Default,NTP,0,0,0,,咦 你是谁？
+Dialogue: 0,0:03:45.32,0:03:46.14,Default,NTP,0,0,0,,新的副船长
+Dialogue: 0,0:03:46.43,0:03:47.35,Default,NTP,0,0,0,,你这是什么态度啊
+Dialogue: 0,0:03:47.65,0:03:49.29,Default,NTP,0,0,0,,我可是舰长 是你的上司
+Dialogue: 0,0:04:00.27,0:04:03.94,Default,NTP,0,0,0,,{\an8}操作说明书\N{\fs40}请务必在使用前阅读
+Dialogue: 0,0:04:00.32,0:04:01.92,Default,NTP,0,0,0,,操作说明
+Dialogue: 0,0:04:02.35,0:04:03.99,Default,NTP,0,0,0,,我不由自主地就拿了起来
+Dialogue: 0,0:04:05.96,0:04:07.43,Default,NTP,0,0,0,,又来新的副船长？
+Dialogue: 0,0:04:08.34,0:04:09.88,Default,NTP,0,0,0,,这次换得真快
+Dialogue: 0,0:04:10.28,0:04:11.10,Default,NTP,0,0,0,,操作
+Dialogue: 0,0:04:13.39,0:04:18.64,Default,NTP,0,0,0,,{\an8}关于地面潜航艇的驾驶
+Dialogue: 0,0:04:13.61,0:04:16.46,Default,NTP,0,0,0,,说明书上面记载着有关地面潜航艇的使用事宜
+Dialogue: 0,0:04:16.66,0:04:17.32,Default,NTP,0,0,0,,喂 副船长
+Dialogue: 0,0:04:17.44,0:04:18.56,Default,NTP,0,0,0,,我来解释
+Dialogue: 0,0:04:19.04,0:04:21.63,Default,NTP,0,0,0,,你将它从头开始集中精力看
+Dialogue: 0,0:04:22.42,0:04:24.94,Default,NTP,0,0,0,,那个男人简直就像把所有内容都背出来了一般开始述说
+Dialogue: 0,0:04:25.10,0:04:27.84,Default,NTP,0,0,0,,这艘在地面上潜航的船\N似乎可以如在水中一般潜航于所有物体
+Dialogue: 0,0:04:27.96,0:04:31.16,Default,NTP,0,0,0,,之所以会撞 是因为指挥这艘船的人的不成熟
+Dialogue: 0,0:04:31.29,0:04:34.35,Default,NTP,0,0,0,,因此情况急转直下 我被改任为舰长
+Dialogue: 0,0:04:35.02,0:04:36.44,Default,NTP,0,0,0,,先不管这些事情 明石同学她…
+Dialogue: 0,0:04:39.22,0:04:42.10,Default,NTP,0,0,0,,那家伙举着鱼叉向这边冲过来了
+Dialogue: 0,0:04:42.56,0:04:44.29,Default,NTP,0,0,0,,他要把鱼叉刺进这艘船啊
+Dialogue: 0,0:04:45.13,0:04:45.51,Default,NTP,0,0,0,,鱼雷
+Dialogue: 0,0:04:46.18,0:04:46.91,Default,NTP,0,0,0,,鱼雷吗？
+Dialogue: 0,0:04:47.23,0:04:49.11,Default,NTP,0,0,0,,原来如此 我也是这样想的
+Dialogue: 0,0:04:49.32,0:04:51.77,Default,NTP,0,0,0,,我就不计较你跟我想的一样了 用吧
+Dialogue: 0,0:04:53.60,0:04:54.30,Default,NTP,0,0,0,,装填鱼雷
+Dialogue: 0,0:04:54.70,0:04:57.70,Default,NTP,0,0,0,,现在的我对明石同学已经无所谓了
+Dialogue: 0,0:04:57.93,0:05:00.34,Default,NTP,0,0,0,,只想着改变这如此恶劣的环境
+Dialogue: 0,0:05:00.61,0:05:02.08,Default,NTP,0,0,0,,那可不是在做梦
+Dialogue: 0,0:05:12.73,0:05:13.88,Default,NTP,0,0,0,,舰长 请发射
+Dialogue: 0,0:05:14.13,0:05:14.81,Default,NTP,0,0,0,,是！
+Dialogue: 0,0:05:38.16,0:05:40.31,Default,NTP,0,0,0,,哦 这不是神石吗
+Dialogue: 0,0:05:40.58,0:05:42.65,Default,NTP,0,0,0,,{\an8}像沥青般黏糊糊地…
+Dialogue: 0,0:05:41.68,0:05:43.26,Default,NTP,0,0,0,,这不是小津吗
+Dialogue: 0,0:05:43.93,0:05:47.40,Default,NTP,0,0,0,,谢谢 是你那纯洁的心灵帮我找到了神石
+Dialogue: 0,0:05:58.05,0:05:59.46,Default,NTP,0,0,0,,回到鸭川 小津已经到了
+Dialogue: 0,0:05:59.74,0:06:01.72,Default,NTP,0,0,0,,我都等好久了
+Dialogue: 0,0:06:01.94,0:06:05.61,Default,NTP,0,0,0,,今天已经钓得很满足了 我就先走了
+Dialogue: 0,0:06:06.16,0:06:10.05,Default,NTP,0,0,0,,对了 我也约了明石同学 但她说今天来不了
+Dialogue: 0,0:06:10.35,0:06:14.14,Default,NTP,0,0,0,,不过 她托我交给你一张纸条
+Dialogue: 0,0:06:17.10,0:06:19.80,Default,NTP,0,0,0,,今天有报告要写 不能来钓鱼了
+Dialogue: 0,0:06:20.08,0:06:22.43,Default,NTP,0,0,0,,要是能钓到以下这些鱼就好了
+Dialogue: 0,0:06:23.45,0:06:24.55,Default,NTP,0,0,0,,章鱼和金枪鱼？
+Dialogue: 0,0:06:26.21,0:06:28.88,Default,NTP,0,0,0,,小津这家伙究竟告诉她要到哪去钓鱼？
+Dialogue: 0,0:06:29.14,0:06:31.22,Default,NTP,0,0,0,,还有 他今天钓到什么了？
+Dialogue: 0,0:06:32.94,0:06:34.86,Default,NTP,0,0,0,,这里也许是哲学之地
+Dialogue: 0,0:06:35.48,0:06:36.86,Default,NTP,0,0,0,,这是什么故事啊？
+Dialogue: 0,0:06:36.89,0:06:38.25,Default,NTP,0,0,0,,一点意思都没有
+Dialogue: 0,0:06:38.58,0:06:39.95,Default,NTP,0,0,0,,太赤裸裸了
+Dialogue: 0,0:06:40.14,0:06:41.61,Default,NTP,0,0,0,,而且 我们都没出场
+Dialogue: 0,0:06:41.95,0:06:43.31,Default,NTP,0,0,0,,可恶 我再也不讲故事了
+

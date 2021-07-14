@@ -1,0 +1,69 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,腾祥嘉丽中圆GB18030,62,&H00FFFFFF,&H0000FFFF,&H0049377C,&H40C0C0C0,-1,0,0,0,100,100,0,0,1,2,0,2,22,22,23,1
+Style: Default - top,腾祥嘉丽中圆GB18030,56,&H00FFFFFF,&H0000FFFF,&H0049377C,&H40C0C0C0,-1,0,0,0,100,100,0,0,1,2,0,8,22,22,35,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.09,0:00:07.18,Default,NTP,0,0,0,,特里斯特因 爱之剧场
+Dialogue: 0,0:00:07.92,0:00:10.66,Default,NTP,0,0,0,,『女仆的午后 爱之鞭篇』...
+Dialogue: 0,0:00:10.80,0:00:13.06,Default,NTP,0,0,0,,喂 为什么突然搞起戏剧了？
+Dialogue: 0,0:00:13.30,0:00:17.32,Default,NTP,0,0,0,,而且露易丝扮演女仆？明摆着演不好吧
+Dialogue: 0,0:00:17.41,0:00:19.36,Default,NTP,0,0,0,,不试试的话 怎么知道结果？
+Dialogue: 0,0:00:19.67,0:00:21.38,Default,NTP,0,0,0,,来吧 要开始了
+Dialogue: 0,0:00:25.65,0:00:28.43,Default,NTP,0,0,0,,艾缇安奴 艾缇安奴
+Dialogue: 0,0:00:30.60,0:00:33.15,Default,NTP,0,0,0,,您叫我吗 主人
+Dialogue: 0,0:00:33.71,0:00:36.73,Default,NTP,0,0,0,,我想叫你做我的绘画模特
+Dialogue: 0,0:00:36.93,0:00:38.75,Default,NTP,0,0,0,,来吧 坐在那里
+Dialogue: 0,0:00:39.96,0:00:41.22,Default,NTP,0,0,0,,遵命
+Dialogue: 0,0:00:41.35,0:00:43.54,Default,NTP,0,0,0,,你站着发什么呆？
+Dialogue: 0,0:00:44.06,0:00:45.48,Default,NTP,0,0,0,,快点脱衣服
+Dialogue: 0,0:00:45.80,0:00:47.83,Default,NTP,0,0,0,,要...要我裸体？
+Dialogue: 0,0:00:48.37,0:00:49.46,Default,NTP,0,0,0,,请饶过我吧
+Dialogue: 0,0:00:50.01,0:00:53.14,Default,NTP,0,0,0,,就算是主人的命令 唯独这个...
+Dialogue: 0,0:00:53.33,0:00:55.15,Default,NTP,0,0,0,,我叫你脱 你就脱
+Dialogue: 0,0:00:55.60,0:00:57.80,Default,NTP,0,0,0,,不愿意的话 要我帮你脱吗
+Dialogue: 0,0:00:58.86,0:01:02.31,Default,NTP,0,0,0,,这一刻我就好像是越后屋灵魂附体
+Dialogue: 0,0:01:02.69,0:01:05.06,Default,NTP,0,0,0,,有何不可 有何不可
+Dialogue: 0,0:01:05.10,0:01:07.70,Default,NTP,0,0,0,,哎～呀～
+Dialogue: 0,0:01:08.17,0:01:10.30,Default,NTP,0,0,0,,请住手 主人
+Dialogue: 0,0:01:11.02,0:01:13.40,Default,NTP,0,0,0,,要是被夫人看到这一幕的话...
+Dialogue: 0,0:01:13.52,0:01:17.80,Default,NTP,0,0,0,,不用担心 弗兰希奴已经出门了
+Dialogue: 0,0:01:19.34,0:01:21.33,Default,NTP,0,0,0,,弗...弗兰希奴？
+Dialogue: 0,0:01:21.71,0:01:23.20,Default,NTP,0,0,0,,你没有出门吗
+Dialogue: 0,0:01:23.44,0:01:26.84,Default,NTP,0,0,0,,哎？谢斯塔演伯爵夫人吗...
+Dialogue: 0,0:01:27.07,0:01:29.29,Default,NTP,0,0,0,,这...这是误会 弗兰希奴
+Dialogue: 0,0:01:29.88,0:01:34.32,Default,NTP,0,0,0,,这女仆说喜欢我 随后就开始自己脱衣服
+Dialogue: 0,0:01:34.65,0:01:35.44,Default,NTP,0,0,0,,没骗你
+Dialogue: 0,0:01:35.97,0:01:41.05,Default,NTP,0,0,0,,本人怎么可能会喜欢这种『平底锅』女仆不是吗？
+Dialogue: 0,0:01:41.27,0:01:45.64,Default,NTP,0,0,0,,台词不该是...『这种身份卑微的女人』吗...
+Dialogue: 0,0:01:46.05,0:01:46.48,Default,NTP,0,0,0,,好疼
+Dialogue: 0,0:01:47.93,0:01:48.41,Default,NTP,0,0,0,,好疼
+Dialogue: 0,0:01:49.13,0:01:53.50,Default,NTP,0,0,0,,谢斯塔 干嘛要手下留情啊 多没意思
+Dialogue: 0,0:01:53.72,0:01:55.03,Default,NTP,0,0,0,,别那么多事了 继续吧
+Dialogue: 0,0:01:57.03,0:01:59.69,Default,NTP,0,0,0,,住手 弗兰希奴
+Dialogue: 0,0:02:00.36,0:02:01.80,Default,NTP,0,0,0,,请住手 夫人
+Dialogue: 0,0:02:02.38,0:02:05.42,Default,NTP,0,0,0,,这样抽的话 珀尔老爷也太...
+Dialogue: 0,0:02:05.94,0:02:08.12,Default,NTP,0,0,0,,我根本就没有诱惑他
+Dialogue: 0,0:02:08.83,0:02:12.59,Default,NTP,0,0,0,,如果您不相信的话 我就来证明一下
+Dialogue: 0,0:02:13.01,0:02:15.91,Default,NTP,0,0,0,,哎？你搞什么即兴演出啊？
+Dialogue: 0,0:02:16.47,0:02:19.42,Default,NTP,0,0,0,,露易丝？啊 笨蛋 住手
+Dialogue: 0,0:02:21.21,0:02:22.59,Default,NTP,0,0,0,,好疼
+Dialogue: 0,0:02:23.45,0:02:25.71,Default,NTP,0,0,0,,演戏而已 不要真抽啊
+Dialogue: 0,0:02:26.04,0:02:27.93,Default,NTP,0,0,0,,夫人 您觉得如何啊？
+Dialogue: 0,0:02:28.58,0:02:34.50,Default,NTP,0,0,0,,我对珀尔老爷连一丁点的感情都没有 您能理解了吧
+Dialogue: 0,0:02:35.07,0:02:37.78,Default,NTP,0,0,0,,哎？还不够？
+Dialogue: 0,0:02:38.26,0:02:39.65,Default,NTP,0,0,0,,那 这样如何
+Dialogue: 0,0:02:41.61,0:02:42.78,Default,NTP,0,0,0,,好疼
+Dialogue: 0,0:02:44.34,0:02:46.62,Default,NTP,0,0,0,,演这种女仆角色 驾轻就熟呢
+Dialogue: 0,0:02:47.38,0:02:50.66,Default,NTP,0,0,0,,这不是和平时一样了吗...
+Dialogue: 0,0:02:51.02,0:02:52.96,Default,NTP,0,0,0,,看鞭
+Dialogue: 0,0:00:58.86,0:01:02.31,Default - top,NTP,0,0,0,,（越后屋：恶德商人老流氓的代名词 接下来的2句正是其名台词）
+Dialogue: 0,0:01:02.69,0:01:05.06,Default - top,NTP,0,0,0,,（よいではないか×2：某老色鬼抓住女人和服一角发此感慨 用力一抖让对方转圈宽衣）

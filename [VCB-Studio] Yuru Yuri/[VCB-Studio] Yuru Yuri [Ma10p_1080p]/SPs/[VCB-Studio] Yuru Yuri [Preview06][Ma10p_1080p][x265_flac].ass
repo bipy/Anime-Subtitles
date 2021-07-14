@@ -1,0 +1,25 @@
+﻿[Script Info]
+; // 此字幕由PopSub生成  2011-12-14 10:55:06
+; // 版本: 0.75
+; // popgo_fansub@yahoo.co.jp
+; // 欢迎访问漫游天下 http://bbs.popgo.net
+Title:漫游字幕
+Original Script:漫游字幕组
+Synch Point:0
+ScriptType:v4.00+
+Collisions:Normal
+PlayResX:848
+PlayResY:480
+Timer:100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,汉仪秀英体简,30,&H00FFFFFF,&HF0000000,&H0093550F,&HF0000000,-1,0,0,0,100,100,0,0,1,2,1,2,30,30,10,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.20,0:00:04.59,*Default,NTP,0000,0000,0000,,没事吗 池田前辈
+Dialogue: 0,0:00:04.78,0:00:05.84,*Default,NTP,0000,0000,0000,,这里有纸巾
+Dialogue: 0,0:00:05.88,0:00:07.70,*Default,NTP,0000,0000,0000,,啊 谢谢你赤座同学
+Dialogue: 0,0:00:08.49,0:00:12.24,*Default,NTP,0000,0000,0000,,那么我就先走了 今天有纸巾的特卖会
+Dialogue: 0,0:00:12.32,0:00:14.06,*Default,NTP,0000,0000,0000,,前辈燃起来了！

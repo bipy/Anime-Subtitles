@@ -1,0 +1,161 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,FZYaSong-M-GBK,72,&H00FFFFFF,&H00FFFFFF,&H1EB411B4,&H32460D46,-1,0,0,0,100,100,1,0,1,3,2,2,30,30,20,1
+Style: Title,FZShuSong_GB18030-Z01,72,&H00000000,&H000000FF,&H00141414,&H003C3C3C,-1,0,0,0,100,100,15,0,1,0,0,8,30,30,30,1
+Style: Screen,FZShuSong_GB18030-Z01,64,&H20FFFFFF,&HFFFFFFFF,&H00505050,&H80F9F9F9,-1,0,0,0,100,100,15,0,1,0,0,5,30,30,30,1
+Style: EDEN1,French Script MT,72,&H00CC9F61,&H00FFFFFF,&H404F4D37,&H40B08264,-1,0,0,0,100,100,1,0,1,3,2,8,30,30,20,1
+Style: EDEN2,French Script MT,72,&H00FFFFFF,&HFFFFFFFF,&HFF4F4D37,&HFFB08264,-1,0,0,0,100,100,1,0,1,3,2,8,30,30,20,1
+Style: EDZH1,FZYingBiKaiShu-S15,54,&H00FFFFFF,&H00FFFFFF,&H404F4D37,&H40B08264,-1,0,0,0,100,100,1,0,1,2.6,2,8,30,30,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.24,0:00:01.08,Default,,0,0,0,,我想理解
+Dialogue: 0,0:00:02.22,0:00:05.29,Default,,0,0,0,,我想理解…「我爱你」
+Dialogue: 0,0:00:05.77,0:00:08.78,Screen,,0,0,0,,{\fad(800,0)\pos(960,690)}紫罗兰永恒花园
+Dialogue: 0,0:00:08.74,0:00:11.88,Default,,0,0,0,,只是一昧遵从吉尔伯特命令的少女
+Dialogue: 0,0:00:12.53,0:00:14.25,Default,,0,0,0,,第一次主张了自己的想法
+Dialogue: 0,0:00:15.17,0:00:16.92,Default,,0,0,0,,说想要理解「我爱你」
+Dialogue: 0,0:00:17.84,0:00:18.73,Default,,0,0,0,,{\blur6}{\pos(960,980)\fs54}Violet
+Dialogue: 0,0:00:17.84,0:00:18.73,Default,,0,0,0,,{\blur6}紫罗兰
+Dialogue: 0,0:00:19.80,0:00:20.72,Default,,0,0,0,,{\blur6}长大以后 你一定会成为
+Dialogue: 0,0:00:21.24,0:00:24.21,Default,,0,0,0,,{\blur6}能和这个名字交相辉映的女性
+Dialogue: 0,0:00:24.58,0:00:26.46,Screen,,0,0,0,,{\pos(960,700)}她尚不知晓
+Dialogue: 0,0:00:27.07,0:00:29.48,Default,,0,0,0,,{\blur6}和少佐的眼睛 是一样的颜色
+Dialogue: 0,0:00:30.71,0:00:31.91,Default,,0,0,0,,{\blur6}当我看到它的时候
+Dialogue: 0,0:00:33.07,0:00:33.91,Default,,0,0,0,,{\blur6}这种…
+Dialogue: 0,0:00:35.32,0:00:36.55,Default,,0,0,0,,{\blur6}该怎么说呢
+Dialogue: 0,0:00:40.27,0:00:42.64,Screen,,0,0,0,,{\pos(960,700)}何为「我爱你」
+Dialogue: 0,0:00:43.50,0:00:44.21,Default,,0,0,0,,打开看看
+Dialogue: 0,0:00:47.70,0:00:49.36,Default,,0,0,0,,这就是少佐送我的胸针！
+Dialogue: 0,0:00:50.28,0:00:51.70,Default,,0,0,0,,优秀的人偶
+Dialogue: 0,0:00:52.22,0:00:54.44,Default,,0,0,0,,是能从说出的话语中间
+Dialogue: 0,0:00:55.17,0:00:58.22,Default,,0,0,0,,发现想要传递给他人的真心的
+Dialogue: 0,0:00:59.47,0:01:01.72,Default,,0,0,0,,语言有着表里
+Dialogue: 0,0:01:02.31,0:01:04.58,Default,,0,0,0,,口中说出的话语并不是一切
+Dialogue: 0,0:01:11.55,0:01:14.13,Screen,,0,0,0,,{\pos(960,700)}在笔下一封封信的字里行间
+Dialogue: 0,0:01:12.77,0:01:15.07,Default,,0,0,0,,表达心意是如此困难呢
+Dialogue: 0,0:01:16.48,0:01:19.56,Default,,0,0,0,,明明只是想要对他说「谢谢」啊！
+Dialogue: 0,0:01:20.10,0:01:22.10,Screen,,0,0,0,,{\pos(960,700)}她开始知晓人的思绪
+Dialogue: 0,0:01:22.10,0:01:24.92,Default,,0,0,0,,我想让您不再流泪
+Dialogue: 0,0:01:26.00,0:01:27.02,Default,,0,0,0,,老爷您…
+Dialogue: 0,0:01:27.36,0:01:29.93,Default,,0,0,0,,似乎有什么东西深藏在您心底
+Dialogue: 0,0:01:28.81,0:01:31.69,Screen,,0,0,0,,{\pos(960,700)}开始理解人的心灵
+Dialogue: 0,0:01:31.38,0:01:33.75,Default,,0,0,0,,你不会想起那个人来吗
+Dialogue: 0,0:01:34.77,0:01:35.24,Default,,0,0,0,,我总是…
+Dialogue: 0,0:01:36.35,0:01:37.41,Default,,0,0,0,,会想到他
+Dialogue: 0,0:01:38.01,0:01:39.19,Default,,0,0,0,,吉尔伯特少佐！
+Dialogue: 0,0:01:39.87,0:01:42.38,Default,,0,0,0,,我感觉现在稍微能够理解
+Dialogue: 0,0:01:43.09,0:01:44.20,Default,,0,0,0,,本以为自己无法理解的薇鸥莱特了
+Dialogue: 0,0:01:45.18,0:01:46.47,Default,,0,0,0,,这孩子口中的少佐
+Dialogue: 0,0:01:47.01,0:01:48.60,Default,,0,0,0,,把爱情寄予给了
+Dialogue: 0,0:01:49.48,0:01:50.74,Default,,0,0,0,,除了军队一无所知的她
+Dialogue: 0,0:01:52.06,0:01:55.94,Default,,0,0,0,,然后 这孩子拼尽全力想要理解其中的含意
+Dialogue: 0,0:01:57.54,0:01:59.07,Default,,0,0,0,,只要是客人的愿望
+Dialogue: 0,0:01:59.72,0:02:01.04,Default,,0,0,0,,不论天涯海角我们都竭诚为您服务
+Dialogue: 0,0:02:02.68,0:02:04.38,Default,,0,0,0,,自动笔记人偶服务
+Dialogue: 0,0:02:06.50,0:02:09.33,Default,,0,0,0,,薇鸥莱特·艾娲嘉登
+Dialogue: 0,0:02:09.60,0:02:13.90,Title,,0,0,0,,{\fad(800,0)\pos(960,680)}紫罗兰永恒花园
+Dialogue: 0,0:02:13.90,0:02:19.74,Screen,,0,0,0,,{\pos(960,700)}献给所有不知爱为何物的人
+Dialogue: 1,0:00:05.24,0:00:08.08,EDEN1,,0,0,0,,{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf44}Life {\kf44}is {\kf24}a {\kf46}jour{\kf106}ney
+Dialogue: 1,0:00:07.88,0:00:11.36,EDEN1,,0,0,0,,{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf64}Feelings {\kf32}of {\kf101}hope{\kf42}less{\kf89}ness
+Dialogue: 1,0:00:11.16,0:00:16.54,EDEN1,,0,0,0,,{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf54}Lone{\kf24}li{\kf81}ness,{\kf27} {\kf37}she {\kf33}sweeps {\kf29}them {\kf84}all{\kf14} {\kf38}a{\kf97}way
+Dialogue: 1,0:00:16.34,0:00:19.16,EDEN1,,0,0,0,,{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf67}Able{\kf63}... {\kf86}Graceful{\kf26}...
+Dialogue: 1,0:00:18.96,0:00:23.84,EDEN1,,0,0,0,,{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf32}And {\kf61}always {\kf37}keeps {\kf27}her {\kf67}pro{\kf65}mi{\kf179}ses
+Dialogue: 1,0:00:24.05,0:00:28.86,EDEN1,,0,0,0,,{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf33}Every {\kf53}end {\kf45}has {\kf33}a {\kf64}new {\kf52}be{\kf26}gin{\kf155}ning
+Dialogue: 1,0:00:29.24,0:00:34.34,EDEN1,,0,0,0,,{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf36}Un{\kf30}ex{\kf21}pec{\kf38}ted {\kf44}things {\kf50}will {\kf71}hap{\kf200}pen
+Dialogue: 1,0:00:34.27,0:00:40.38,EDEN1,,0,0,0,,{\fad(300,300)\move(1320,20,1230,20,0,6190)\blur3}{\kf44}There {\kf39}will {\kf62}always {\kf25}be {\kf30}a {\kf41}sil{\kf23}ver {\kf80}li{\kf247}ning
+Dialogue: 2,0:00:05.24,0:00:08.08,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf44}Life {\kf44}is {\kf24}a {\kf46}jour{\kf106}ney
+Dialogue: 2,0:00:07.88,0:00:11.36,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf64}Feelings {\kf32}of {\kf101}hope{\kf42}less{\kf89}ness
+Dialogue: 2,0:00:11.16,0:00:16.54,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf54}Lone{\kf24}li{\kf81}ness,{\kf27} {\kf37}she {\kf33}sweeps {\kf29}them {\kf84}all{\kf14} {\kf38}a{\kf97}way
+Dialogue: 2,0:00:16.34,0:00:19.16,EDEN2,,0,0,0,,{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf20}{\kf67}Able{\kf63}... {\kf86}Graceful{\kf26}...
+Dialogue: 2,0:00:18.96,0:00:23.84,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf32}And {\kf61}always {\kf37}keeps {\kf27}her {\kf67}pro{\kf65}mi{\kf179}ses
+Dialogue: 2,0:00:24.05,0:00:28.86,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf33}Every {\kf53}end {\kf45}has {\kf33}a {\kf64}new {\kf52}be{\kf26}gin{\kf155}ning
+Dialogue: 2,0:00:29.24,0:00:34.34,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf36}Un{\kf30}ex{\kf21}pec{\kf38}ted {\kf44}things {\kf50}will {\kf71}hap{\kf200}pen
+Dialogue: 2,0:00:34.27,0:00:40.38,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1320,20,1230,20,0,6190)\blur3}{\kf44}There {\kf39}will {\kf62}always {\kf25}be {\kf30}a {\kf41}sil{\kf23}ver {\kf80}li{\kf247}ning
+Dialogue: 1,0:00:41.64,0:00:44.63,EDEN1,,0,0,0,,{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf37}Time {\kf49}heals {\kf23}all {\kf36}sor{\kf134}rows
+Dialogue: 1,0:00:44.40,0:00:47.73,EDEN1,,0,0,0,,{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf28}Get {\kf66}over, {\kf73}no{\kf28} {\kf33}wor{\kf85}ries
+Dialogue: 1,0:00:47.53,0:00:52.96,EDEN1,,0,0,0,,{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf29}'cause {\kf49}no{\kf76}thing{\kf50} {\kf33}is {\kf36}more {\kf22}pre{\kf69}cious{\kf28} {\kf38}than {\kf93}love
+Dialogue: 1,0:00:52.76,0:00:55.47,EDEN1,,0,0,0,,{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf90}Noble{\kf42}... {\kf75}Faithful{\kf44}...
+Dialogue: 1,0:00:55.27,0:00:59.74,EDEN1,,0,0,0,,{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf29}She's {\kf36}as {\kf39}pure {\kf41}as {\kf28}the {\kf65}dri{\kf56}ven {\kf133}snow
+Dialogue: 1,0:00:59.54,0:01:04.63,EDEN1,,0,0,0,,{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf38}Oh, {\kf31}dear {\kf35}heart... {\kf40}So {\kf315}sweet
+Dialogue: 2,0:00:41.64,0:00:44.63,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf37}Time {\kf49}heals {\kf23}all {\kf36}sor{\kf134}rows
+Dialogue: 2,0:00:44.40,0:00:47.73,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf28}Get {\kf66}over, {\kf73}no{\kf28} {\kf33}wor{\kf85}ries
+Dialogue: 2,0:00:47.53,0:00:52.96,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf29}'cause {\kf49}no{\kf76}thing{\kf50} {\kf33}is {\kf36}more {\kf22}pre{\kf69}cious{\kf28} {\kf38}than {\kf93}love
+Dialogue: 2,0:00:52.76,0:00:55.47,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf90}Noble{\kf42}... {\kf75}Faithful{\kf44}...
+Dialogue: 2,0:00:55.27,0:00:59.74,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf29}She's {\kf36}as {\kf39}pure {\kf41}as {\kf28}the {\kf65}dri{\kf56}ven {\kf133}snow
+Dialogue: 2,0:00:59.54,0:01:04.63,EDEN2,,0,0,0,,{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf20}{\kf38}Oh, {\kf31}dear {\kf35}heart... {\kf40}So {\kf315}sweet
+Dialogue: 1,0:01:11.64,0:01:15.69,EDEN1,,0,0,0,,{\fad(300,300)\move(1230,20,1330,20,0,7200)\blur3}{\kf81}It's {\kf57}her {\kf42}way {\kf34}of {\kf151}life
+Dialogue: 1,0:01:15.77,0:01:22.96,EDEN1,,0,0,0,,{\fad(300,300)\move(1330,20,1230,20,0,7200)\blur3}{\kf44}No {\kf61}doubt {\kf45}about {\kf27}her {\kf58}sin{\kf62}ce{\kf31}ri{\kf141}ty,{\kf68} {\kf162}uh...
+Dialogue: 1,0:01:24.63,0:01:29.00,EDEN1,,0,0,0,,{\fad(300,300)\move(1230,20,1330,20,0,7200)\blur3}{\kf65}A {\kf100}fra{\kf36}gile {\kf66}beau{\kf150}ty
+Dialogue: 1,0:01:29.79,0:01:34.44,EDEN1,,0,0,0,,{\fad(300,300)\move(1330,20,1230,20,0,7200)\blur3}{\kf71}one {\kf88}an{\kf38}d {\kf70}on{\kf178}ly
+Dialogue: 1,0:01:34.60,0:01:41.09,EDEN1,,0,0,0,,{\fad(300,300)\move(1230,20,1330,20,0,7200)\blur3}{\kf101}She's {\kf74}not {\kf55}only {\kf32}gen{\kf40}{\kf47}tle {\kf68}but {\kf212}brave
+Dialogue: 1,0:01:40.89,0:01:46.24,EDEN1,,0,0,0,,{\fad(300,300)\move(1330,20,1230,20,0,7200)\blur3}{\kf57}With {\kf67}honest {\kf163}eyes,{\kf52} {\kf41}it's {\kf115}true
+Dialogue: 1,0:01:46.24,0:01:48.97,EDEN1,,0,0,0,,{\fad(300,300)\move(1230,20,1330,20,0,7200)\blur3}{\kf38}Lost {\kf41}in {\kf33}the {\kf31}la{\kf17}by{\kf40}rin{\kf53}th
+Dialogue: 1,0:01:48.84,0:01:52.21,EDEN1,,0,0,0,,{\fad(300,300)\move(1330,20,1230,20,0,7200)\blur3}{\kf63}Never {\kf37}know {\kf72}what{\kf36} {\kf27}love {\kf62}means
+Dialogue: 1,0:01:52.08,0:01:57.32,EDEN1,,0,0,0,,{\fad(300,300)\move(1230,20,1330,20,0,7200)\blur3}{\kf33}She's {\kf55}tru{\kf47}ly{\kf58} {\kf21}a {\kf76}treasure, {\kf99}peace {\kf30}of {\kf85}mind
+Dialogue: 1,0:01:57.23,0:01:59.84,EDEN1,,0,0,0,,{\fad(300,300)\move(1330,20,1230,20,0,7200)\blur3}{\kf37}No {\kf58}fears{\kf33}... {\kf16}No {\kf29}more {\kf48}tears...
+Dialogue: 1,0:01:59.86,0:02:03.78,EDEN1,,0,0,0,,{\fad(300,300)\move(1230,20,1330,20,0,7200)\blur3}{\kf14}Set {\kf19}the {\kf32}spi{\kf21}rit {\kf44}free {\kf34}and {\kf64}stay {\kf35}a{\kf109}live
+Dialogue: 1,0:02:04.01,0:02:08.78,EDEN1,,0,0,0,,{\fad(300,300)\move(1330,20,1230,20,0,7200)\blur3}{\kf40}Oh, {\kf25}dear {\kf33}heart... {\kf37}So {\kf302}please
+Dialogue: 2,0:01:11.64,0:01:15.69,EDEN2,,0,0,0,,{\fad(300,300)\move(1230,20,1330,20,0,7200)\blur3}{\kf20}{\kf81}It's {\kf57}her {\kf42}way {\kf34}of {\kf151}life
+Dialogue: 2,0:01:15.77,0:01:22.96,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1330,20,1230,20,0,7200)\blur3}{\kf44}No {\kf61}doubt {\kf45}about {\kf27}her {\kf58}sin{\kf62}ce{\kf31}ri{\kf141}ty,{\kf68} {\kf162}uh...
+Dialogue: 2,0:01:24.63,0:01:29.00,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1230,20,1330,20,0,7200)\blur3}{\kf65}A {\kf100}fra{\kf36}gile {\kf66}beau{\kf150}ty
+Dialogue: 2,0:01:29.79,0:01:34.44,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1330,20,1230,20,0,7200)\blur3}{\kf71}one {\kf88}an{\kf38}d {\kf70}on{\kf178}ly
+Dialogue: 2,0:01:34.60,0:01:41.09,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1230,20,1330,20,0,7200)\blur3}{\kf101}She's {\kf74}not {\kf55}only {\kf32}gen{\kf40}{\kf47}tle {\kf68}but {\kf212}brave
+Dialogue: 2,0:01:40.89,0:01:46.24,EDEN2,,0,0,0,,{\fad(300,300)\move(1330,20,1230,20,0,7200)\blur3}{\kf20}{\kf57}With {\kf67}honest {\kf163}eyes,{\kf52} {\kf41}it's {\kf115}true
+Dialogue: 2,0:01:46.24,0:01:48.97,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1230,20,1330,20,0,7200)\blur3}{\kf38}Lost {\kf41}in {\kf33}the {\kf31}la{\kf17}by{\kf40}rin{\kf53}th
+Dialogue: 2,0:01:48.84,0:01:52.21,EDEN2,,0,0,0,,{\fad(300,300)\move(1330,20,1230,20,0,7200)\blur3}{\kf20}{\kf63}Never {\kf37}know {\kf72}what{\kf36} {\kf27}love {\kf62}means
+Dialogue: 2,0:01:52.08,0:01:57.32,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1230,20,1330,20,0,7200)\blur3}{\kf33}She's {\kf55}tru{\kf47}ly{\kf58} {\kf21}a {\kf76}treasure, {\kf99}peace {\kf30}of {\kf85}mind
+Dialogue: 2,0:01:57.23,0:01:59.84,EDEN2,,0,0,0,,{\fad(300,300)\move(1330,20,1230,20,0,7200)\blur3}{\kf20}{\kf37}No {\kf58}fears{\kf33}... {\kf16}No {\kf29}more {\kf48}tears...
+Dialogue: 2,0:01:59.86,0:02:03.78,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1230,20,1330,20,0,7200)\blur3}{\kf14}Set {\kf19}the {\kf32}spi{\kf21}rit {\kf44}free {\kf34}and {\kf64}stay {\kf35}a{\kf109}live
+Dialogue: 2,0:02:04.01,0:02:08.78,EDEN2,,0,0,0,,{\fad(300,300)\move(1330,20,1230,20,0,7200)\blur3}{\kf20}{\kf40}Oh, {\kf25}dear {\kf33}heart... {\kf37}So {\kf302}please
+Dialogue: 1,0:02:09.52,0:02:12.50,EDEN1,,0,0,0,,{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf34}Time {\kf48}heals {\kf19}all {\kf46}sor{\kf135}rows
+Dialogue: 1,0:02:12.10,0:02:15.44,EDEN1,,0,0,0,,{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf29}Get {\kf66}over, {\kf95}no {\kf40}wor{\kf84}ries
+Dialogue: 1,0:02:15.32,0:02:20.67,EDEN1,,0,0,0,,{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf26}'cause {\kf49}no{\kf83}thing{\kf38} {\kf29}is {\kf40}more {\kf22}pre{\kf97}cious {\kf38}than {\kf93}love
+Dialogue: 1,0:02:20.47,0:02:23.18,EDEN1,,0,0,0,,{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf85}Noble{\kf45}... {\kf89}Faithful{\kf32}...
+Dialogue: 1,0:02:22.98,0:02:27.45,EDEN1,,0,0,0,,{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf36}She's {\kf29}as {\kf39}pure {\kf41}as {\kf21}the {\kf68}dri{\kf60}ven {\kf133}snow
+Dialogue: 1,0:02:27.25,0:02:29.65,EDEN1,,0,0,0,,{\fad(300,2100)\move(1320,20,1240,20,0,5500)\blur3}{\kf38}Oh, {\kf31}dear {\kf35}heart... {\kf40}So {\kf315}sweet
+Dialogue: 2,0:02:09.52,0:02:12.50,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf34}Time {\kf48}heals {\kf19}all {\kf46}sor{\kf135}rows
+Dialogue: 2,0:02:12.10,0:02:15.44,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf29}Get {\kf66}over, {\kf95}no {\kf40}wor{\kf84}ries
+Dialogue: 2,0:02:15.32,0:02:20.67,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf26}'cause {\kf49}no{\kf83}thing{\kf38} {\kf29}is {\kf40}more {\kf22}pre{\kf97}cious {\kf38}than {\kf93}love
+Dialogue: 2,0:02:20.47,0:02:23.18,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1320,20,1240,20,0,5500)\blur3}{\kf85}Noble{\kf45}... {\kf89}Faithful{\kf32}...
+Dialogue: 2,0:02:22.98,0:02:27.45,EDEN2,,0,0,0,,{\kf20}{\fad(300,300)\move(1240,20,1320,20,0,5500)\blur3}{\kf36}She's {\kf29}as {\kf39}pure {\kf41}as {\kf21}the {\kf68}dri{\kf60}ven {\kf133}snow
+Dialogue: 2,0:02:27.25,0:02:29.65,EDEN2,,0,0,0,,{\fad(300,2100)\move(1320,20,1240,20,0,5500)\blur3}{\kf20}{\kf38}Oh, {\kf31}dear {\kf35}heart... {\kf40}So {\kf315}sweet
+Dialogue: 0,0:00:05.24,0:00:08.08,EDZH1,,0,0,0,,{\fad(300,300)\move(1320,70,1240,70,0,5500)\blur3}人生就像旅途
+Dialogue: 0,0:00:07.88,0:00:11.36,EDZH1,,0,0,0,,{\fad(300,300)\move(1240,70,1320,70,0,5500)\blur3}有时也会觉得寂寞与绝望
+Dialogue: 0,0:00:11.16,0:00:16.54,EDZH1,,0,0,0,,{\fad(300,300)\move(1320,70,1240,70,0,5500)\blur3}但她一定能把它们都轻轻拂去
+Dialogue: 0,0:00:16.34,0:00:19.16,EDZH1,,0,0,0,,{\fad(300,300)\move(1240,70,1320,70,0,5500)\blur3}她无所不能…却又彬彬有礼…
+Dialogue: 0,0:00:18.96,0:00:23.84,EDZH1,,0,0,0,,{\fad(300,300)\move(1320,70,1240,70,0,5500)\blur3}而且还言而有信
+Dialogue: 0,0:00:24.05,0:00:28.86,EDZH1,,0,0,0,,{\fad(300,300)\move(1240,70,1320,70,0,5500)\blur3}相信每一个终点都是一次新的开始
+Dialogue: 0,0:00:29.24,0:00:34.34,EDZH1,,0,0,0,,{\fad(300,300)\move(1320,70,1240,70,0,5500)\blur3}哪怕过程一波三折
+Dialogue: 0,0:00:34.27,0:00:40.38,EDZH1,,0,0,0,,{\fad(300,300)\move(1230,70,1320,70,0,6190)\blur3}未来总会一片光明
+Dialogue: 0,0:00:41.64,0:00:44.63,EDZH1,,0,0,0,,{\fad(300,300)\move(1320,70,1240,70,0,5500)\blur3}时光能抚平一切伤痕
+Dialogue: 0,0:00:44.40,0:00:47.73,EDZH1,,0,0,0,,{\fad(300,300)\move(1240,70,1320,70,0,5500)\blur3}忘记痛苦 不再畏惧
+Dialogue: 0,0:00:47.53,0:00:52.96,EDZH1,,0,0,0,,{\fad(300,300)\move(1320,70,1240,70,0,5500)\blur3}只因爱值得我付出人生
+Dialogue: 0,0:00:52.76,0:00:55.47,EDZH1,,0,0,0,,{\fad(300,300)\move(1240,70,1320,70,0,5500)\blur3}尊贵…真诚…
+Dialogue: 0,0:00:55.27,0:00:59.74,EDZH1,,0,0,0,,{\fad(300,300)\move(1320,70,1240,70,0,5500)\blur3}她就像飘雪一样纯真
+Dialogue: 0,0:00:59.54,0:01:04.63,EDZH1,,0,0,0,,{\fad(300,300)\move(1240,70,1320,70,0,5500)\blur3}哦我心爱的她…祝你活得甜蜜
+Dialogue: 0,0:01:11.64,0:01:15.69,EDZH1,,0,0,0,,{\fad(300,300)\move(1330,70,1230,70,0,7200)\blur3}在她的人生中
+Dialogue: 0,0:01:15.77,0:01:22.96,EDZH1,,0,0,0,,{\fad(300,300)\move(1230,70,1330,70,0,7200)\blur3}从不矫揉造作 永远赤诚相待
+Dialogue: 0,0:01:24.63,0:01:29.00,EDZH1,,0,0,0,,{\fad(300,300)\move(1330,70,1230,70,0,7200)\blur3}她是这么美丽而缥缈
+Dialogue: 0,0:01:29.79,0:01:34.44,EDZH1,,0,0,0,,{\fad(300,300)\move(1230,70,1330,70,0,7200)\blur3}让我愿意付出唯一的生命
+Dialogue: 0,0:01:34.60,0:01:41.09,EDZH1,,0,0,0,,{\fad(300,300)\move(1330,70,1230,70,0,7200)\blur3}而且她不仅温柔还很坚强
+Dialogue: 0,0:01:40.89,0:01:46.24,EDZH1,,0,0,0,,{\fad(300,300)\move(1230,70,1330,70,0,7200)\blur3}那双眼睛总是那么清澈纯真
+Dialogue: 0,0:01:46.24,0:01:48.97,EDZH1,,0,0,0,,{\fad(300,300)\move(1330,70,1230,70,0,7200)\blur3}在感情的迷宫里
+Dialogue: 0,0:01:48.84,0:01:52.21,EDZH1,,0,0,0,,{\fad(300,300)\move(1230,70,1330,70,0,7200)\blur3}追逐爱的意义
+Dialogue: 0,0:01:52.08,0:01:57.32,EDZH1,,0,0,0,,{\fad(300,300)\move(1330,70,1230,70,0,7200)\blur3}但只有她才是我心中唯一
+Dialogue: 0,0:01:57.23,0:01:59.84,EDZH1,,0,0,0,,{\fad(300,300)\move(1230,70,1330,70,0,7200)\blur3}不要害怕…别再哭泣…
+Dialogue: 0,0:01:59.86,0:02:03.78,EDZH1,,0,0,0,,{\fad(300,300)\move(1330,70,1230,70,0,7200)\blur3}愿她自由地活下去
+Dialogue: 0,0:02:04.01,0:02:08.78,EDZH1,,0,0,0,,{\fad(300,300)\move(1230,70,1330,70,0,7200)\blur3}哦我心爱的她…愿你过得幸福
+Dialogue: 0,0:02:09.52,0:02:12.50,EDZH1,,0,0,0,,{\fad(300,300)\move(1320,70,1240,70,0,5500)\blur3}时光能抚平一切伤痕
+Dialogue: 0,0:02:12.10,0:02:15.44,EDZH1,,0,0,0,,{\fad(300,300)\move(1240,70,1320,70,0,5500)\blur3}忘记痛苦 不再畏惧
+Dialogue: 0,0:02:15.32,0:02:20.67,EDZH1,,0,0,0,,{\fad(300,300)\move(1320,70,1240,70,0,5500)\blur3}只因爱值得付出人生
+Dialogue: 0,0:02:20.47,0:02:23.18,EDZH1,,0,0,0,,{\fad(300,300)\move(1240,70,1320,70,0,5500)\blur3}尊贵…真诚…
+Dialogue: 0,0:02:22.98,0:02:27.45,EDZH1,,0,0,0,,{\fad(300,300)\move(1320,70,1240,70,0,5500)\blur3}她就像飘雪一样纯真
+Dialogue: 0,0:02:27.25,0:02:29.65,EDZH1,,0,0,0,,{\fad(300,2100)\move(1240,70,1320,70,0,5500)\blur3}哦我心爱的她…祝你活得甜蜜

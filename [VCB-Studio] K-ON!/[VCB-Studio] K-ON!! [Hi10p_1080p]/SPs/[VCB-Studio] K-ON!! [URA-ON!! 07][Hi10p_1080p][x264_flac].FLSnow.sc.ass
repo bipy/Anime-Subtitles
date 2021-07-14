@@ -1,0 +1,60 @@
+﻿[Script Info]
+; Sub by Flsnow
+; 片源：lippi henry
+; 翻译：小白
+; 时轴：zwc
+; 特效：cookie
+; 后期：ssnake ccdeblade
+; BD:ccdeblade reekilynn
+; http://bbs.flsnow.net
+Original Script: 雪飘轻音部
+Synch Point:0
+ScriptType: v4.00+
+Collisions:Normal
+PlayResX: 1920
+PlayResY: 1080
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,SimHei,68,&H00FFFFFF,&HF0000000,&H00ED2AAC,&H78E645B0,-1,0,0,0,100,100,3,0,1,3.15,1.8,2,45,45,15,1
+Style: Title,华康娃娃体W5,75,&H00000000,&HF0000000,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,5,45,45,15,1
+Style: Text,黑体,38,&H00000000,&H00FAFAFA,&H00FAFAFA,&H00FAFAFA,-1,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.98,Title,,0000,0000,0000,,{\pos(960,690)\b1\bord1.5\c&H422CD9&}樱丘歌剧团
+Dialogue: 0,0:00:04.98,0:00:09.98,Title,,0000,0000,0000,,{\b1\bord1.5\pos(891,765)\c&HD97182&}像{\c&H683AD9&}轻音部…
+Dialogue: 0,0:00:10.48,0:00:12.33,Default,,0000,0000,0000,,太棒了 罗密欧与朱丽叶
+Dialogue: 0,0:00:13.06,0:00:14.82,Default,,0000,0000,0000,,戏剧也不错呢
+Dialogue: 0,0:00:15.15,0:00:18.87,Default,,0000,0000,0000,,轻音部也别办live了 演戏吧
+Dialogue: 0,0:00:19.01,0:00:20.84,Default,,0000,0000,0000,,我们又不是戏剧社
+Dialogue: 0,0:00:20.97,0:00:22.92,Default,,0000,0000,0000,,所以说 轻音部要像轻音部
+Dialogue: 0,0:00:23.04,0:00:24.30,Default,,0000,0000,0000,,演音乐剧
+Dialogue: 0,0:00:24.87,0:00:26.88,Title,,0000,0000,0000,,{\fn@华康娃娃体W5\fs45\an7\pos(819,300)\frz274.661}音乐剧 纯洁的心
+Dialogue: 0,0:00:29.11,0:00:31.08,Default,,0000,0000,0000,,我们是…
+Dialogue: 0,0:00:31.67,0:00:34.22,Default,,0000,0000,0000,,刚出生的…
+Dialogue: 0,0:00:34.56,0:00:36.53,Default,,0000,0000,0000,,纯洁的…
+Dialogue: 0,0:00:37.26,0:00:38.84,Default,,0000,0000,0000,,心
+Dialogue: 0,0:00:43.09,0:00:45.98,Default,,0000,0000,0000,,fall in love
+Dialogue: 0,0:00:46.80,0:00:48.04,Default,,0000,0000,0000,,这个有点害羞耶
+Dialogue: 0,0:00:48.48,0:00:49.85,Default,,0000,0000,0000,,那么…
+Dialogue: 0,0:00:50.19,0:00:52.19,Title,,0000,0000,0000,,{\fn@华康娃娃体W5\fs45\an7\pos(819,300)\frz274.661}轻歌剧 先咖喱后米饭
+Dialogue: 0,0:00:54.44,0:00:58.41,Default,,0000,0000,0000,,我是胡萝卜 胡萝卜的说
+Dialogue: 0,0:00:58.65,0:01:02.64,Default,,0000,0000,0000,,圆葱圆葱圆葱葱
+Dialogue: 0,0:01:02.89,0:01:06.59,Default,,0000,0000,0000,,土豆土豆土豆豆
+Dialogue: 0,0:01:07.01,0:01:08.02,Default,,0000,0000,0000,,可恶的蔬菜
+Dialogue: 0,0:01:08.26,0:01:09.54,Default,,0000,0000,0000,,砍了你们
+Dialogue: 0,0:01:14.36,0:01:18.49,Default,,0000,0000,0000,,咕嘟咕嘟咕嘟咕嘟煮熟了
+Dialogue: 0,0:01:18.87,0:01:22.95,Default,,0000,0000,0000,,香料放得足足的
+Dialogue: 0,0:01:23.91,0:01:28.43,Default,,0000,0000,0000,,咖喱咖喱咖喱做好了
+Dialogue: 0,0:01:29.32,0:01:31.22,Default,,0000,0000,0000,,故事莫名其妙呢
+Dialogue: 0,0:01:31.73,0:01:32.87,Default,,0000,0000,0000,,那么那么
+Dialogue: 0,0:01:33.28,0:01:35.28,Title,,0000,0000,0000,,{\fn@华康娃娃体W5\fs45\an3\frz274.661\pos(1005,885)}时代剧 毛笔\N～圆珠笔
+Dialogue: 0,0:01:35.85,0:01:40.69,Default,,0000,0000,0000,,毛笔 fu fu
+Dialogue: 0,0:01:45.06,0:01:46.98,Default,,0000,0000,0000,,已经不是歌剧了…
+Dialogue: 0,0:01:47.23,0:01:48.88,Default,,0000,0000,0000,,还是像平常那样搞live吧
+Dialogue: 0,0:01:49.89,0:01:50.37,Default,,0000,0000,0000,,喂
